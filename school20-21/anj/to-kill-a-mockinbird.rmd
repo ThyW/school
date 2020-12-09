@@ -1,0 +1,18 @@
+---
+title: Homework - To Kill a Mockingbird
+author: Ján Kapko
+output: pdf_document
+---
+
+"It would be sort of like killing a mockingbird, wouldn't it?"
+
+# Atticus Finch:
+
+Atticus Finch is a lawyer, living with his two children, son Jem and his daughter Scout and their servant Calphurnia, who is an African-American. He's a smart and outgoing middle aged man, whose kind and rational approach to life is often a great example for his children and other people. He is fair and just when it comes to defending alleged criminals, never letting the social pressure exerted on him influence his judgement. In my opinion, Atticus is a great example for every single one of us. His reason and kindness, even to those who had wronged him are a great inspiration to me.
+
+# Arthur Radley:
+
+Arthur, or Boo, as we learn he's referred to as, is a young man living in an old and broken house. He's the typical example of an outsider, never leaving his house and always being shunned and slandered by his neighbours and other townsfolk. We learn that he's feared by our main protagonists, the Finch siblings. His intentions are only revealed at the end, when it's shown that he has a caring and altruistic character, as seen, by him risking his own life in order to save the children. I find him appealing, because I often find myself in his shoes, wanting to do good and help others, but not knowing how.
+
+# Heck Tate:
+Hector Tate is the county' sheriff and they are bosom buddies with Atticus. He also has a few mutual acquaintances with the Finch family. He's a diligent man of law who never fails to do his duties at hundred and ten percent, while at the same time, he is also able to know, when to take the glows off, so to speak, in order to achieve a greater good. I really appreciate his character, because of his sense of good and bad, and because of his ability to distinguish it.

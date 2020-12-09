@@ -1,0 +1,39 @@
+---
+title: Ulohy kmitavy pohyb
+author: Kapko
+output: pdf_document
+---
+
+# Otazky
+
+## 5 periodickyh pohybov
+- rucicky na hodinkach, jednoduche kyvadlo, driblovanie s basketbalovou loptou, obiehanie planet okolo slnka, pohyb zavazia zaveseneho na pruzine
+
+## Co je kmitanie?
+- Pobyb, pri kotorom sa teleso po urcitom vychyleni vzdy vrati do povodnej polohy
+
+## Charakterizuj mechanicky oscilator.
+- napriklad kyvadlo, je to pristroj schopny oscilacie, pri ktorom sa urcite hodnoty, napriklad poloha a rychlost, periodicky opakuju.
+
+## Ako sa da znazornit kmitavy pohyb?
+- grafom, sinusoidou
+
+## Ake veliciny popisuju kmitavy pohyb?
+- perioda: doba jedneho kmitu
+- frekvencia: kolko kmitov sa odohra za casovu jednotku
+- amplituda: maximalna vychylka
+- okamzita vychylka: vychylka v jednom casovom bode
+
+## Harmonicky a neharmonicky pohyb. Aky dej znazornuju?
+![Neharmonciky pohyb, napriklad ekg](/home/zir/Downloads/ekg.jpg)
+- Neharmonicky pohyb, napr. ekg
+![Harmonicky pohyb, napriklad kmytadlo](/home/zir/Downloads/sinusoid.jpg)
+- Harmonicky pohyb, napriklad pohyb planety okolo slnka
+
+## Rovnica
+$y = y_m \times \sin \times (\omega \times t)$ \
+
+## Rovnica 2
+$y = 0.08 \times \sin \times (2\pi \times f \times t)$ \
+$y = 0.08 \times \sin \times(\frac{2\pi}{0.25} \times t)$ \
+$y = 0.8 \times \sin \times (8\pi t)$ \

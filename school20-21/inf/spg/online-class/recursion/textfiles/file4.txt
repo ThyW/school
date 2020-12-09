@@ -1,0 +1,4 @@
+xx:Ankara
+x:Dushanbe
+z:DunajskaStreda
+x:Szeged

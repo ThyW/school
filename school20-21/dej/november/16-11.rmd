@@ -1,0 +1,21 @@
+---
+title: Russian civil war
+author: Kapko
+output: pdf_document
+---
+
+# Volby
+- bolsevici nevyhrali parlamentne volby a zmanipulovali vysledky
+- stali sa vladnucou stranou
+- toto sa stalo pricinou civiilnej vojny 
+- deje sa to zarovno s brestlitovksymi jednaniami
+- vodcovia "bielych": Kornilov, Kolcak, Wrangel, Denikim
+
+# Priebeh vojny
+- dohoda pomaha bielych
+- vyhraju "Cerveny"
+- vznik Revolucneho cerveneho terrou
+    - centrala v Petrohrade
+- vznik CEKA - prezident Dzjerninsky(poliak)
+- vrazda carovho brata a carovej rodiny
+    - najprv zabili carovho brata

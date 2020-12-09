@@ -1,0 +1,5 @@
+x:bratislava y:jordan
+c:Kyev k:Kielce
+textfiles/moreTextFiles/another.txt
+x:Verona a:Paris
+c:Hamburg

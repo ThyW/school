@@ -1,0 +1,43 @@
+---
+title: Vlastná indukcia
+author: J. Kapko
+output: pdf_document
+---
+
+### I. 
+v obvode sme mali 2 paralelné vetvy so žiarovkami, jedna z nich bola napojená cez cievku s feromagnetickým jadrom, druhá bola napojená cez rezistor. Pozorovali sme, že ktorá žiarovka sa rozsvieti a zhasne skôr
+
+### II. 
+skôr zhasne tá, čo je vo vetve s rezistorom, lebo vo vetve s cievkou bude pôsobením Lenzovho zákona prúd klesať postupne
+
+### III.
+indukčnosť
+
+### IV.
+plochou prierezu, počtom závitov na druhú a dĺžkou cievky
+
+### V.
+H - henry
+
+### VI.
+\(U_i = -L \times \frac{\Delta I}{\Delta t}\)
+
+### VII. 
+Bude sa indukovať prúd proti zmene. Pri zvyšovaní prúdu sa bude indukovať v opačnom smere a pri klesaní v smere prúdu.
+
+### VIII.
+
+#### a)
+\ \(t = ?\) \
+\(L = 5 H\) \
+\(I = 0.5 A\) \
+\(U_i = 10 V\) \
+\(t = -\Delta\frac{L \times I}{U_i}\) \
+\(t = 0.25 s\)
+
+#### b)
+\ \(L = 1,4 H\) \
+\(\Delta t = 0.01\) \
+\(U_i = 70 V\) \
+\(I = -\frac{U_i \times \Delta t}{L}\) \
+\(I = 0.5 A\) \

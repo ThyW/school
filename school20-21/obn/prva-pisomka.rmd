@@ -1,0 +1,292 @@
+---
+title: Opakovanie + handouty
+author: Kapko
+output: pdf_document
+---
+
+# Viacnasobna inteligencia
+
+## Jazykova inteligencia
+- dobre pisanie a rozpravanie
+- herci, politici, recnici
+- deti vedia dobre rozumniet cudzim jazykom a neskor ich aj dobre pouzivat
+
+## Vizualno-priestorova inteligencia
+- viacdimenzionalne myslenie, predstaviviost, detailne vnimanie tvarov a farieb
+- piloti, architekti, umelci
+- deti: labyrinty, kreslenie, daydreaming
+- puzzle, sach, rubikova kocka, orientacia v mapach
+
+## Telesno pohybova inteligencia
+- sportovci, tanecnici, lekari, chirurgovia
+- skvela kooridnacia
+- rychlost, obratnost, eye-hand coordination very good
+- sportovanie, trening, hranie v divadle
+
+## Hudobna(rytmicka) inteligencia
+- zmysel pre rytmus, ton a vyborny sluch
+- tvorenie hudby, pocuvanie hudby
+- skladatelia, hudobnici, tanecnici
+- + spievanie, a hranie na hudobne nastroje
+- niekedy spajana aj s matematikov
+
+## Logicko-matematicka 
+- iq testy testuju tuto inteligenciu
+- schopnost logicky uvazovat a rozumiet cislam
+- dedukcia, abstraktne myslenie, argumentacia, vyuzivanie vzorcov
+- detektiv, vedec, matematik
+- matematicke vztahy, strategicke hry, logicke problemy
+- + kartove a strategicke hry, sach, hadanky
+- matematicke kruzky
+
+## Prirodna inteligencia
+- schopnost zit v sulade s prirodou
+- laska ku prirode a zvieratam
+- staraju sa o prirodu, pracuju s prirodou 
+- farmari, opatrovatelia utulkov, tursiti, ludia co sa zaujimaju o nasu planetu, botanici, zahradni architekti
+- v minulosti vyskoko ceneny - recently klesa
+- recently - viac a viac, ekologice problemy, ako uzdrat nasu planetu
+
+## Inter-personalna inteligencia
+- medzi-osobna(socialna) inteligencia
+- pochopit a vychadzat s ostatnymi, chapat ich pociti
+- vysoky stupen empatie, dobri posluchaci 
+- herci, socialni pracovnici, politic, pravnici, psychologivia, marketing, ucitelia(mali by mat lmao)
+- prirodzeni vodcovia 
+- + v skupinach, socializacia, socialny kontakt
+
+## Intra-personalna inteligencia
+- rozumeju sami sebe
+- vedia co chcu, lepsie zvladaju stress, robia dobre rozhodnutia
+- hanblivi, ale poznaju svoje emocie a vedia ich dobre zvladat
+- filozof, knaz(nabozensky vodca), herec, spisovatel, psycholog
+- + plan osobnostneho rozvoja -> ciele kategorie
+- deti sa pozeraju do zrkadla
+
+## Existencialna a duchovna inteligencia
+- najviac recent
+- tito ludia si casto kladu meta-fyzicke otazky(nieco za fyzikov, nemame na to ziadne odpovede) 
+- preco som tu? aky zmysel ma moj zivot? existuje boh? zivot po smrti?
+- how did we get here? why do we die? 
+- hlboke myslienky, filozoficky orientovani 
+- filozof, teolog, vedec(A. Einstein) 
+- + studovat, citat, viac uhlov pohaldu 
+
+# Emocionalna inteligencia
+- Paul Ekman, 7 zakladnych emocii
+  - teraz ma cca 80 rokov
+  - 1. hnev 
+  - 2. pohrdanie(pridana ako posledna)
+  - 3. znechutenie
+  - 4. strach
+  - 5. stastie
+  - 6. smutok
+  - 7. prekvapenie
+- emocie sa prejavu skor ako si to uvedomujeme
+- tazko povedat co vyvola emocionalnu labilitu
+
+## Emocionalna inteligencia:
+- je to:
+  - sucast socialnej inteligencie
+  - vsimanie a monitorovanie emocii
+  - rozlisovanie emocii 
+  - vyuzivanie ich pri dalsom spravanii a mysleni
+- Iq vs Eq => 
+  - iq = vseobecna inteligencia, gauss. krivk.
+  - eq = nie su protiklay, da sa naucit, menej ovplyvnene dedicnostou
+- vysoky level Emocionalnej inteligencie
+  - empatia -> schopnost rozumiet ostatnym ludom okolo seba a pomoct im ale aj sam seba
+  - vacsie pochopenie
+  - lepsie rozhodovanie 
+  - spravanie pod kontrolou
+  - very good socialne a komunikacne schopnosti
+  - lepsie vztahy
+  - otvorenost voci kritike
+
+## Cit a emocia
+- prezivanie svojej vlastnej osobnej situacie/stavu
+- uvedomenie si vztahu ku posobiacemu impulzu
+- prijemne vs neprijemne
+- **5 zakladnyc vlastnosti citov**:
+    - 1. polarita: prichadzaju v paroch, maju opacny naboj, protiklady
+    - 2. miesanie: nic nie je len jeden cit, vzdy sa miesaju
+    - 3. aktualnost citov: city prezivame tu a teraz, su jedinecne, o minuty budu ine... neopakovatelne
+    - 4. trvanie citov: sekundu ale aj sto rokov, velmi variabilne
+    - 5. nakazlivost citov: napr. nakazlivy smiech, lahky presun citov medzi osobmai, nakazlive ako virus alebo choroba 
+
+## Druhy citov
+1. fyzicke city: ako prezivame stav naseho tela - hlad, unava, nespokojnost 
+2. emocionalna reakcia: odpoved na nejaku situaciu, ktora nastane v nasom okoli, narusena rovnovaha okolia - odpoved na narusenie; kratke, ale intenzivne; afekty, fobie
+3. citove stavy: dlhsie, stabilnejsie, menej intenzivny stav ako pri reakci, napr. nalada(dobra, zla, vesela), trema(zabudneme/nas to vyburcuje)
+4. citove vztahy: prezivanie nejakeho vztahu ku objektu/osobe/zvieratu, laska, nenavist, mat rad, citi averziu, priatelstvo vs nevrazivost
+
+# Dusevne zdravie a stres
+- psychicek zdravie: vnutorny a vonkajsi svet je v harmonii
+- psyhohygiena
+  - zachovanie zdravia
+  - prevencia pred poruchami
+- porucha: forma neprimeraneho prisposobenie vonkajsiemu prostrediu
+  - zmeny v prezivani spravani a komunikacii
+  - neprimerane zvladanie narocnych zivotnych situacii
+  - COPING: sposob vyrovnavania sa s zivotnymi problemami
+- Narocna zivotna situacia: prekonanie prekazky pre dosiahnutie vytyceneho ciela, ako jedinec
+  - prekazky: stres, konflikt, frustracia, izolacia
+- ***ako prekonavat narocne zivotne situacie??***
+  - **hnev** - najcastejsia forma je slovna agresia, proti zvieratam veciam a ludom, alebo proti vlastnej osobe
+  - **unik** - unik do inej cinnosti/ inej aktivity, zabudneme a vyhneme sa konfrontacii; drogy, gambling, alkohol
+  - **potlacanie**: rozhodnutie ignorovat problem, "all good haha", problem nas vacsinou dobehne
+  - **rezignacia**: necham to tak, nemam sa s problemom ako vysporiadat, nasleduje izolacia, vie ovplyvnit daslie zvladanie zivotnych situacii
+  - **racionalizacia**: "ja nemam problem, ostatne vsetko ma problem", vysvetlenie svojho zlyhania a obvinenie niekoho/niecoho ineho
+
+## Stres
+- stav velkej psychickej alebo fyzickej zataze organizmu
+- **3 fazy**:
+  1. alarm: uvedomime si nebezpecenstvo, CNS, *"fight or flight"*, primarny stres/ poplasna reakcia
+  2. rezistencia: stres pokracuje, gradualna strata energia, boj je pomaly prehravany
+  3. exhauscia: uplny kolaps organizmu, uvedomenie si prehry na plnej ciare
+
+- **Symptomy stresu**
+  - *fyzicke*: 
+    - zrychlene dychanie, busenie srdca, chvenie, high BP, sweating, sucho v ustach, hsia koza, chudnutie/priberanie, bolest svalov, vyrazky, caste chodenie na wc, bolest hlavy, kruhy pod ocami, bledost
+  - *psychicke/behavioralne*:
+    - uzatvorenost, placlivost, vubuchy hnevu, problem s koncentraciou, nesustredena praca, robenie chyb, starch/uzkost, vycerpanie, nespavost, zabudanie, prokrastinacia, nesikovnost, nevie logicky uvazovat, pozeranie z okna
+- na koho sa mozem obratit: vychovny poradca, skolsky psycholog
+- VP: ucitel + kurz, menej vazne problemy, ucenie, volba povolania, doveryhodny + sympaticky
+- SP: porfesionalny psycholog, pedagogicko-psychologicka poradna, komplikovanejsie problemy
+- **Antistresove pomocky**
+  - priroda, prechadzka v prirode
+  - cokolada 
+  - masazny pavuk
+  - newtonova koliska
+  - bublinkove, solne kupele s hudbou
+  - boxovaci mech
+
+# Dusevne poruchy
+- Dusevna porucha: odklon od sposobu vnimania a spravania psychicky zdraveho jedinca
+- zmena v spravani
+- problemy pri socialnej komunikacii a interakcii
+- zdedene alebo ziskane
+- ****3 zakladne skupiny
+
+## Neurozy
+- stredne tazke poruchy
+- prejavy uskosti a emocnej tiesne
+- funkcna porucha: osoba ktora nimi trpi, je stale schopna vnimat realitu a zapajat sa do zivota
+- zivote v realite
+- ziadne falosne predstavy
+- ziadne halucinacie
+- ***Pricini***
+  - nurochemicka nerovnovaha
+  - kazdodenny stres
+  - traumaticky zazitok
+  - smutok zo smrti blizkeho
+  - emocionalne vypatie
+  - zle zvladanie narocnych ziv. situcii
+- uzkostna porucha, OCD, hysteria, poruchy prijmania potravy, fobia, tiky/hryzinie nechtov
+
+- ****OCD
+  - obsesie
+  - kompulzie
+  - iracionalne spravanie
+  - uzkostne stavy
+  - iracionalny strach
+  - strata kontorly nad samym sebou
+  - agresivita
+
+## Psychozy
+- proususju osobnost
+- tazke dusevne poruchy
+- poruhca kontaktu s realitou
+- narusenie osobnosti
+- falsne prdestavy: bludy a halucinacie
+- problme so socialnym kontaktom 
+- neschopnost vykonavat bezne cinnosti
+* *Priciny*
+  - dedicnost
+  - narusenie chemickej rovnovahy napriklad omamnymi latkami
+  - nador v mozgu
+  - stres(vulnerabilita)
+  - dlhotrvajuca nespavost
+  - zneuzivanie v detstve
+- *Priklady*
+  - schizofrenia
+  - bipolarna porucha
+  - depresia
+  - hypochondria
+
+***Bipolarna porucha***
+- nadmerne zmeny nalad
+- vykyvy
+- euforicke vs depresivne
+- nespavost/insomnia
+- impulznivne spravanie
+- melancholia vs mania
+- sebaobvinujuce myslienky
+- samovrazedne myslienky
+- uzatvorenost, plac
+- zvysene sebavedomie
+- zvyseny sexualny apetit
+
+***Depresia***
+- symptomy
+  - pocit bezcennosti
+  - pocit viny za nieco
+  - pocit osamelosti
+  - pocit beznadejnosti
+  - pocit unavenosti -> je mu na odpadnutie
+  - insomnia
+  - nachilnost ku vybuchom hnevu
+  - zmena vahy: +/-
+  - problemy s koncentraciou
+  - bolesti svalov, zaludka, hlavy
+  - izolacia
+  - sebevrazedne myslienky
+  - zavislosti, maju pomoct s ulahcenim
+
+***Liecba***
+- antidepresiva - lieky predpisane odbornikom
+- pomoc psychologa - vyrozpravanie a dostanie problemu na povrch
+- socialny kontakt, clovek ktoremu sa mozem zverit zo vsetkym
+- vela spanku - spanok je dolezity -> prinasa odpocinok(casto lieky na spanok)
+- zdrave telo, fitness, a staranie sa o svoje telo
+- zdrava strava  
+- yoga, relaxacia, meditacia
+- mat denny plan, mat denny rozvrh, pomaha so sustredenostou
+
+***Schizofrenia***
+- ochorenie sposobene poruchou mozgu
+    - halucinacie 
+    - bludy, falosne predstavy
+    - vlastne myslienky(ozveny)
+    - pocit prenasledovania
+    - pocit nebezpecenstva
+    - agresivna nalada
+    - strata pamate
+    - dezorganizovana rec
+    - pprazdny pohlad
+    - extremna izolacia 
+    - bezdvovodny plac/smiech
+    - nedostatok motivacie
+    - emocna otupenost
+
+## Psychopatie
+- dlhodoba odchylka od bezneho fungovania zdraveho jedinca
+- protispolocenske poruchy osobnosti
+- antisocialna porucha osobnosti, sociopatia
+- nizke EQ, bezcitnost
+- egocentrizmus, narcizmus
+- odmietanie moralncyh a spolocenskych noriem
+- niektore crty osobnosti su skryte a niektore su vyvodene do extremu
+
+***Priciny***
+- dedicnost, hormonalne zmeny
+- poranenie mozgu, uraz hlavy
+- citova deprivacia v dedstve
+- fyzicke alebo sexualne zneuzivanie/ tyranie
+- dlhodoby stress
+- traumaticky zazitok
+
+- psychopatia
+- sociopatia
+- pedofilia, exhibicionizmus
+- chorobna ziarlivost, pyromania

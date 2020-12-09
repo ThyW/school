@@ -1,0 +1,37 @@
+---
+title: Krv
+author: Kapko
+output: pdf_document
+---
+
+## Agranulocyty 
+- Monocyty - Makrofagy - su schopne diapedezy a fagocytozy
+- Lymfocyty T - dozrievaju v tymuse, maju vyznam pri imunitnych reakciach
+- Lymocyty B - dozrievaju v lymfatickom tkanivea, maju vynam pri tvorbe protilatok
+
+
+# Krvene dosticky
+- pocet: 100 - 300.10^9 v litri krvi
+- vznikaju v cervenej kostnej dreni: **ako megakaryocyty, z ktorcyh sa odlamuju**
+- ziju asi 4 dni
+
+# Zrazanie krvi
+- pri poraneni, na okraj rany a na seba sa zacnu lepit krvne dosticky
+- vylucuju enzym TROMBOKINAZU
+- **Ca^2+ a vitamin K** -> bielkovina **PTROTROMBIN** sa meni na **TROMBIN**
+- toto posobi ze fibrinogen tvori fibrinovu siet
+- do tejto siete sa zachytavaju krvinky (definitivna zatka)
+  - ***brani krvacaniu a vytvara vhodne prostredie na regeneraciu***
+- sa proces zrazania spusti, vytvory sa **trombus**, ktory sa moze odtrhnut a upchat niektoru cievu v tele(infarkt, mozgova prihoda, tromboza)
+
+# Krvne skupiny
+- A, B, AB, 0
+- Aglutinogeny:
+    - A -> anti B
+    - B -> anti A
+    - AB -> anti ziadne
+    - ziadne -> anti A, anti B
+- existuje este jeden aglutino-gen **rH faktor**
+  - bud ho ma -> vtedy rH+: vacsina ludi je rH+
+  - alebo ho nema -> vtedy rH-
+

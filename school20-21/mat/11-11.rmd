@@ -1,0 +1,20 @@
+---
+title: Vektorova algebra
+author: Kapko
+output: pdf_document
+---
+
+# Vektorova algebra
+- vektor a skalár
+- Vektor - velkost aj smer
+  - *F*  
+  - *B*
+  - *a*
+  - *v*
+- Skalár - len velkost
+  - *m* 
+  - *T*
+  - *p*
+  - *t*
+
+

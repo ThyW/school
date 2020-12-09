@@ -1,0 +1,4 @@
+x:Rome
+x:Venice
+d:Cairo
+x:Bejing

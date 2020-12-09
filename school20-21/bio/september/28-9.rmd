@@ -1,0 +1,55 @@
+---
+title: Oporna sustava 28.9. a 1.10.
+output: pdf_document
+---
+
+\tableofcontents
+
+# Oporna sustava
+- tvorene **spojivovimi** tkanivami
+  - **vazivove, chrupkove, kostne**  
+- cela tvorene kostami
+
+# Kost
+Kosti su: 
+- kratke - **rozmery su vsetky rovnake** - *stavec, hraskovita, zapastie*
+- dlhe - **jeden rozmer je vyrazne vacsi ak ostatne dva** - *stehno, rameno*
+- ploche - **jeden rozmer vyrazne mensi** - *lebka, panva*
+- nepravidelneho tvaru - **nevieme ich nikam zaradit** - *sanka*
+- **osofikacia kosti** - *skostovinatenie*, napriklad po narodeni dietata mam na lebke len vazivo, ktore sa neskor stane kostou
+- najrpv **vazivova** napriklad casti lebky alebo **chrupavcita** - vacsina ostatnych 
+***Nakres: chrupavkovy model***
+
+## Chrupkovy model
+- vytvorenie **osifikacnych jadier**
+  - v *epifiyze a diafyze*
+  - **kostnatenie z jadier vsetkymi smermi**
+  - zostanu len *rastove platnicky*
+
+***Nakres: dlha kost :)***
+## Stavba dlhej kosti
+- koncove casti - **epifyza alebo nakoncie**
+- stred kosti - **diafyza alebo telo kosti**
+- povrch kosti je pokryty - vazivova blana -> **okostica**; je to vazivova blana
+- v strede kosti je dutina s kostnou drenou
+- do 18(Males az do 21) roku su medzi epifyzami a stredom kosti **rastove platnicky** zostavaju chrupavky
+- okolo okostice - **kompaktna kost alebo kompakta**
+  - usporiadanie kostneho tkaniva -> **Haversov system**
+- v epifyze je **spongioza**
+- vrch epifyzy je pokryty **klbovou chrupavkou**
+- po okraji celej kosti - **plastove lamely**
+  - *su ploche*
+  - na vrchu je *okostica*
+- oksostica obsahuje **nervy aj cievy**
+
+### Popis Diafyzy
+- V ***Kompakte***: 
+  - kruhy - **haversove lamely**  == **Haversov system**
+  - *Lamela*: **viac kruhov, v strede kruhov su tepny a zily**
+    - v priehlbeninach na kruhoch == **lakumach** sa nachadzaju bunky **ostreocity**
+    - *ostreocity* vedia **pridavat a odburavat vapnik**
+
+### Popis Epifyzy
+- nachazda sa tu **spongioza** 
+  - **trancovina** - *lamely* su na *seba ponapajane v roznych smeroch*
+  - poskytuje **odolnost voci tahu, tlaku a spevnenie roznym smerom**

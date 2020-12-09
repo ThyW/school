@@ -1,0 +1,49 @@
+---
+title: Stavovce 1. hodina, zmysly
+author: j.k. 
+output: pdf_document
+---
+
+# Stavovce     
+- vznik **mozgu**
+    + maximalne 5 casti(ryby az cicavce), najrpv 3 potom 4 casti(druhoustnice)
+
+- **kvorove analyzatory**(clovek) - spracovavanie informacii
+    + spracovavanie **zrak**u v **zahlavnom** lalok
+    + spracovavanie **sluch**u v **spankovom** laloku
+    + spracovavanie **cuchu** v **celovom** laloku(spojeny s decision making, ludia so slabo vyvinutym - careless)
+    + spracovavanie **chuti** v ?? 
+    + spracovavanie **hmatu** v ??
+
+- **predny mozog**
+    + vnimanie sveta cez kvorove anazlyzatory, 
+    + rec, 
+    + myslenie, 
+    + ukladanie informacii,
+    + koordinacia pohybov
+    + dve hemisfery - pokryte sedou mozgovou hmotou, a vnturo je biela mozgova hmota
+    + ***prehybanie mozngovej kvory suvisi so stupnom inteligencie = gyrifikacia***  
+
+- **stredny mozog**
+    + nempodmienene *zrakove* a *sluchove* reflexy
+
+- **mozocek**
+    + *lozko lat. talamus)* -> brana vedomia drahy do predneho mozgu
+    + *podlozko lat. hypotalamus* -> tvorenie hormonov, ktore sa vylucuju do hypofyzy
+    + koordinacia pohybov
+
+- **predlzena miecha**
+    + nervove drahy do celeho tela
+    + centra vsetkych zivotu potrebych reflexov - *dychnie, bitie srdca...*
+
+- **centralna nervova sustava** => mozog + miecha
+- **periferna nervova sustava** => nervy
+- **nevry** => dlhe bile vlakna 
+
+- **zmysly**
+    + *zrak*
+    + *chut*
+    + *sluch*
+    + *chuch*
+    + *kozny zmysel*(hmant, tlak, teplo)
+

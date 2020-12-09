@@ -1,0 +1,89 @@
+---
+title: Projekty & Vznik CSR (21, 22, 28, 29)
+author: jk
+output: pdf_document
+---
+
+1. TGM
+2. mr. stefanik
+3. csr legie
+4. Romanovci
+5. gulag
+6. pevnosti prvej csr republiky
+7. andrej hlinka
+8. hitler - atentaty
+9. jozef tiso
+10. vavro srobar
+11. rudolf viest
+12. vrba a wetzler
+   - **knihy**: Co dante nevidel, Utiekol som z osviencimu
+
+
+***JA MAM TEMU 11. Rudolf Vies***
+
+# Vznik  prvej CSR
+- **28. 8. 1918 | 30. 10. 1918(podpis martinskej zmluvy, slovaci sa pridavaju ku csr)**
+
+## Priciny
+
+- ***historicke***:  
+  - zapadni slovania -> samova risa => Velka Morava 
+    - cesi a slovaci mali ku sebe blizko
+  - husiti, 15. storocie 
+  - Mohac 1526 - Rakuska Monarchia
+  - Narodno Emancipacne Hnutie - **SNEH, CNEH**
+  - DETVAN - Masaryk, Stefanik, Benes
+
+- ***ideologicke***: 
+  - **ceskoslovensky narod** => politicky konstrukt
+
+- ***politcke***:
+  - zlozita narodnostna otazka 
+  - tazke reflekotvanie doby + vojna
+
+## Priebeh
+
+- ***odboj***
+  - vzopretie sa autoritam, protest proti niecomu s cim nesuhlasis, rebelia 
+  - **vlastizradci**
+  - **zahranicny** a **domaci** odboj 
+
+### zahranicny odboj
+  - ***1914*** - **Tomas Garik Masaryk** -> Francuzsko
+    - **Independent Bohemia** -> 
+      "vojna je prilezitost geopolitickym zmenam(aj pre Cechov a Slovakov)"
+  - ***1915*** - TMG -> USA - **Slovenska Liga**: A. Mamatej && I. Daxner + Cleveland 
+  - ***1916*** - Francuzsko -> TGM + MRS + Benes -> **Ceskoslovenska Narodna Rada** 
+  - ***1916*** - zalozenie **Ceskoslovenskych legii** -> legionari su oznaceny za **vlastizradcov**
+    - peniaze na legie od cechov a slovakov z **Ameriky**  
+    - vznik dokumentov na legitimizaciu CS Legii: **Kyjevsky zapis**
+    - evakuacia legii cez **Transsibirsku Magistralu**
+  - ***1917*** - CSNR pracuje; **zapajanie Legionarov na srbsky a ?? front**
+  - ***1918*** - Massaryk ide do **Ameriky prezentovat svoje napady na rozpad** - **Pittsburgska dohoda**
+    - **unitarny stat** nie **nie federacia** -> toto rozhodnutie kvoli dalsim mensinam na uzemi CS
+    - Oktober 1918 -> cisar Karol navrhuje federalizaciu monarchie -> **"Mym narodum"** -> **Washingtonska Deklaracia**
+    - WD -> vznikne **demokraticky stat**; **monarchia musi skoncit**; vznik samostatnych nastupnickych statov; vseobecne volebne pravo pre vsetkych aj pre zeny
+
+### domaci odboj
+  - ***1914*** - **Belvedersky kruh** + situacia v cechach a na slovenksu
+    - Belvedersky kruh: Belvedersky palac; **Frantisek Ferdinand si pozyval elity z celeho Uhorska** 
+      Pytal sa ich na ich vnimanie monarchie a co od nej cakaju - oni ho liberalizovali
+      zo slovenska - Jan Hodza
+    - TGM leaves -> v Cesku vznika **Maffia**
+      Karel Framas - prvy premier, Eduard Benes - minister ??
+    - *Maffia* - odboj, **pracuje v ilegalite**
+    - na slovensku -> SNS - Matus Dula, SLS - Andrej Hlinka, SOC. D. - Milan Derer, AGP - Vavro Srobar, Jan Hodza
+    - **vyhlasuju politicku pasivitu**
+  - ***1915*** - rusi pridu na severo vychod - **slovakom sa to prieci**
+    - *Maffia* sa dozvie o *Clevelandskej Dohode*
+  - ***1916*** - **Smrt Frantiska Jozefa**: berie sa to ako smrt a koniec monarchie
+    - *Karol a jeho zena Zita* -> stava sa **kralom**
+    - *Karol* zvolava **audit**
+      peniaze nie su, armada je na tom zle, atmosfera mimo viedne - nerakusania nie su motivovany bojovat
+  - ***1917*** - **Sixtova afera** 
+    - **pokus o separatny mier s Dohodou**
+    - dozvie sa to *Berlin* -> **Karol to hodil na Sixta**
+
+## Vyznam
+
+

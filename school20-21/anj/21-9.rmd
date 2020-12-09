@@ -1,0 +1,7 @@
+---
+title: Paragraph for inversion
+author: jano a tvaroh
+output: html_document
+---
+
+Only by combating climate change can we save the world. Never before have we seen such extreme weather. Not only were many crops devastated by insects, but also many crops were lost to droughts. Rarely has humanity come this close to the brink of extinction. All nations need to unite in an effort to save our planet and future generations. 

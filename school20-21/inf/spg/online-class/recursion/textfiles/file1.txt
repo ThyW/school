@@ -1,0 +1,6 @@
+x:Poprad c:Budapest
+d:Brno
+x:Prague
+c:Vienna x:Maribor
+textfiles/file3.txt
+textfiles/moreTextFiles/buga.txt

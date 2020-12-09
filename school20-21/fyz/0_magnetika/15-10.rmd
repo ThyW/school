@@ -1,0 +1,87 @@
+---
+title: Ulohy
+author: Jan Kapko
+output: 
+        pdf_document:
+                extra_dependencies: ["siunitx"]
+---
+
+1. Priklad
+
+# Zapis:
+\(B = 80m\si{\tesla}\) \
+\(I = 2.5\si{\ampere}\)
+
+### Uloha a:
+\[F = 12m\si{\newton}\]
+\[l = \frac{F_m}{B * I * \sin\alpha}\]
+\[l = 6\si{\cm}\]
+
+### Uloha b:
+\[F = 3m\si{\newton}\]
+\[\sin\alpha = \frac{F_m}{B * I * l}\]
+\[\sin\alpha = 25\]
+\[\alpha = \ang{14,33}\]
+
+2. Priklad
+
+# Zapis
+\(I_1 = 6\si{\ampere}\) \
+\(I_2 = 8\si{\ampere}\) \
+\(l = 0.85m\) \
+\(d = 0.12m\) \
+
+### Uloha a:
+
+\[B = \frac{\mu_{0}}{2\pi} * \frac{I_1}{d}\]
+\[B = 3,33 * 10^-6\si{\tesla}\]
+
+### Uloha b:
+
+\[F_m = \frac{\mu_0}{2\pi} * \frac{I_1 * I_2}{d} * l\]
+\[F_m = 6,8 * 10^-5\si{\newton}\]
+
+3. Priklad
+
+# Zapis 
+
+\(B = 1,2\si{\tesla}\) \
+\(r = 0.018m\) \
+\(Q = 1.6 * 10^-19\si{\coulomb}\) \
+\(m_p = 1.7 * 10^-27 kg\)
+
+### Vypocet:
+
+\[r = \frac{mv}{BQ}\] \
+\[\frac{1}{v} = \frac{m}{BQr}\] \
+\[v = \frac{BQr}{m}\] \
+\[v = 2.03 * 10^6 m/s\]
+
+4. Poznamky
+
+# Elektromotor na jednosmerny prud
+- premiena elektricku energiu na mechanicku energiu
+- silove posobenie magnetickeho pola na zavit s prudom
+
+## Zlozenie:
+- stator
+  - permanentny magnet
+- rotor
+  - otacajuca sa cast elektormotora
+- komutator
+  - rotacny prepinac, dostava do rotora prud
+
+## Fazy:
+- 1. faza:
+  - rotor sa zacne posobenim sily otacat
+- 2. faza:
+  - rotor sa otocil o 45 stupnov, smer tocenia je rovnaky
+- 3. faza:
+  - rotator otoceny o 90 stupnov 
+  - neposobia nan sily -> **mrtva poloha**
+- 4. faza: 
+  - otocene o dalsich 45 stupnov
+  - rotator sa prepoloval a opat posobi magneticka sila v rovnakom smere
+- 5. faza: 
+  - opat v prvej faze, tocia sa stale v rovnakom smere
+  - rozdiel je, ze poly su rozdielne

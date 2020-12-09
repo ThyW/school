@@ -1,0 +1,5 @@
+---
+title: Kostra - hranie sa na hodine
+author: J.K
+output: pdf_document
+---

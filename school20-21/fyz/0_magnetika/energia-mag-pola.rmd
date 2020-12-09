@@ -1,0 +1,20 @@
+---
+title: Energia magnetcikeho pola cievky
+author: Kapko
+output: pdf_document
+---
+
+# TODO
+- za cas $\Delta t$ narastie $\Delta I$
+- ak rqastie I, rastie aj E -> o \(\Delta E_m\)
+- el. sily konaju pracu
+
+\(W = \Delta E_m = P \times \Delta t = \) \
+= \(U_i \times I \times \Delta t = \) \
+= \(U_i = L \times \frac{\Delta I}{\Delta t}\) \
+= \(\Delta E = \Sigma \times \Delta I\) \
+\(\Sigma = L \times I\) \ 
+\(E = \frac{1}{2} \times L \times I^2\) unit = [J] \
+
+- **Energia zavisi od druhej moocniny el. prudu** a *indukcnosti*
+- energia sa premeni na teplo

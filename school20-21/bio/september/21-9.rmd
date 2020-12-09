@@ -1,0 +1,60 @@
+---
+title: Pisomka a tkaniva - epitel, spojive, svalove a srdce  
+author: Jan Kapko
+date: 21.9.2020
+output: pdf_document
+---
+
+# Pisomka z filogenez 
+- nervova, rozmnozovanie
+- ***28.9.***
+
+# Tkaniva
+- bonku s rovnakym povodom a rovnakym tvarom a rovnakou funkciou
+
+1. ***Epitelove tkaniva***
+- pokryva *povrch tela a oraganov*, *vystiela vnutorne dutiny*, vytvara *zmyslove organy*
+
+- **krycy** epitel
+- **riasinkovy** epitel
+- **zmyslovy** epitel
+
+2. ***Spojivove tkanivo***
+- *spaja* a *tvori oporou* telu
+
+- **vazivove tkanivo**
+- **chrupavkove tkanivo**
+- **kostne tkanivo**
+
+- obsahuje *specialne bunky* a *medizbunkovu hmotu*
+- **medizbunkova hmota**
+  - *vlaknita*(kolagenove a elasticke vlakna) alebo *beztvara*(geloidna)
+  - od pomeru hmoty zavisy konzistencia tkaniva(kolagen - pevnost, elasticke - pruznost)
+
+- *vazivo*: **fibrocity a medizbunkova hmota**
+- *chrupavka*: **kontrocity a medizbunkova hmota**
+- *kostne*: **osteocity a medizbunkova hmota**
+
+3. ***Svalove tkanivo***
+- tvorene **svalovymi bunkami**
+  - v citoplazme - svalove vlakenka: **myofibrily**
+  - **myozin** a **akatin** sa striedaju
+  - z *myozinu* vychadzaju *hlavice*: 
+    - v pokoji sa nedotykaju
+    - pri *signale* sa dotknu *aktinu* a vitahnu ich medzi seba
+    - na stiahnutie sa minie **ATP** - po obnoveni mnozstva sa sval uvolni
+
+- sal sa vie *stiahnut* aj o **50%**
+
+- **Hladke svaly**
+  - bunky *vretenoviteho* tvaru
+  - *steny ciev*
+
+- **Priecne pruhovane svaly**
+  - dalsi vyvin *hladkych* svalov
+  - jedna bunka ma tvar vlakna s **tupymi koncami** a **mnohymi jadrami**
+  - *viac jadier* ovlada jednu bunku
+
+4. ***Srdce***
+- **sprava sa ako hladke, struktura priecne pruhovaneho**
+- je *neunavitelne*, neustale pracuje

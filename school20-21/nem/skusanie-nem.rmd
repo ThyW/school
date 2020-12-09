@@ -1,0 +1,13 @@
+---
+output: pdf_document
+---
+
+# Lukas
+Lukas ist eine kleiner Junge. Sine größter Wunsch ist es, mit seinen Freunden wandern zu gehen. Es sagt, er wäre froh glücklich, wenn sie jede Woche eine Wanderung mit seine Freunde machen könten. Ich glaube, wenn Korona endet, wird dieser Wunsch in Erfüllung gehen. Er würde auch gerne besser im Yoga werden, und er würde gern eine Kopfstand zu lernen. Ich würde an seiner Stelle mehr praktizieren. 
+
+# Hassane 
+Hassane is ein Junger Mann aus Afrika. Er würde gern ein besseres wohnen haben und einen neuen Fernseher zu kaufen. Am Hassane Stelle würde ich mehr Jobs bekommen, um mehr Geld zu verdienen. Dann Hassane hätte gern eine Handy, damit dem er seine Familie anrufen kann, und er hätte gern eine Mofa, damit er schneller zur Arbeit kommen kann. An seiner Stelle würde ich anfangen, mehr Geld zu sparen.
+
+# Ich
+Ich hätte gern eine neuen Computer, damit es schneller geht. Ich denke,dass wenn ich Geld sparen beginnen, ich kann mir im Laufe eines Jahres es kaufen.
+Aber mein gröster Wunsch ist es, besser Deutsch zu sprechen.

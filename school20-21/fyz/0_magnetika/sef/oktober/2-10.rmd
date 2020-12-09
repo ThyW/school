@@ -1,0 +1,66 @@
+---
+title: Zatazovacia charakteristika zdroja
+output: html_document
+---
+
+## Uloha
+zdroje - elektro motoricke napatie
+zapojime podla schemy
+pozerame prud a napatie
+reostatom sa meni prud v odvode
+vypocitanie sktraotveho prudu
+
+Lab. praca: Zavislost svorkoveho naatia zdroja od elektrickeho prudu v obvode
+
+Tvar Ohmovho zakona pre cely obvod:
+
+$U_e = (R + R_i)I$
+
+$U_e = RI + R_iI$
+
+$U_e = U + R_iI$
+
+**Pomocky:**
+- vodice
+- ampermeter
+- voltmeter
+- zdroj
+- variabilny rezistor
+
+**Navod:**
+
+1. Zmerajte napatie nezatazeneho zdroja - tzv. eletktromotoricke napatie $U_e = ...$
+2. Elektricky obvod podla schemy:
+3. Pomocou jezdca reostatu mente hodnoty napatia a pdurud v obvode. Odcitajte 10 roznych hodnot a zostavte tabulku nameranych hodnot.
+4. Zostavte graf zavislosti $U = f(I)$
+5. Urcite vnutorny odpor zdroja. Vzorec pre vypocet vnutorneho odporu je .......
+6. Vypocitajte, aky prud by prechadzal zdrojom pri skrate.
+
+Vzorec pre skratovy prud je:
+
+
+7. Vysvetlite preco nelezia vsetky body zistene meranim na jednej priamke. Vymenujte mozne priciny chyb merani.
+8. Popiste, ako zavisi svorkove napatie od elektrickeho prudu v obvode.
+
+
+***Zapis ulohy***
+
+$U_e = 18.2 V$ Elektromotoricke napatie
+
+| U               | I                 |  R_i      |
+|-----------------+-------------------+-----------|
+|              16 |              0.14 |       20. |
+|            16.7 |              0.15 |       14. |
+|           16.45 |              0.17 | 13.823529 |
+|            16.9 |              0.19 |       10. |
+|              16 |              0.22 | 12.727273 |
+|            16.3 |              0.26 | 9.6153846 |
+|            15.6 |              0.31 | 10.322581 |
+|            15.9 |              0.38 | 7.6315789 |
+|            14.6 |              0.46 | 9.1304348 |
+|              14 |              0.68 | 7.0588235 |
+
+Vzorec pre skratovy prud je: 
+\begin{align*}
+        $I_s = \frac{U_e}{R_i}
+\end{align*}

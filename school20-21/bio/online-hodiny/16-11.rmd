@@ -1,0 +1,63 @@
+---
+title: Cievna sustava cloveka
+author: Kapko
+output: pdf_document
+---
+
+# Krv
+- sustava rurok v ktorej tecie tekutina, *krv*
+- tekuty organ
+- tvori asi 8-9% hmotnosti cloveka
+- bez problemov mozeme stratit aj **pol litra**
+- Strata 1,5l ohrozuje zivot
+- funkcia: prenost latok(o2, co2, ziviny, metabolity, teplo); udrziava pH krvi a osmoticke pomery; zucastnuje sa obranyschopnosti organizmu
+
+## Sedimentacia krvi
+- rychlost usadzovania cervenych krviniek
+- muz 3-8mm/h zena 7-12mm/h
+- vysetrenie zapalovych procesov v organizme
+- krvi v skumavke zabranime v zrazani
+- po urcitej dobe sa krvne castice usadia podla hmotnosti
+- hruba spodna vrstva su erytrocyty
+- nad nimi tenka vrchna vrstba su leukocyty a trombocyty
+- nad nimi je vrstva krvenj plazmy (zltkasta tekutina)
+- **pri zapalovych procesoch sedimentacia stupa**
+
+## Zlozenie 
+- krvna plasma, krvne telieska
+- hematokrit - pomer medzi krvnou plazmou a krvnymi telieskami
+
+### Krvna plzama
+- anorganicke latky 
+    - hlavne voda 90%
+    - iony anorganickych soli
+- organicke latky
+    - bielkoviny krvnej plazmy
+    - albuminy - udrziavaju vodu na svojom povrchu, globuliny - protilatky, fibronogen - bielokvina umoznujuca zrzanie krvi
+    - cukry - glukoza(glykemia 4,5-5,5 mmol.l^-1) - ak nemame -> do komy a potom smrt
+    - tuky
+
+### Krvne telieska
+- cervene krvinky
+- biele krvinky
+- krvne dosticky
+
+#### Cervene krvinky
+- nemaju jadro - tvoria sa v kostnej dreni
+- ziju priblizne 120 dni
+- okruhle, v strede z oboch stran preliacene
+- obsahuju hemoglobin - cervene krvne fabivo
+- pocet: 
+    - muz 4,3 - 5,3 * 10^12 v litri krvi
+    - zena 3,8 - 4,8 * 10^12 v litri krvi
+
+#### Biele krvinky
+- bunky s jadrom, mnohe z nich su chopne **fagocitozy**
+- pocet: 4 * 10^9 v litri krvi
+- ziju len niekolko hodin alebo niekolko rokov
+- rozdelenie:
+    - Granulocyty - v cytoplazme farbitelne zrniecka
+      - neutrofily, eozinofily, bazofily
+    - Arganulcoyty - bez farebnych zrniecok
+      - lymofcyty, monocyty
+- dyapeteza -> prechod z krvneho obehu do tkaniva a opacne

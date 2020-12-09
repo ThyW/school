@@ -1,0 +1,49 @@
+---
+title: Kinematika kmitavych pohybov
+author: Kapko
+output: pdf_document
+---
+
+# Kmitanie/ Kmitavy pohyb
+- struna, stare hodiny
+- **Kmitanie**: dej, ktory ked sa opakuje, tak sa teleso vzdy vracia do svojej povodnej polohy.
+- **Oscilator**: zariadenie, ktore kona kmytavy pohyb
+  - **mechanicky** - kyvadlo, zavazie na pruzine
+- **Pricina kmitania**: sily \(F_g a F_p\)
+
+## Frekvencia a perioda
+- **Perioda**: doba jedneho kmitu T[s] 
+- **Frekvenica**: \(T = \frac{1}{f}\), \(f = \frac{1}{T} = [Hz]\)
+
+## Casovy priebeh kmitaveho pohybu
+- v case zaisujeme ako **sinusoidu**
+- ak sme v bode [x, 0] tak vychyla je minimalna
+- ak sme v bode [x, 1] tak vycvhylka je maximalna
+  - y: **okamzita vychylka**
+- v lubovolnom case $T_1$ mam vychulku $y_1$
+- $y_m$ je maximalna vychylka: **amplituda**
+
+$y = y_m \sin{\Phi}$ \
+$\Phi = \omega t$ \
+$\omega = \frac{\Delta \Phi}{\Delta t}$ \
+- **zakladna rovnica**:
+\ $y = y_m \times \sin \times(\omega \times t)$ \
+$y = y_m \sin (2 \pi ft)$ \
+
+- okamzita vychylka
+- amplituda
+- f, T
+
+### Priklad
+$y_m = 0.06 m$ \
+$T = 0.5 s$ \
+$y = y_m \sin(\omega t)$ \
+$y = y_m \sin(\frac{2 \pi}{T} t)$ \
+$y = y_m \sin(4\pi t)$ \
+$y_{(t)} = 0.06 \sin(4\pi t)$ \
+$y_{0.15 s} = 0.06 \sin(4\pi \times 0.15)$ \
+$y_{0.15 s} = 0.06 \sin (0.6 \pi)$ \
+$y_{0.15 s} = 0.06 \times 0.95$ \
+$y_{0.15 s} = 0.057 m$ \
+
+- note to self **ked pocitame v stupnoch, tak za** $\pi$ **dosadzame 180**

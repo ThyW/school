@@ -1,0 +1,32 @@
+---
+title: Tkaniva Pokracovanie - nervove, krv
+author: JK
+output: pdf_document
+---
+
+5. ***Nervove tkanivo***
+- tvorene **neuronmi**
+  - hivezdicovity tvar s vybezkami, viac kratkych(**dendrity**) a jeden dlhy(**axon/ nerit**)
+  - gombikovite zakoncenie = **Telodendrie**
+- telo a dendrity - *seda bunkova hmota* 
+- axon - **biela myelinova posva**
+- rychlost prennosu informacii zavisi od **hrubky posvy**
+- **synapsie** = *telodenria* sa dotyka *tela* alebo *dendritu*
+  - prepojenie jedneho neuronu s druhym
+- na konci *telodendrie* -> **presynapticka** membrana 
+- na zaciatku tela alebo dendritu **synapticka** membrana
+- tvoria **synapticku strbinu** 
+  - vylucuju tu sa **mediatory/ neurotransmiteri**
+- bolest = 120 m/s => **speedy speed boi**
+
+6. **Krvne tkanivo**
+- tekute tkanivo
+  - tekuta zlozka - **plazma** a bunky **cervene krvinky/ erytrocity**
+  - plazma je *zltkasta alebo cajova* a cervene krvinky su *cervene*
+- bile krvinky = **leukocity**
+- krvne dosticky = **trombocity** - su to len *ulomky buniek*
+- vsetky tieto bunky vznikaju v **cervenej kostnej dreni**
+- *kostna dren* = v detstve cervena; potom zozltne a u dospelych cervena len v plochych kostiach
+- erytrocity = 120 dni
+- leukocity = niekolko dni az niekolko rokov
+- najdlhsie ziju **pamatove leukocity**

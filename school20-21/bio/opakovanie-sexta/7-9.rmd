@@ -1,0 +1,19 @@
+---
+title: delenie
+output: pdf_document
+---
+
+# Nervova sustava
+- nezmar/ prhlivce => sietova - najrpimitivnejsia
+- **rebrovky** => sietova nervova sustava
+        - kmen ploskavce => gangliova nerv. sustava
+    - velke zhluky nerv. buniek => ganglia/ zauzleniny
+    - u ploskavcov sa tato nerv. sustava nazyva pasova 
+    - na zaciatku tela, dve velke ganglia, po bokoch tela nervove pasy z ktorych vybiehaju nervy
+
+- oddelenie **hlistovce** => pasova gangliova nerv. sustava 
+- oddelenie **makkyse** => gangliova rebrickova nerv. sustava 
+    - niektore zauzleniny sa zvacsily; najvacsie v hlave, svalnate nohe, vnutornostnuom vaku
+- kmen **obruckavce** => gang/ rebrickova; rebricek na brusnej strane tela
+- kmen **clankonozce** => gang/ rebrickova, zvacane zauzleniny v niektorych castiach tela
+- **druhoustovce/ stavovce** => rurkova nerv. sustava; neskor sa vyvija mozog a miecha

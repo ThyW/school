@@ -1,0 +1,12 @@
+---
+title: Rychlost a vychylenie kmitaveho pohybu
+output: pdf_document
+---
+
+# Rychlost
+
+$y = y_m \sin \omega t$
+$\omega = 2 \pi f$
+
+$r = y_m$
+$v_0 = \omega r$

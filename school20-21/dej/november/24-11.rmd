@@ -1,0 +1,35 @@
+---
+title: Stalin 
+output: pdf_document
+---
+
+# Stalin
+- prinos stalina 
+  - vyhra druhej svetovej vojny
+  - zvacsenie ruska
+
+# Obdobie Stalinovej diktatury
+- nastup k moci a obodbie do druhej svetovej vojny
+- '24 - '39
+
+## Struktura
+- vstup - vizitka ruska v 20. st
+- sposob vlady
+- vnutro-politicka situacia
+    - 1. ekonomika  
+    - 2. politicke processy
+    - 3. kazdodennost
+- zahranicno-politicka situacia
+
+### Vizitka
+- 1917 - '99 > rusko nasilna krajina(v kazdej urovni a kazdodennosti)
+- mena nasilnikov(vodcov): Lenin, Stalin, Chruscov, Breznev, Gorbacov(glasnost, perestrojka)
+- Titulky Stalina: univerzalny genius, ziariace slnko humanity, žula bolsevika, muz z ocele, cerveny car, krvavy pes 
+
+### Sposob vlady
+- zmanipulovane volby - kandiduje jedna politicka strana
+- ziadna sloboda zhromazdenia, cenzura
+- prikazova ekonomika
+- sudnictvo nastrojom politickej hry
+- obmedzena sloboda pohybu
+- tajna policia - CEKA -> NKVD -> KGB

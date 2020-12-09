@@ -1,0 +1,134 @@
+---
+title: Anayza - Kapitanova dcera
+author: Jan Kapko
+output: pdf_document
+---
+
+# Noetika (obsah)
+
+## Motívy:
+\text{\underline{láska}}, vojna, chudoba, smrť, rodina, manželstvo, revolúcia, povstanie, klamstvo,
+detstvo, dospelosť, česť, rešpekt, oddanosť, služba, poddanstvo, šľachta
+
+# Poetika (forma)
+
+## Žáner
+- romantická historická novela
+- vety, strofy, verše
+
+## Makrokompozícia: v percentách:
+- Informačný SP: 10%
+- Výkladový SP: 15%
+- Opisný SP: 25%
+- Rozprávací SP: 50%
+
+## Mikrokompozícia: pásmo rozprávača a pásmo postav
+- Pásmo rozprávača: 80%
+- Pásmo postav: 20%
+
+## Kompozícia: Fabula
+- **Kompozícia**
+  - fabula = sujet; chronologická kompozícia
+- **Postavy:**
+  - Peter Andrejevič Griňov: hlavná postava, mladý dôstojník
+  - Andrej Petrovič Griňov: otec hlavnej postavy, šľachtic, vojak
+  - Avdoťja Vasilievna: matka hlavnej postavy
+  - Saveľjičov: koniar, priateľ a sluha hlavnej postavy, starec
+  - monsieur Beaupré: učiteľ hlavnej postavy počas detstva, opilec, vyhnaný jeho otcom kvôli opilstvu
+  - Ivan Ivanovič Zurín: rotmajster husárskeho pluku, Petrov priateľ
+  - Jemeľjan Pugačov: vodca povstania proti šľachte, samozvaný cisár, záporná postava, ktorá je však ukázaná ako normálny človek s dobrým srdcom, dobrý a ústretový ku hlavnej postave
+  - Mária Ivanovna: mlade dievča, zaľúbená do hlavnej postavy, krehká a múdra
+  - Ivan Kuzmič Mironov: Marin otec, prostý a neučený vojak, dobrý a veľmi statočný, kapitán Belogorskej pevnosti
+  - Vasiliasa Jegorovna: Marina matka, žena Ivana Kuzmiča, múdra a starostlivá
+  - Alexej Ivanovyč alebo Švabrin: seržant v Belogorskej pevnosti, nepriateľ hlavnej postavy, žiarli na jeho lásku ku Márii, pretože on ju žiadal o ruku a ona ho odmietla
+  - Ivan Ignaťjič: poručík v Belogorskej pevnosti, pravá ruka kapitána, dobrý a srdečný starec
+
+- **Priestory**
+  - Griňovsky statok, simbirská dedina: *str. 7*
+  - Simbirsk: *str. 12*
+  - krčma pri ceste: *str. 22*
+  - Orenburg: *str. 26*
+  - Belogorska pevnosť: *str. 29*
+  - Pugačovova pevnosť/osada: *str. 102*
+  - Kazan, väzenie: *str. 127*
+
+- **Čas**
+  - 1772 - 1774
+
+- **Scény (zaujímave)**
+  - súboj so Švabrinom
+  - boj o Belogorskú pevnosť
+  - stretnutie s Ivanom Zurínom v mestečku
+
+- **Predmety**
+  - zajačí kabát
+  - kord
+
+- **Iné**
+
+## Kompozičné princípy
+- narácia - základným prvkom je fabula
+- použitie kontrastu:
+  - emócie sú v kontraste s racionálnym rozmýšľaním - napríklad Peter vs Saveľjičov
+  - bohatstvo a chudoba
+
+## Dramatizujúce prostriedky
+- Krátke vety: 
+  - "Hlúposti!" "No a?" *str. 11*; Saveľjič sa rozplakal *str. 16*
+- Nedokončenie vety: 
+  - "zle je, chujava..." str. *19*
+- Priama reč
+- Anafora:
+  - "Krajina ty moja, krajinôčka,
+    krajina ty moja neznáma!" *str. 17*
+
+## Rytmus
+- rým - v básniach na začiatku kapitol
+
+## Výrazové prostrieky
+- Exklamácia: 
+  - "Hej, dobrý človek!" *str. 20*
+- Inverzia:
+  - "Hádam strom, hádam človek, ale vari sa to hýbe" *str. 20*
+- Apostrofa:
+  - "Vystúp pán urodzený, už sme došli." *str. 22*
+- Prirovnanie: 
+  - "som sťa duša bez tela" *str. 84*
+  - "Žili sme ako jedna duša" *str. 9*
+- Metafora:
+  - "Prebehol po mne oheň." *str. 47*
+- Epiteton:
+  - "spánok spravodlivých" *str 9.* 
+  - "v opojnom vytržení" *str. 47*
+
+# Fonetika, fonológia
+
+## Lexika
+- cudzie slová 
+  - "monsieur" 
+- expresívne výrazy:
+  - "kamienky", "decká", "handričky", "hlavička"
+- archaizmy:
+  - "chujava": (snežná búrka)
+- historické slová
+  - "kord": meč, "versta": jednotka, 1.18 km, "groš": peniaz
+
+## Morfológia
+- prevažujú podstatné mená, prídavné mená, príslovky, slovesá
+- citoslovcia v priamych rečiach:
+  - "Juj, ty psí syn!" *str. 61*
+
+## Syntax
+- onikanie - historicky vyjadruje prejav úcty
+
+# SEKUNDÁRNE ZDROJE
+
+## Jemeľjan Pugačov
+- kozák
+- niekoľko krát vo väzení
+- vzbura - roľnícke povstanie
+  - 1773 - 1775
+- chytený, odsúdený a popravený
+
+- https://www.britannica.com/biography/Aleksandr-Sergeyevich-Pushkin
+- https://en.wikipedia.org/wiki/Yemelyan_Pugachev

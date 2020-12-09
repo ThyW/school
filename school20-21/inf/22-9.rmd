@@ -1,0 +1,7 @@
+---
+title: Temy a prva hodina
+output: html_document
+---
+
+***MOJA/E Tema/y:*** 
+

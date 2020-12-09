@@ -1,0 +1,65 @@
+---
+title: VIM
+author: J. Kapko, Septima
+date: 6.10.2020
+output: beamer_presentation
+---
+
+# Úvod
+- Základne informácie
+- Módy
+- Teória editovania
+- Ukážka 
+
+# Základné informácie
+- Bram Moolenar
+- 1991
+- klon editoru **vi** + pridané veci
+- módový textový editor
+- **veľmi konfigurovateľný**
+
+# Módy
+- 4 hlavné módy
+
+# Normal mode
+- **základný mode**
+- **nedá sa v ňom písať**, len **hýbať** a **používať editorové príkazy**
+
+# Insert mode 
+- ***i***
+- umožňuje vpisovanie nového textu do súboru
+
+# Visual mode
+- ***v***
+- pohyb ako v *Normal mode*, avšak pri pohybe sa zvýrazňuje text po ktorom sa hýbe
+- na zvýraznenom texte sa dajú robiť operácie
+
+# Command line mode 
+- **spúšťanie príkazov**
+- napríklad na menenie rôznych nastavení alebo spúšťanie iných programov 
+
+# Teória editovania
+- **home row**
+- ruky stále na **klávesinci**
+- koncept ***motions a operations***
+
+# Motions
+- **smery editovania**
+- *slovo, riadok, paragraf alebo blok kódu*
+
+# Operations 
+- **menenie obsahu súboru**
+- *change, delete, replace...*
+
+# Configurability
+- *vimrc/init.vim*
+- **VimScript/Lua**
+- *plugins*
+
+# Ukážka 
+- PuTTy
+- vim example
+
+# Zdroje
+- https://en.wikipedia.org/wiki/Vim_(text_editor)
+- vim -> *:help*

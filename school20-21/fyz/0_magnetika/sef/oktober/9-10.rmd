@@ -1,0 +1,39 @@
+---
+title: Kirchhoffove zakony
+author: JK
+date: 9.10.2020
+header-includes: 
+        - \usepackage{siunitx}
+output: pdf_document
+---
+
+# 1. zakon
+- uzol - miesto kde sa stretava viacero vodicov
+- **Sucet prudov v uzle sa rovna nule**
+- **prud ak vchadza do uzla, ma znaminko + a ked vystupuje, ma znamienko -**
+
+\begin{equation}
+ I - I_1 - I_2 - I_3 = 0
+ I = I_1 + I_2 + I_3
+\end{equation}
+
+# 2. zakon
+- **Sucet elektromotorickych napati zaradenych zdrojov, sa rovna suctu napatovych ubytkov na jednotlivych rezistoroch** 
+
+## Priklady
+\begin{align}
+\begin{equation}
+ R_1 &= 2\si{\ohm} \\
+ R_2 &= 4\si{\ohm} \\
+ R_3 &= 3\si{\ohm} \\
+ U_1 &= 8 \si{\volt} \\
+ U_2 &= 5 \si{\volt} \\
+ U_3 &= ? \si{\volt} \\
+ I_1, I_3 &= ? \\
+ I_2 &= 1 \si{\ampere}
+ I_2 - I_1 - I_3 &= 0 \\
+ U_{e1} + U_{e2} &= - R_1I_1 - R_2I_2 \\
+ -Ue_2 - U_{e3} &= R_2I_2 + R_3I_3
+\end{equation}
+\end{align}
+

@@ -1,0 +1,85 @@
+---
+title: Vznik CSR &21-9.rmd + Pisomka z prvej svetovej vojny
+author: Jan Kapko
+output: pdf_document
+---
+
+***PISOMKA Z PRVEJ SVETOVEJ VOJNY 5.10.***
+
+**TEST - kriteria pre hodnotenie pojmov**
+- okolnosti vzniku
+- ciel pojmu
+- plus a minus, zhodnotienie
+
+**POJMY - Pisomku**
+pacifizmus X
+klerikalizmus a anitklerikalizmus X
+koncept a rovnovaha velmocii X 
+spolok 3 cisarov + 3 dohoda + 3 spolok(centralne mocnosti) + srdecna dohoda X
+vseslovanska zajomnost X
+Jar narodov X
+svata aliancia X
+dualizmus X
+velkonemecka koncepcia X
+imperializmus a socializmus(marxizmus) X
+restauracia X
+liberalizmus X
+zolacionizmus X
+***Vysvetlene pojmy***
+- **militarizmus**
+  - krajina má mať silnú armádu a používať ju
+- **pacifizmus**
+  - vojna a násilie sú nepotrebné, konflikty by sa mali riešiť diplomaticky
+  - po WWI rastie jeho popularita
+- **klerikalizmus**
+  - zastupovanie cirkevných názorov v politike
+- **veľmoci, rovnováha veľmoci**
+  - FA, VB, RUS, NEM, R-UH
+  - najmocnejsie krajiny v europe
+  - rovnohava = maju sa balancovat armadami a zaujmami(aby sa neopakoval Napoleon)
+- **Spolok troch cisárov**
+  - voľné spojenectvo Nemecka, Ruska a Rakúsko-Uhorska
+  - kontrola nad východnou Európou, udržanie rovnováhy veľmocí
+  - nezhody medzi členmi, 1880s - rozpad
+- **Trojdohoda**
+  - VB, Francúzsko, Rusko
+  - na základe vzájomných dohôd medzi krajinami, menej formálna ako Trojspolok
+- **Trojspolok**
+  - Nemecko, Rakúsko-Uhorsko, Taliansko + Rumunsko
+- **Srdečná dohoda**
+  - "umierenie" Francúzska a VB, ukončenie 1000 rokov súbojov
+  - hrozba agresívneho Nemecka
+  - vyriešenie koloniálnych nezhod
+  - základ pre Trojdohodu
+- **Taliansko prevracia kabát**
+  - Taliansko je súčasťou trojspolku ale vo vojne je najprv *de facto* neutrálne
+    - je zle pripravené na vojnu, verejnosť chce mier, vnútorné nepokoje
+  - VB sľubuje Taliansku veľké časti Rakúsko-Uhorska a jadranského pobrežia
+  - marec 1915 - Taliansko vyhlasuje vonu Nemecku a Rakúsko-Uhorsku
+- **všeslovanská vzájomnosť**
+  - Ján Kollár
+  - rozdielne jazyky sú len nárečia
+  - myšlienka silného slovanského národa
+- **Jar národov**
+  - mnoho narodov sa pokusa o osamostatnenie a oslobodenie od monarchie
+  - 1848
+- **Svätá aliancia**
+  - spojenie Ruska, Pruska a Rakúska po porážke Napoleona
+  - katolíci (Rakúsko), protestanti (Prusko) a ortodoxní (Rusko)
+  - potláčanie liberalizmu, jednota štátu a cirkvi
+- **dualizmus**
+  - zväzok dvoch štátov - Rakúsko-Uhorsko
+  - zdieľajú vládcu a armádu, inak sú ale značne samostatné (i.e. majú vlastné parlamenty)
+- **Veľkonemecká koncepcia**
+  - spojenie všetkých nemecky-hovoriacich krajín
+- **imperializmus, socializmu**
+  - imperializmus = rozsirovanie vlady jednej krajiny na cudzich obcanov a cuzdie krajiny, casto vyuzitim vojensekj sily a ekonomickej kontroly
+    - related to colonialism and empire, but it's a distinct concept
+  - socializmus = politicky a ideologicky smer charakteristikcky spolocenskym vlastnictvom, typy socializmu nemaju jednu definiciu, ale spolocenske vlastnictvo je common element
+  - Komunisticke manifesto 
+- **reštaurácia**
+  - obnovenie tradičných monarchií
+- **liberalizmus**
+  - sloboda, suhlas raidenych(tych na ktorymi sa vladne), rovnost pred zakonom
+- **izolacionizmus**
+  - typ zahranicnej politiky, kde sa vladcovia rozhodli ze neriesenie problemov inych krajin je najlepsia moznost pre ich krajinu

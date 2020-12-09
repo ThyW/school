@@ -1,0 +1,18 @@
+---
+title: Stadt
+author: Kapko
+output: pdf_document
+---
+
+# Stadtleben
+Ich persönlich würde liber in den Stadt leben.
+Auf dem Land zu leben ist schön, aber die Vorteile einer Stadt zu haben, sind viel besser.
+Zuerst, Städte im Allgemeinen haben bessere Internetverbindung.
+Das ist gut für mich, weil ich brauche eine gute Internetverbindung.
+Ich benutze jeden Tag einen Computer zum Programmieren, und ich brauche ein gutes Internet, um Information zu finden, die ich brauche.
+Als nächstes gefällt mir das Transportwesen in Städten sehr gut. 
+Ich kann einfach aus meinem Haus herausgehen und innerhalb einer halben Stunde überall in der Stadt sein.
+Und schließlich haben die Städte eine viel bessere Infrastruktur.
+In einer Stadt gibt es viele Geschäfte, Bars, Kinos, Krankenhäuser und Parks.
+Das Beste ist, dass alles ganz in der Nähe ist, und mit den öffentlichen Verkehrsmitteln kommt man noch schneller dorthin.
+Auf dem Land zu leben hat viele Vorteile, aber für mich wäre besser in den stadt leben, weil es gefällt mir besser.

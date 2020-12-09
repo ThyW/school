@@ -1,0 +1,31 @@
+---
+title: Excersises
+author: Kapko
+output: pdf_document
+---
+
+# crime, criminal, verb
+- burglary, burglar, burgle
+- robbery, robber, rob
+- murder, murderer, murder
+- mugging, mugger, mug
+- kidnapping, kidnapper, kidnap
+- smuggling, smuggler, smuggle
+- bribery, briber, bribe
+- shoplifting, shoplifter, shoplift
+- pickpocketing, pickpocket, pickpocket
+- forgery, forger, forge
+- arson, arsonist, set fire to
+- drug dealing, drug dealer, deal drugs
+- joyriding, joyrider, go joyriding
+- theft, thief, steal
+- shoplifting, shoplifter, shoplift
+- vandalism, vandal, vandalise
+- blackmail, blackmailer, blackmail
+- hijacking, hijacker, hijack
+
+1. defendant
+2. innocence
+3. judge
+4. 
+5. reduced punishment

@@ -1,0 +1,42 @@
+---
+title: Ekonomika Stalina
+author: Kapko
+output: pdf_document
+---
+
+# Ekonomika
+- socialna rovnost
+- na ukor ludskych prav
+- "zivot, stastie, sukromny majetok"
+- totalita
+
+## Crty
+- statom riadena ekonmika
+- Gosplan -> menezuje ekonomiku
+    - strategicke plany, kto ma co vyprodukovat => "patrocnice"
+    - po piatich rokoch analyza uspechov
+- spolocenske vlastnictvo vyrobnych prostriedkov
+    - vsetko je v rukach statu
+- tazky priemysel -> oceliarstvo a hutnictvo
+    - uhlie, drevo, zelezo, metalurgia
+- brigady socialistickej prace
+    - vytvarali sa kolektivy 
+    - skupiny "namotyvovanych" pracovnikov -> viedli ku nadlimitovym vykonom
+    - "lamaci noriem"
+    - dostavali hrdinu socialistickej prace
+    - vyhody => divadlo, lepsie domy, dovolenky
+    - Stachan -> ten co to odstartoval
+	- na jednej smene, namotivoval kolegov a vyrubali 14x viac uhlia
+
+## Dedina
+- "vecna stopa"
+- likvidacia sukromneho vlastnictva na dedinach
+- likvidacia KULAKA
+- vacsina nesuhlasila, NKVD malo povolene sa ku hospodraskemu majetku dostat akokolvek
+- SOUCHOZ, KOLCHOZ
+
+# Monster procesy
+- politicke procesy, blown out of proportion
+- **target**: odporcovia rezimu(neprisposobyvi obcania), intelektuali(stalin sa ich bal), 
+  cirkev(klerus), slachta, kulaci, 
+- legitimizovanie monster procesu => **triedny nepriatel**

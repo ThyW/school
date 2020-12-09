@@ -1,0 +1,71 @@
+---
+title: Kosti ludskeho tela 
+author: J. Kapko
+header-includes:
+   - \usepackage{siunitx}
+output: pdf_document
+---
+
+# Ludska Kostra
+- **chrbtica**
+
+## Chrbtica
+![Chrbitca](/home/zir/Downloads/bio-5-chrbtica.jpg)
+- krcne 7
+- hrudnikokve 12
+- driekove 5 ---> **posledna cast miechy v 2. driekovom stavci**
+- krizove 5 ---> krizova kost
+- kostrcove 5-7 ---> do **kostrcovej kosti**(3-4cm dlha)
+
+
+- **ostatne stavce pospajane klbami**
+- **dva krat S-ovo prehnuta**
+
+### Skladba stavca
+![Stavec](/home/zir/Downloads/bio-5-stavec.jpg)
+
+- **telo stavca**
+- **2 bocne vybezky**
+- **trnovy vybezok**
+- **2 klbove vybezky** ---> tu na seba stavce nadvazuju
+- **medzistavcova platnicka** ---> *tlmia narazy stavcov* -> je **chrupavcita**; vonkasia cast: tvrda; v strede: polotekuta
+- **otvor stavca** ---> tu sa nachadza miecha
+
+### Krcne stavce
+- 1. krcny stavec ---> **nosic/atlas**
+  - **nema telo**
+  - na vrchu ma **dva klby na spojenie s lebkou**
+    - preto nevieme otacat hlavu o viac ako 180\si{\degree}
+- 2. krcny stavec ---> **capovec/axis/epistrofeus**
+  - **zub capovca**
+  - **trci do atalsu -> okolu zubu vieme otacat hlavu**
+
+## 2 krat S-ovite prehnuta 
+- **kyfoza** -> prehuntie chrbtice do do **zadu** (hrudnikova, krizova)
+- **lordoza**-> prehuntie chrbtice do **predu** (krcna a driekova)
+
+# Hrudny kos
+
+## Rebra
+- rovnako rebier ako hrudnych stavcov (12)
+
+### Prvych 7
+- rebra prirastaju na stavce a hrudnu kost
+- pri hrundom spoji su to chrupavky
+- **prave**
+
+### Daslie 3
+- prirastaju na ostatne rebra
+- **neprave**
+
+### Poslednd 2
+- nespajaju sa s nicim
+
+# Pletence koncatin
+- horne a dolne 
+- horne(klucna kost a lopatka) 
+  - upvennie pre ramennu kost
+- dolne (panva)
+  - klbovo spojene s krizovou kostou
+
+# Koncatiny

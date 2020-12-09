@@ -1,0 +1,24 @@
+---
+title: Faradayov zakon 
+author: Jan Kapko
+output: 
+    pdf_document:
+            extra_dependencies: ["siunitx", "hyperref"]
+---
+
+# Otazky
+
+### 1. Charakterizujte jav elektromagnetickej indukcie
+Jav, pri ktorom vznika elektromotoricke napatie vo vodici pohybom magnetu z cievky a do cievky 
+
+### 2. Aka je zakladna podmienka vzniku indukovaneho napatia vo vodici
+Ze magnet sa musi pohybovat
+
+### 3. Popiste aspon jeden pokus ukazujuci elektromagneticku indukciu
+Po vlozeni magnetu do cievky sa v cievke indukuje napatie a prud. Toto mozeme pozorovat ako vychylku na voltmetri.
+
+### 4. Napiste od coho zavisi velkost idukovaneho napatia vo vodici
+Od rychlosti zmeny magnetickeho indukcneho toku ze dany cas, plochy slucky a velkosti uhla medzi magnetom a cievkou
+
+### 5. Preco sa rucicka na voltmetri vzdy vrati do nulovej polohy?
+Lebo zmena magnetickeho toku je nulova a napatie sa neindukuje

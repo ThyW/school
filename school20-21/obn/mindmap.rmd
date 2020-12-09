@@ -1,0 +1,93 @@
+---
+title: MM
+output: pdf_document
+---
+
+
+# Siesta hlava
+
+## Prezident
+- hlava statu
+- voleny obcanmi v tajnych volbach
+- kandidatov navrhuju poslancy NR a obcania 
+- zvoleny kandidat z nadpolovicnym poctom hlasov v prvom alebo druhom kole volieb
+- zlozy slub
+<!-- TODO: pozriet to--!> 
+
+
+### Povinnosti
+- zastupuje SR navonok, dojednava a ratifikuje zmluvy
+- prijma a poveruje vyslancov 
+- zvolava ustanovujucu schvodzu NR 
+- moze rozpustit NR
+- podpisuje zakony
+- vymenuva a odvolava predsedu a clenov vlady 
+- vymenuva a odvolava veducich ustrednych organov a vyssich statnych funkcionarov
+- zapoziciava vyznamenania 
+- udeluje amnsetiu a zmiernuje tresty
+- hlavny velitel OS
+- vyhlasuje vojnovy stav
+- nariaduje mobilizaciu
+- vyhlasuje referendum
+- moze vratit zakon s pripomienkami do 15 dni 
+- podava NR spravy o stave SR a zavazych politickych otazkach
+- ma pravo si vyzdavota informacie na plnenie svojich uloh (od vlady)
+- vymenuva a odvolava sudcov ustavneho sudu
+- vymenúva a odvoláva sudcov, predsedu a podpredsedu Najvyššieho súdu, generalneho prokuratoraa trcho clenov Sudnej rady
+- rozhoduje o povereni vlady a dava suhlas na vykon jej posobnosti
+
+---
+# check stuff ^^ 
+---
+
+### Kriteria volieb
+- 40 rokov
+- max 2 krat zvoleny
+- nesmie po zvoleni konat inu platenu funkciu
+- po zvoleni sklada slub
+
+---
+# more stuff to check^^ 
+---
+
+### Odvolavanie prezidenta
+- viac ako 6 mesiacov si nemoze konat svoju funkciu
+- ludovim ohlasovanim
+- moze byt stihany len za umyselne porusenie ustavy alebo vlastizradu
+
+##  Vlada slovenskej republiky
+- vrcholny organ vykonnej moci
+- predesa, podpredsedovia a ministri
+- predsedu vyvolava prezident
+- zodpoveda sa NRSR
+- ak demisiu poda predseda, tak ju poda cela vlada
+
+# Hlava 8
+
+## Prokuratura
+- chrani prava a zakonom chranene zaujmi fyzickych a pravnickych osob a statu
+- na jej cele stoji generalny prokurator
+- vymenuva a odvolava ho prezident na navrh NRSR
+
+## Verejny ochranca
+- nezavisly organ SR, ktory chrani zakladne prava a slobody fyzickych a pravnickych osob
+- voli ho NRSR na obdobie 5 rokov
+- moze byt zvoleny obcan nad 35 rokov, ak je volitelny za poslanca NRSR, moze byt clenom politickej strany alebo politickeho hnutia
+- VOP nemoze byt odsudeny clovek, funkcia konci ked je VOP odsudeny za trestny cin
+- moze ho odvolat NRSR ak mu zdravotny stav po dobe 3 mesiacov nedovoluje vykonavat funkciu
+
+# Hlava 4
+- zakladom ozemnej spravy je obec
+- uzemnu spravu tovori obec a vyssi celok 
+- obec a vyssi uzemny celok su pravnicke osoby
+- obec a vyssi uzemny celok financuju svoje potreby z statnych dotaci a vlastnych primov
+- organmi obce su obecne zastupitelstvo a starosta obce
+- organy vyssieho uzemneho celku su zastupitelstvo a preseda vyssieho uzemneho celku
+
+# Hlava 1
+- Slovenska republika je zvrchovany, demokraticky a pravny stat
+- Uzemie SR je jednotne a nedelitelne
+- hranice sa mozu menit len ustavnym zakonom
+- Vo vlastnictve SR je nerastne bohatstvo, jaskyne, podzemne vody a prirodne liecive pramene
+- do zvazku z inymi statmi moze SR vstupit na zaklade slobodneho rozhodnutia
+- Statnymi symbomy su statny znak, statna vlajka, statna pecat a statna hymna

@@ -1,0 +1,80 @@
+---
+title: Excersises and translations
+output: pdf_document
+---
+
+# 2. Translations
+- mouse - (počítačová) myš
+- file - súbor
+- folder - priečinok
+- hard drive - pevný disk
+- flash drive - USB kľúč
+
+- store - uskladniť
+- copy - kopírovať
+- paste - prilepiť
+- cut - odstrihnúť
+- user name - používateľské meno
+ 
+- profile - profil
+- link - odkaz
+- chat - čet/ online konverzácia
+- forum - fórum
+- network - sieť
+ 
+- sign up - zapísať/ prihlásiť
+- sign in - zaregistrovať sa
+- log in - prihlásiť sa
+- log out - odhlásiť sa
+- update - aktualizovať
+ 
+- Web page - webstránka
+- browser - prehliadač
+- homepage - domovská stránka
+- search engine - vyhľadávač
+- website - internetová stránka
+ 
+- delete - vymazať
+- save - uložiť
+- heal - liečiť
+- cure - vyliečiť
+- use - použiť
+ 
+- socket - zásuvka
+- channel - kanál
+- switch - prepínač
+- record - záznam
+- virtual - virtuálny
+ 
+- invention - vynález
+- observation - pozorovanie 
+- research - výskum
+- hypothesis - hypotéza
+- phenomenon - fenomén
+
+# 1. Usefulness 
+- Science
+- Technology
+- Scientific advances
+- Scientific discipline
+- Information technology
+- Computer addiction
+- Space technology
+- Computer age
+- Digital divide
+- Technological tools
+- Scientific experiments
+
+Firstly, I put the words, that represent the most abstract concepts.
+Secondly I put less abstract words such as Information technology, Space technology. 
+Lastly, I put the least abstract words.
+
+# 3. Exercises
+- Exercise 1
+  - remote control, mobile phone, computer, e-mails, vacuum cleaner, microwave oven, dishwasher
+
+- Exercise 2
+  - discover, invented, turn it off and unplug it, copy, memory card, search engine, browser, download, anti-virus, update, sign up
+
+- Exercise 3
+  - development, innovations, react, invented, discovered, analysed, combined, a technophobe, a technophile, safeguards, an experiment, genetic engineering, molecular biology, cybernetics, nuclear engineering, breakthrough, life expectancy

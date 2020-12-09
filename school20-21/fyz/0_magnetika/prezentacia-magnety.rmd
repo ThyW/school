@@ -1,0 +1,29 @@
+---
+title: Kontorla mincí v automatoch
+author: Ján Kapko
+output: beamer_presentation
+---
+
+# Ako funguje automat?
+- zákazník vloží peniaze
+- vyberie si položku
+- automat mu vráti zvyšok z platby a jeho vybratú položku
+
+# Automat
+![](/home/zir/Downloads/fyz-vending-machine.jpg)
+
+# Ako automat kontroluje peniaze?
+- svetelné senzory na kontrolu veľkosti mince
+- elektromagnety na kontrolu typu kovu
+
+# Elektromagnety?
+- kontrola na základe magnetických vlastností kovov
+- podla toho, ako sa minca správa v magnetickom poli, vieme určiť jej materiál(jej zloženie)
+
+# Zdroje
+- https://bizfluent.com/how-does-4572360-vending-machines-read-money.html
+- https://treasurepursuits.com/how-to-identify-metals/
+- https://www.coinworld.com/news/precious-metals/how-vending-machines-know-coins-real-or-fake-coin-world-buzz.html
+
+# this is a new header
+- this is  

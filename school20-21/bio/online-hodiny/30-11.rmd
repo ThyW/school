@@ -1,0 +1,57 @@
+---
+title: Krv, miaga, srdce
+author: Kapko
+output: pdf_document
+---
+
+# Rh faktor
+- Rh pozitiv Rh +
+- Rh negativ Rh -
+- Rh faktor nema ziadny prirodzeny aglutinin v krvnej plazme
+- Rh - dostane krv od Rh +, tak si jeho telo zacne vytvarat protilatky prot
+  novym (Rh +) krvinkam a aglutinuje ich
+
+# Taknivovy mok a miazga(lymfa)
+- krv, taknivo, lymfa tvoria mimobunkove prostredie organizmu
+
+## Tkaninovy mok
+- nachadza sa medzi bunkami a v tkanivach, vznika filtraciou krvnej plazmy
+
+## Miazga
+- prudi v lymfatickych cievach, v nich su chlopne a miazgove uzliny -> cistia lymfu
+- tekutinu a metabolity nasavaju z medzibunkoveho prostredia
+- Miagove kapilary -> miazgove cievy -> miazgove kmene -> hrudnikovy miazgovod -> usti do zilovej krvi za klucnymi kostami
+- pohyb krvi, svalov a gravitacia
+
+# Srdce
+- VKO, MKO
+- l. predsien, l. komora => dvojcipa mitralna chlopna
+- p. predsien, p. komora => trojcipa chlopna
+
+## MKO
+- krv prudi do pravej predsiene -> dolna a horna duta zila
+- dalej putuje do pravej komory, odkial prudi plucnicov do pluc
+- 4 plucne zily -> do lavej predsiene
+- tepny -> odkyslicena, zily -> okyslicena
+
+## VKO
+- lava predsien -> lava komora -> telo -> odkyslicena krv do pravej predsiene
+- tepny -> okyslicena, zily -> odkyslicena
+
+## Zlozenie
+- obalene osrdcovnikom
+- stena => 3 vrstvy
+    - epikard -> vonkajsia blana
+    - myokard -> svalovina srdca
+    - endokard -> vnutorne dutiny
+
+## Cinnost srdca
+- systola -> stah -> vytlaca krv
+- diastola -> ochabnutie -> plni sa krvou
+- cinnost srdca sa prejavuje: 
+    - srdcove ozvni
+    - tep = 70/min
+    - elektricky prejav -> ekg
+- srdcovy tlak -> tlak v tepnach, systolicky a dialstolicky
+- hodnota -> 80/120 normalny tlak dospeleho cloveka
+- zavisi od vonkajsieho prostredia, veku, psychickeho stavu a aktivity

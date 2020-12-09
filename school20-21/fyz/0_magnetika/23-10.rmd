@@ -1,0 +1,83 @@
+---
+title: Ulohy - Magneticky indukcny tok
+author: J. Kapko
+output: 
+        pdf_document:
+                extra_dependencies: ["siunitx", "hyperref"]
+---
+
+# Poznamky
+- orientovany zavit
+  - dohodnutie kladneho smeru obehu
+- stvorcovy zavit
+  - okraj = vodic
+- normalovy vektor orientovaneho zavitu
+  - kolmy na zavit
+  - v polpriestore nad nazvitom
+
+## Magneticky indukcny tok
+\section{Definicia}
+\label{sec:def}
+- oznaceny symbolom velke fi $\Phi$
+- priamo umerny poctu indukcnych ciar pretinajucich plochu zavitu a prechadzajucim z priestoru pod zavitom do priestoru nad zavitom
+
+\(\Phi = B \times S \times cos\alpha\) \
+
+- kladny, zaporny, nulovy
+  - 1. \(cos\alpha = \ang{0}\)
+  - 2. \(cos\alpha = \ang{90}\)
+  - 3. \(cos\alpha = \ang{180}\)
+
+\([\Phi] = \si{\tesla} \times m^2  = \si{\weber}\) \
+
+- Wilhelm Edward Weber
+- viac zavitov = vacsi efekt indukovaneho napatia
+
+\(\Phi = N \times B \times S \times cos\alpha\) \
+\(N = pocet zavitov\)
+
+# Priklady a ulohy
+
+## 1. uloha
+Nestacionarne magneticke pole je take magneticke pole, ktoreho veliciny sa menia s casom.
+
+## 2. uloha
+\hyperref[sec:def]{\textbf{\textit{Definicia}}}
+
+## 3. uloha
+\(\Phi = B \times S \times cos\alpha\) \
+
+- B = magneticka indukcia
+- S = plocha zavitu
+- cos $\alpha$ = uhol, ktory zviera normalovy vektor a vektor magnetickej indukcie
+
+## 4. uloha
+\(\Phi_{max} : \alpha = \ang{0}\) \
+\(\Phi_{min} : \alpha = \ang{180}\) \
+\(\Phi_{0} : \alpha = \ang{90}\) \
+
+## 5. uloha
+- jednotku weber = $\si{\weber}$
+
+## 6. uloha
+Da sa zmenit zmenou velkosti magnetickej indukcie, zmenou uhlu $\alpha$ alebo zmenou plochy zavitu
+
+## 7. uloha a)
+\(B = 1.4\si{\tesla}\) \
+\(r = 10 \si{\centi\meter} = 0.1 \si{\meter}\) \
+\(S = \pi \times r^2 = \pi \times 0.1^2 = 0.0314 m^2\) \
+\(\pi = 3.14\) \
+\(\alpha = \ang{60}\) \
+\(\Phi = B \times S \times cos\alpha\) \
+\(\Phi = 1.4 \times 0.0314 \times cos 60\) \
+\(\Phi = 0.0219 \si{\weber}\)
+
+## 7. uloha b)
+\(r = 0.05 m\) \
+\(\alpha = \ang{30}\) \
+\(\Phi = 0.04 \si{\weber}\) \
+\(\pi = 3.14\) \
+\(S = \pi \times r^2 = 0.00785 m^2\) \
+\(B = \frac{\Phi}{S \times cos\alpha}\) \
+\(B = \frac{0.04}{0.00785 \times cos 30}\) \
+\(B = 5.88 \si{\tesla}\) \

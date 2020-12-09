@@ -1,0 +1,40 @@
+---
+title: Ulohy
+author: Kapko
+output: pdf_document
+---
+
+# 1.
+\(r = 0.02 m\) \
+\(N = 500\) \
+\(d = 0.4 m\) \
+\(I = 5 A\) \
+\(S = \pi \times r^2\) \
+\(S = 0.00126 m^2\) \
+\(E = \frac{1}{2} \times L \times I^2\) \
+\(E = \frac{1}{2} \times \frac{N^2 \times \mu \times S \times I^2}{d}\) \
+\(E = \frac{1}{2} \times \frac{500^2 \times 4 * \pi * 10^-7 \times 0.00126 \times 25}{0.4}\) \
+\(E = 0.012 J\) \ 
+
+# 2.
+\(I = 100 A \) \ 
+\(L = 0.05 H \) \
+\(E = 0.5 \times L \times I^2 \) \
+\(E = 0.5 \times 0.05 \times 10000\) \
+\(E = 250 J\)
+
+# 3.
+\(\Delta\phi = 0.008 Wb\) \
+\(\Delta t = 0.4 s\) \ 
+\(U = \frac{\Delta \phi}{\Delta t} \) \
+\(U = \frac{0.008}{0.4} \) \ 
+\(U = 0.02 V\) \ 
+
+# 4.
+\(\Delta I = 0.5 A\) \
+\(\Delta t = 0.01 s\) \
+\(U = 80 V\) \
+\(L = -U \times \frac{\Delta t}{\Delta I}\) \
+\(L = -80 \times \frac{0.01}{0.5}\) \
+\(L = -1.6 H\) \
+

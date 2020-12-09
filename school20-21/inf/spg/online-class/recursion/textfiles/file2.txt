@@ -1,0 +1,4 @@
+c:Minsk
+textfiles/file1.txt
+x:Riga
+x:Belgrade

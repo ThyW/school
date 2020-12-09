@@ -1,0 +1,47 @@
+---
+title: Cheatsheet
+output: pdf_document
+---
+
+# Magneticky indukcny tok
+$\Phi = B \times S \times \cos \alpha$ \
+$[\Phi] = T \times m^2 = Wb$ \
+
+- B: Magneticka indukcia 
+- S: plocha vodica 
+- $\alpha$ : uhol normaloveho vektra
+- **Pre cievku:**  
+    - N: pocet zavitov cievky 
+
+$\Phi = N \times B \times S \times \cos \alpha$ \ 
+
+# Faradayov zakon
+$U_i = -\frac{\Delta \Phi}{\Delta t}$ \
+$[U] = -\frac{\Delta Wb}{\Delta s}$
+
+- **$\Phi$ sa moze casom menit:** 
+    - ak sa meni velkost B
+    - ak sa meni velkost S
+    - ak sa meni velkost $\alpha$
+    - kombinacia predchadzajucich
+
+# Vlastna indukcia
+$B = \mu \times \frac{N}{l} \times I)$ \
+\begin{flalign*}
+    \Phi &= N \times B \times S && \\
+    & = N \times S \times \mu \times \frac{N}{l} \times I && \\
+    & = (\mu \frac{N^2S}{l}) I && \\
+    & = LI && \\
+\end{flalign*}
+$L = \mu \frac{N^2S}{l}$ \
+
+- $[L] = H$ **henry**
+- **Indukovane napatie:** 
+
+$U_i = -L \frac{\Delta I}{\Delta t}$ \
+
+# Praca na cievke
+$\Delta W = |U_i| I \Delta t$ \
+
+# Energia cievky
+$E_m = \frac{1}{2}LI^2$ \

@@ -1,0 +1,42 @@
+---
+title: Stadt vs Land
+author: Kapko
+output: pdf_document
+---
+
+# Stadt
+
+## Pro
+- viele Geschäfte und Restaurants
+- gute Transportmethoden
+- bessere Arbeitsmöglichkeiten
+- mehr Orte zum Knüpfen von Kontakten
+- bessere Gelegenheiten, neue Leute kennenzulernen
+- leicht mit anderen Städten zu verbinden
+
+## Kontra
+- überfüllt
+- nicht genug Natur
+- Lärm
+- die Natur ist weit weg
+- hohe Kriminalitätsraten
+- viele Ablenkungen
+
+
+# Land
+
+## Pro
+- Friede
+- fast kein Lärm
+- saubere Luft
+- man kan ihre Gemeinde besser kennen
+- man kann Nutztiere haben
+- eine andere Kultur
+
+## Kontra
+- alles ist wiet weg
+- mehr Arbeit rund um Ihr Haus
+- man kann sich nicth sozialisieren
+- schlechte Internet und mobile verbindung
+- viel Rauch aus den Nachbarhäusern
+- fast keine Geschäfte

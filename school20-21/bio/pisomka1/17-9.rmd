@@ -1,0 +1,43 @@
+---
+title: Stavovce - nervova sustava, 2. hodina  
+author: j.k. 
+output: pdf_document
+---
+
+# Receptory
+- **exteroreceptory** - vonkajsie prostredie 
+    - *hmat, teplo*
+
+- **interoreceptory** - vnutorne prostredie
+    - *svaly a slachy* = proprioreceptory
+    - *steny ciev* = ovplyvnovanie toku krvy
+
+- **chemoreceptory** 
+    - *cuch, chut*
+
+- **mechanoreceptor**
+    - *sluch*
+
+- **fotoreceptroy**
+    - *zrak*
+
+# Rozmnozovanie
+- **nepohlavne** = dieta je identicke s rodicom
+    - chyby sa dedia
+
+- **pohlavne** = *gamety*  
+    - *zivocichy* - spermie a vajicka
+    - *rastlinne* - oosfera(F) a spertmatozoid(M)
+    - v pohlavnych organoch
+    - oplodnenie
+
+- **gonochoristi** a **hermafroditi**
+
+- **izogamia, anizogamia, oogamia**
+  - **izogamia**: fyziologicky odlisne, morfologicky podobne a pohyblive
+  - **anizogamia**: samcia je mensia, samicia je vecia, fyziologicky oldisne, morfologicky odlisne, pohyblive
+  - **oogamia**: fyziologicky odlisne, morfologicky podobe a pohybliva len samcia
+
+- **proterandicky hermafroditi**
+  - vacsina hermafroditov
+  - dozrievaju spermie skor ako vajicka

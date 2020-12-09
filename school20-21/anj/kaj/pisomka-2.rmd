@@ -1,0 +1,12 @@
+---
+title: Test
+author: Kapko
+output: pdf_document
+---
+
+Internet. I consider the invention of internet to be the most important invention for me and for all of mankind. The vast repertoire of abilities internet offers us, both as a species and as a single individuals are just mind boggling.
+For example, let's take the ability to communicate almost instantaneously. It is truly extraordinary, that something we weren't able to do 50 years ago, is now a daily driver for most of the world. Most of, if not all of our society is based on the ability to instantly transmit an encrypted message to a place, which would have taken us a few months to reach in the past. 
+
+Internet is not all fun and games however. Notice how I used the word encrypted message. Encryption allows us to create a cypher of our message, something only the intended recipient with the correct keys can read. This is very important, because imagine, if all your messages you send through the internet could be read by anyone. For you as an individual, this might not be that big of an issue, but imagine if anyone could read secret codes to a countries nuclear arsenal...
+
+You might think, that I offered more arguments against, than arguments for. It might seem that way, but in the end I consider internet to be the greatest invention, because in the end, pros outweigh the cons by a lot.

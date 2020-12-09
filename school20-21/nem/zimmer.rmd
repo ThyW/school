@@ -1,0 +1,23 @@
+---
+title: Traumzimmer
+author: Kapko
+output: pdf_document
+---
+
+# Meine Traumzimmer
+Ich möchte, dass mein Traumzimmer groß ist.
+Es sollte mindestens 2 Fenster haben.
+Ich möchte keine Dachschräge, weil das nimmt Platz weg.
+Ich möchte weiße Wänden.
+Es sollte einen dunkelbraunen Holzboden haben.
+Ich möchte eine minimalistische Menge an Möbeln, es sollte zum dunkelbraunen
+Thema passen.
+Ich möchte keine bestimmtest Motto haben.
+Ich möchte keinen begehbaren Kleiderschrank, weil er nicht zum minimalistischen Thema passt.
+Ich möchte viele elektrische Geräte, wie meinen Laptop, Computer und sogar einen kleinen Kühlschrank für meine Getränke.
+Ich möchte zur eine einzige große Lampe.
+Ich möchte ein großes, aber minimales Holzbett.
+Ich möchte keine Nachttish, weil Ich keine benutze.
+Ich möchte einfache Gardinen, die die ganzen Fenster bedecken.
+Ich möchte keine Bilder oder Poster.
+Ich möchte einen Balkon haben, damit ich an der frischen Luft ein Buch lesen kann.
