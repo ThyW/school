@@ -4,9 +4,26 @@ output: pdf_document
 ---
 
 # Rychlost
+$y = y_m \sin \omega t$ \
+$\omega = 2 \pi f$ \
+$r = y_m$ \
+$v_0 = \omega r$ \
+$v = v_0 \cos \alpha$ \
+$v = \omega y_m \cos(\omega t)$ \
 
-$y = y_m \sin \omega t$
-$\omega = 2 \pi f$
+- maximalnu rychlost dosahujeme v rovnovaznej polohe ak &y = 0$
+- minimalna rychlost je pri aplitude $v = 0$ ak $y = y_m$
 
-$r = y_m$
-$v_0 = \omega r$
+# Zrychlenie
+$a_0 = \omega^2 r$ \
+$a_0 = \omega^2 y_m$ \
+
+- zrychlenie smeruje do stredu, lebo dostrediva sila
+
+$\sin \alpha = \frac{a}{a_0}$ \
+$a = -a_0 \sin \alpha$ \
+$a = -\omega^2 y_m \sin \omega t$ \
+$a = -\omega^2 y$
+
+- zrychlenie je priamo umerne vychylke
+- v kazdom okamihu ma opacny smer
