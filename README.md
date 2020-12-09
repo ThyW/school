@@ -12,14 +12,14 @@ author: ...
 output: ...
 ---
 
-# ...
-...
-...
+# Sample heading
+- stuff
+- more stuff
 ```
 
-Na kovertovanie vieme pouzit online konvertor, `napriklad https://cloudconvert.com/md-to-pdf`
+Na kovertovanie vieme pouzit online konvertor, napriklad `https://cloudconvert.com/md-to-pdf`
 
-Subor .rmd si treba stiahnut, zmenit mu menu na `menosuboru.md` a dat z neho prec cast
+Subor .rmd si treba stiahnut, zmenit mu meno z `menosuboru.rmd` na `menosuboru.md` a dat z neho prec cast:
 ```rmd
 ---
 title: ...
