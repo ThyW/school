@@ -1,0 +1,57 @@
+#! /usr/bin/env python3 
+
+class Node:
+    def __init__(self, val):
+        self.val = val
+        self.next = None
+
+class LL:
+    def __init__(self):
+        self.head: "Node" = None
+
+    def i(self, n: int):
+        if self.head == None:
+            self.head = Node(n)
+        else:
+            cur = self.head
+            while cur.next != None:
+                cur = cur.next
+            cur.next = Node(n)
+   
+    def d(self, n: int):
+        if self.head == None:
+           return
+        if self.head.val == n:
+            self.head = self.head.next
+        else:
+            if self.head.next != None:
+                curr = self.head
+                while curr.next.val != n:
+                    curr = curr.next
+                if curr.next.next != None:
+                    join = curr.next.next 
+                    curr.next = join
+                else:
+                    curr.next = None
+    def pt(self):
+        cur = self.head
+        while cur!=None:
+            print(cur.val,)
+            cur = cur.next
+    def pe(self, n):
+        if self.head != None:
+            was = self.head
+            node = Node(n)
+            node.next = was
+            self.head = node
+
+l = LL()
+
+l.i(3)
+l.i(6)
+l.i(9)
+l.d(6)
+l.pe(1)
+
+l.pt()
+
