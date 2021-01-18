@@ -1,0 +1,20 @@
+---
+title: TITLE
+author: AUTHOR
+output: pdf_document
+---
+
+a. The job attracted me 5. 
+b. available 8. 
+c. response 1. 
+d. Currently 3. 
+e. As someone, suitable 4. 
+f. attached my CV 2.
+g. taking, consider 7. 
+h. requirements 6. 
+
+- 3. mention your present situation
+  - I am in a need of a job, due to the corona virus shutting my prior company down and as a consequence, it went bankrupt.
+- 4. explain why you are suited for the job
+  - I think I am a suitable candidate, because I have prior experience with working with people who are long-term unemployed. I have been working at a firm similar to yours for 3 years, right after gruaduating University. 
+    

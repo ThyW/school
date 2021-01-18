@@ -1,0 +1,15 @@
+---
+title: Vylucovacia sustava
+author: Kapko
+output: pdf_document
+---
+
+# Vylucovacia sustava
+- plni funkciu vylucovania metabolitov
+- udrzuje homeostazu
+- vylucovanie latok = exkrecia
+- oblicky + mocove cesty, koza, dychacia sustava
+
+## Oblicky
+- ***Nefron***
+    - zakladan stavebna a funkcna jednotka

@@ -1,0 +1,44 @@
+---
+title: Dynamika
+author: Kapko
+output: pdf_document
+---
+
+# Dynamika kmitaveho pohybu
+- **Skuma silu, ktora sposobuje kmitanie**
+- **Skuma suvislost medzi periodou kmitania a vlastnostami oscilatora**
+- budeme pouzivat **pruzinovy oscilator**
+    - **Parametre**:
+	- hmotnost zavazia na pruzine
+	- vlastnost pruziny -> tuhost pruziny -> prejavuje sa pri deformacii -> aka velka sila je treba na to aby sa pruzina predlzila o 1 meter
+
+$k = \frac{F_p}{\delta l}$ \
+
+## 1. Graf
+
+### 1-1 Rovnovazna poloha
+$F_p = F_g$ \
+$k \delta l = m * g$ \
+$F_{vys} = F_p - F_g = 0 N$ \
+
+###  1-2 Pohbyb
+$F_p = k (\delta l - y)$ \
+$F_g = m * g$ \
+$F = F_p + F_g = k(\delta l - y) - m * g = $ \
+$= k \delta l - m * g - k * g $ \
+$F = - k * g$ \
+
+- sila -> sposobuje kmitanie
+- sila -> priamoumerna okamzitej vychylke
+- sila -> je vzdy opacna ako vychylka
+- sila -> vzdy smeruje do rovnovaznej polohy
+
+## 2. Suvislosti
+$m, k$ \
+$F = - k * g$ \
+$F = m * a = - m \omega^2 y$ \
+$k = m \omega^2$ \
+$\omega^2 = \frac{k}{m}$ \
+$w = \sqrt{\frac{k}{m}} $ \
+$f = \frac{1}{2 \pi} \sqrt{\frac{k}{m}} $ -> Vlatna frekvencia \
+$T = 2 \pi \sqrt{\frac{m}{k}} $ \

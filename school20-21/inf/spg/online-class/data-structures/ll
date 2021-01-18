@@ -9,7 +9,7 @@ class LL:
     def __init__(self):
         self.head: "Node" = None
 
-    def i(self, n: int):
+    def insert(self, n: int):
         if self.head == None:
             self.head = Node(n)
         else:
@@ -18,9 +18,9 @@ class LL:
                 cur = cur.next
             cur.next = Node(n)
    
-    def d(self, n: int):
+    def delete(self, n: int):
         if self.head == None:
-           return
+          return
         if self.head.val == n:
             self.head = self.head.next
         else:
@@ -33,25 +33,37 @@ class LL:
                     curr.next = join
                 else:
                     curr.next = None
-    def pt(self):
+    def print(self):
         cur = self.head
-        while cur!=None:
+        while cur != None:
             print(cur.val,)
             cur = cur.next
-    def pe(self, n):
+    def prepend(self, n):
         if self.head != None:
             was = self.head
             node = Node(n)
             node.next = was
             self.head = node
 
+    def find(self, value) -> Node: 
+        cur = self.head
+        if cur.val == value:
+            return cur
+        while cur.val != value:
+            cur = cur.next
+            if cur.val != None and cur.val == value:
+                return cur
+                break
+
 l = LL()
 
-l.i(3)
-l.i(6)
-l.i(9)
-l.d(6)
-l.pe(1)
+l.insert(3)
+l.insert(6)
+l.insert(9)
+l.delete(6)
+l.prepend(1)
 
-l.pt()
 
+l.print()
+
+print(l.find(1).val)

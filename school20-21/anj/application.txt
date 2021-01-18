@@ -1,0 +1,18 @@
+Dear Mr. Tvarozek, 
+
+I am writing in response to the advertisement, that you have published last week on the online advertisement portal called praca.sk, where you offered a job as a programmer in your IT company called MT IT Solutions. Please find my CV attached in this email. I have been attracted by your job offer, because it emphasizes opportunities for people who are skilled systems programmers, for people who have experience with languages such as C, C++ or Rust. I am an experienced Rust programmer and I have been looking for a job where I could use my knowledge of low level systems programming and kernel development.
+
+As a recent graduate from an university, where I had the opportunity to use Rust as my main programming language for my Masters thesis, I have been using Rust for about 8 years already. However, I am aware that I still have much to learn and this kind of challenging environment is exactly what I am seeking in oder to further hone my skills and knowledge. From my CV you will be able to see that I have contributed to my open source projects, and I am someone who believes in getting fast and most effective results. My proudest achievements are creating a X window manager written with Rust, creating a prototype Rust operating system and contributing to the Linux kernel, all of these are mentioned in my CV.
+
+Regarding the requirements you mention, I think I am a perfectly suitable candidate as:
+
+- I have a Masters degree in Operating Systems and Systems Architecture
+- I am very flexible and I am able to work from home as well as from an office
+- I am great at teamwork, I have worked with many people on many small teams over the years
+
+I am available for an interview anytime, beginning next week. Thank you for taking the time to consider my application and please do not hesitate to contact me at any time by phone or in writing if you have any questions about any of the above.
+
+I look forward to hearing from you.
+Your sincerely,
+
+Robo Zebrak
