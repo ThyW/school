@@ -2,6 +2,7 @@
 title: Vylucovacia sustava
 author: Kapko
 output: pdf_document
+date: 18.1.2021, 25.1.2021
 ---
 
 # Vylucovacia sustava
@@ -11,5 +12,29 @@ output: pdf_document
 - oblicky + mocove cesty, koza, dychacia sustava
 
 ## Oblicky
+- 12 * 6 * 3 cm - rozmery oblicky
 - ***Nefron***
     - zakladan stavebna a funkcna jednotka
+
+- ***Kora***: bledsia vonkajsia vrstva
+- ***Dren***: tvoria ho kanaliky nefronu, spaja sa do 8 - 18 oblickovych pyramid zakladnou otocenych k povrchu oblicky
+- **vrcholy oblickovych pyramid objimaju oblickove kalichy, ktore vyustuju do oblickovej panvicky**
+- oblicka ma **fazulovityy** tvar
+
+## Tvorba mocu
+- v Bawmanovom vacku filtraciou krvi z glomerulu vnizka **primarny** moc (asi 170l/24h)
+- postupuje dalej kanalikmi, v ktroych nastava spatne vstrebavanie vody a niektroch potrebnych latok
+- Tymto procesom vznika **definitivny** moc
+- ***Zlozenie mocu***:
+    - 95% voda
+    - mocovina, 
+    - male mnozstvo organicky(kys. mocova, kreatinin, amoniak)
+      a anorganickych latok(NaCl, iony sodika, horicka, draslika a vapnika)
+
+## Vyvodove mocove cesty:
+- **oblickove kalichy** - odvadzaju definityvny moc zo zbernych kanalikov
+- **oblickova panvicka** (hladka svalovina)
+- **mocovody** (steny z hladkej svaloviny, peristaltika vhana moc do mocoveho mechura 5stahov/min.)
+- **mocovy mechur** (asi 500ml, 150ml == nutkanie)
+- **mocova rura** (muz: 12 - 25 cm, zena 3 - 5 cm) vonkajsi zvierac je z priecne pruhovaneho svalstva
+- **vyprazdnovanie mocoveho mechura (mikcia)** - riadi ju miecha

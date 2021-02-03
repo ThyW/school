@@ -1,0 +1,13 @@
+---
+title: Slovicka
+author: Kapko
+output: pdf_document
+---
+
+# Slovicka
+Bundesländern - spolkove republiky
+ein freiheitlich - demokratischer und sozialer Rechtsstaat - slobodny demokraticky and socialny konsitucionlany stat
+An Deutschland grenzen neun Staaten - s nemeckom susedi 9 statov
+das zweitbeliebteste Einwanderungsland der Welt - 2. najpopularnejsia krajina na imigraciu vo svete
+Gründungsmitglied - zakladajuci clen
+politisch einflussreicher Staat in Europa - najviac politicky influencialny stat v Europe

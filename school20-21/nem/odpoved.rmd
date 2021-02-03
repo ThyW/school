@@ -1,0 +1,11 @@
+---
+title: Odpoved - Historia nemecka
+author: Kapko
+output: pdf_document
+---
+
+# ENG
+After Germany lost world war one in 1918, the Wiemar Republic was formed. It was a parliamentary-democratic republic. It was the first German democratic state and it collapsed after the world economic crisis and the seizure of power by the Adolf Hitlers National Socialists. The period of National Socialism and Hitlers NSDAP, or National Socialist German workers party, lasted from 1933 to 1945. Many of the opponents of this racist and totalitarian regime were prosecuted and later murdered. All of this led to the world war two, where the Nazis committed many crimes against humanity, including the Holocaust. This brutal period lasted until the may of 1945, when Germany unconditionally surrendered.
+
+# GER
+Nachdem Deutschland den Ersten Weltkrieg 1918 verloren hatte, wurde die Wiemarer Republik gegründet. Sie war eine parlamentarisch-demokratische Republik. Sie war der erste deutsche demokratische Staat und brach nach der Weltwirtschaftskrise und der Machtergreifung durch die Nationalsozialisten Adolf Hitlers zusammen. Die Zeit des Nationalsozialismus und Hitlers NSDAP, der Nationalsozialistischen Deutschen Arbeiterpartei, dauerte von 1933 bis 1945. Viele der Gegner dieses rassistischen und totalitären Regimes wurden verfolgt und später ermordet. All dies führte zum Zweiten Weltkrieg, in dem die Nazis viele Verbrechen gegen die Menschheit begingen, darunter den Holocaust. Diese brutale Zeit dauerte bis zum Mai 1945, als Deutschland bedingungslos kapitulierte.

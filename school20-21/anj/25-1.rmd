@@ -1,0 +1,13 @@
+---
+title: TITLE
+author: AUTHOR
+output: pdf_document
+---
+
+# My hood
+I live in a small *residential* area, on a calm, *tree-lined* street in the heart of Petrzalka. 
+Our cozy, *three-bedroom*, *third-floor* apartment is located in an *eight-storey* *residential* building. We also live right next to a small forest, if you can even call it that, which is perfect for going on a walks with friends or family.
+
+bardejov, turcianske teplice - spa 
+pripyat - ghost, boo boo
+kezmarok, levoca - historic

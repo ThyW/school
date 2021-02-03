@@ -1,0 +1,8 @@
+---
+title: Recipe
+author: Kapko
+output: pdf_document
+---
+
+# My favourite recipe
+Thankfully, one of my favourite meals is pizza, which is incredibly easy to make at home. This is a good thing, since almost all the pizzerias are now closed, due to the pandemic. We usually start by making a quick pizza batter, which we then let rise for about 30 minutes. We can use this time to prepare all our toppings. We usually use some ham, bacon or tuna fish. We also chop some vegetables, most of the time bell pepper and tomato. We then proceed with the assembly, smearing our pizza batter with tomato sauce, adding our toppings and finishing with a lot of grated cheese. The assembled pizza then goes in the oven for about 25 minutes. After we take the pizza out of the oven, we usually wait a few minutes for it to cool down. I love pizza, because it is really easy to make and it always tastes great.
