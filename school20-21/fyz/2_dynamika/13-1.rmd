@@ -24,8 +24,8 @@ $F_{vys} = F_p - F_g = 0 N$ \
 ###  1-2 Pohbyb
 $F_p = k (\delta l - y)$ \
 $F_g = m * g$ \
-$F = F_p + F_g = k(\delta l - y) - m * g = $ \
-$= k \delta l - m * g - k * g $ \
+$F = F_p + F_g = k(\delta l - y) - m * g =$ \
+$= k \delta l - m * g - k * g$ \
 $F = - k * g$ \
 
 - sila -> sposobuje kmitanie
@@ -42,3 +42,5 @@ $\omega^2 = \frac{k}{m}$ \
 $w = \sqrt{\frac{k}{m}} $ \
 $f = \frac{1}{2 \pi} \sqrt{\frac{k}{m}} $ -> Vlatna frekvencia \
 $T = 2 \pi \sqrt{\frac{m}{k}} $ \
+
+- vlastna frekvenica - ktorou oscilator kmita ked nie je ovplyvneny vonkajsimi elementami

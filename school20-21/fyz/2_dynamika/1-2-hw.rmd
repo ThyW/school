@@ -1,0 +1,39 @@
+---
+title: Otázky
+author: Kapko
+output: pdf_document
+date: 1. 2. 2021
+---
+
+# 1. Čo tvorí energiu oscilátora?
+- potenciálna a kinetická energia
+
+# 2. Ako vyjadríme matematicky jednotlivé energie?
+$E_p = \frac{1}{2} \cdot k \cdot y^2$ \
+$E_k = \frac{1}{2} \cdot m \cdot v^2$ \
+$E = \frac{1}{2} \cdot k \cdot y_m^2$ \
+
+# 3. Popíšte premenu energie v mechanickom oscilátore
+- v **amplitúde** : $E_k = 0$ a $E_p = max$
+- v **bode nulovej výchylky** : $E_k = max$ a $E_p = 0$
+
+# 4. Od čoho závisí celková energia mechanického oscilátora
+- od **tuhosti pružiny** a **amplitúdy** oscilátora
+
+# 5. Ako kmitá reálny oscilátor a prečo?
+- kmitá **tlmene**
+- pôsobia na neho aj **iné sily**, preto sa energia premieňa na teplo a **amplitúda sa postupne zmenšuje**
+
+# 6. Príklad
+\begin{center}
+$m = 20g = 0.02kg$ \\
+$\Delta l = 0.007m$ \\
+$y = 0.21m$ \\
+\end{center}
+
+\begin{center}
+$k = \frac{m \cdot g}{\Delta l}$ \\
+$E_p = \frac{1}{2} \cdot k \cdot y^2$ \\
+$E_p = \frac{1}{2} \cdot \frac{m \cdot g \cdot y^2}{\Delta l}$ \\
+$E_p = 0.63J$ \\
+\end{center}

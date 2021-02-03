@@ -1,0 +1,57 @@
+---
+title: Energia kmitaveho pohybu
+author: Kapko
+output: pdf_document
+---
+
+# Premena energie v mechanickom oscilatore
+- energia: kineticka a potencialna
+- v **rovnovaznej polohe** ma navjvacisu $E_k$
+- v **amplitude** ma najvacsiu $E_p$
+
+\begin{center}
+$E_{celkova} = const$ \
+
+$E = E_k + E_p$ \
+
+$E_k max = rovnovazna$ \
+
+$E_p max = amplitude$ \
+
+$E_k = \frac{1}{2} \cdot m \cdot v^2$ \
+
+$E_p = ?$ \
+
+$W = \frac{1}{2} \cdot F \cdot y$ \
+
+$W = \frac{1}{2} \cdot k \cdot y^2 = E_p$ \
+
+$E_p = \frac{1}{2} \cdot k \cdot y^2$ \
+\end{center}
+
+- ***Odvodenie celkovej energie***
+
+\begin{center}
+$E = E_k + E_p$ \
+
+$y = y_m \sin(\omega t)$ \
+
+$v = \omega y_m \cos(\omega t)$ \
+
+$E = \frac{1}{2}ky^2m \cdot (\sin^2 \omega t + \cos^2 \omega t)$
+\end{center}
+
+- **Celkova energia je priamoumerna druhej mocnine amplitudy a zavisi od k(tuhosti pruziny).**
+- plati pre **harmonicke kmity** => nazyva sa to **NETLMENE KMITY**
+
+# Realny oscilator
+- **oscilator kmita tlmene** -> **tlmene kmity**
+- charakteristicke tym: 
+    - amplituda sa zmensuje
+    - posobi trecia sila pruziny
+    - posobi aj trecia sila vzduchu
+- mechanicka energia sa premiena na teplo
+
+\begin{center}
+$E = E_p + E_k + E_{vnutorna}$
+\end{center}
