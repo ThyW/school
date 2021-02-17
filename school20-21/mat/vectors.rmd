@@ -1,0 +1,66 @@
+---
+title: "Vectors"
+author: "Kapko"
+output: 
+  pdf_document:
+    extra_dependencies: ["amsmath",]
+---
+
+# How to get a vector from 2 points? -> Vector
+- Vector from A to B
+- $A = [a_1, a_2, a_3]$
+- $B = [b_1, b_2, b_3]$
+- $B - A = \vec{a} = [b_1 - a_1, b_2 - a_2, b_3 - a_3$
+- we get a **vector**
+
+# How do I add two or more vectors together? -> Vector
+- $\vec{a} + \vec{b}$
+- $\vec{a} + \vec{b} = [a_1 + b_1, a_2 + b_2, a_3 + b_3]$
+- we get a **vector**
+
+# How do I subtract two or more vectors? -> Vector
+- $\vec{a} - \vec{b}$
+- $\vec{a} - \vec{b} = \vec{a} + (-\vec{b})$
+- $\vec{a} + (-\vec{b}) = [a_1 + (- b_1), a_2 + (- b_2), a_3 + (- b_3)]$
+- we get a **vector**
+
+# How do I get vectors size? -> Scalar
+- $\lvert \vec{a} \rvert = \sqrt{a_1^2 + a_2^2 + a_3^2}$
+- we get a **scalar value**
+
+# How do I multiply a vector by a scalar value? -> Vector
+- $2\vec{a} = [2 \cdot a_1, 2 \cdot a_2, 2 \cdot a_3]$
+- we get a **vector**
+
+# How do I do a scalar multiplication on two vectors? -> Scalar
+- there are 2 ways to do this:
+    - 1. $\vec{a} \cdot \vec{b} = (a_1 \cdot b_1) +_(a_2 \cdot b_2) + (a_3 \cdot b_3)$
+    - 2. $\lvert \vec{a} \rvert \cdot \lvert \vec{b} \rvert \cdot \cos{\alpha}$
+- we get a **scalar value**
+
+# How do we get the angle between two vectors? -> Scalar
+- from the above example:
+  - $\cos{\alpha} = \frac{\vec{a} \cdot \vec{b}}{\lvert \vec{a} \rvert \cdot \lvert \vec{b} \rvert}$
+- we get the **scalar value** of the angle
+
+# How do I perform a vector multiplication on two vectors? -> Vector
+- $$\vec{a} \times \vec{b} =
+\begin{vmatrix}
+a_1 & a_2 & a_3 \\
+b_1 & b_2 & b_3 \\
+i & j & k \\
+\end{vmatrix}
+$$
+- we then to the following operations with our two vectors:
+  - 1. $c_1 = (a_2 \cdot b_3) - (a_3 \cdot b_2)$
+  - 2. $c_2 = (a_3 \cdot b_1) - (a_1 \cdot b_3)$
+  - 3. $c_3 = (a_1 \cdot b_2) - (a_2 \cdot b_1)$
+- this gets us the coordinates of the 3 points of the resulting vector **which is perpendicular to our 2 input vectors**
+- $\vec{c} = [c_1, c_2, c_3]$
+- we get a **vector**
+
+## We can then do stuff with our vector:
+- area of **parallelogram**: $S = \lvert \vec{c} \rvert$
+- area of the triangle made by our 2 vectors: $S_{\Delta} = \frac{\lvert \vec{c} \rvert}{2}$
+- if we have a third vector $\vec{d}$, we can get the volume of a **block** created by vector $\vec{c}$ and vector $\vec{d}$: $V = \vec{c} \cdot \vec{d}$
+- we can also find out the volume of 1 of the six equal **tetrahedrons** in this **block**: $V_{t} = \frac{\vec{c} \cdot \vec{d}}{6}$

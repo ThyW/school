@@ -1,0 +1,12 @@
+---
+title: TITLE
+author: AUTHOR
+output: pdf_document
+---
+
+# Slovíčka
+- eigetragener Verein
+- Bauwerk
+- Vereninsmitglieder
+- ehrenamtlich
+- ausschließlich
