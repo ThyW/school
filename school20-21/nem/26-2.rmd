@@ -1,0 +1,9 @@
+---
+title: Cuurrywurst
+author: Kapko
+output: pdf_document
+---
+
+Lena sagt, dass das Museum Geiles ist.
+Alex sagt, dass das Currywurst Museum ein einmaliges Erlebnis ist.
+Alex und Ktaja also sagt, dass sie begeistert sind.

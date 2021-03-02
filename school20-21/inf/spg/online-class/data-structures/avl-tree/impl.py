@@ -5,20 +5,24 @@ class Node:
         self.val = val
         self.left = None
         self.right = None
+        self.bal = 0
+        self.dep = 0
 
-    def insert(self, val):
+    def insert(self, val, parent):
         if val == self.val:
             return
         if val < self.val:
             if self.left != None:
-                self.left.insert(val)
+                self.left.insert(val, self)
             else:
                 self.left = Node(val)
         elif val > self.val:
             if self.right != None:
-                self.right.insert(val)
+                self.right.insert(val, self)
             else:
                 self.right = Node(val)
+
+        self.rebalance()
     
     def preorder(self):
         if self.val:
@@ -144,6 +148,7 @@ class Node:
     def rec_draw(self, can, x, y):
         can.create_oval(x, y, x + 30, y + 30)
         can.create_text(x + 15, y + 15, text = str(self.val))
+        can.create_text(x + 15, y - 2, text = f"{self.bal} {self.dep}")
 
         if self.left != None:
             can.create_line(x + 15, y + 15, x - 50 + 15, y + 50 + 15)
@@ -152,7 +157,27 @@ class Node:
         if self.right != None:
             can.create_line(x + 15, y + 15, x + 50 + 15, y + 50 + 15)
             self.right.rec_draw(can, x + 50, y + 50)
+
+    def rebalance(self):
+        if self.right != None and self.left != None:
+            self.dep = max(self.right.dep, self.left.dep) + 1
+            self.bal = self.left.dep - self.right.dep
         
+        elif self.left != None:
+            self.dep = self.left.dep + 1
+            self.bal = self.left.dep + 1
+
+        elif self.right != None:
+            self.dep = self.right.dep + 1
+            self.bal = self.right.dep + 1
+        else:
+            self.dep = 0
+            self.bal = 0
+
+    def left_rotation(self, parent):
+        tmp = self.right.left
+        self.right.left = self
+
 
 class Tree:
     def __init__(self) -> None:

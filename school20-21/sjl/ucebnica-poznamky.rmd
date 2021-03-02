@@ -1,0 +1,154 @@
+---
+title: "Poznamky strana 50 - 60"
+output: pdf_document
+---
+
+# Cislovky
+1. Zakladne cislovky maju v gramatickej pripone -i:
+   - piat*i* pretekari
+   - siedm*i* pretekari
+   - pri osm*i*ch stlpoch
+
+2. Radove cislovky sa skolnuju podla vzoru pekny(okrem *treti*)
+    - piat*y* pretekar
+    - umiestnil sa siedm*y*
+
+3. Zakladne cislovky sa pisu v zakladnom tvare dovedna
+    - tritisicdvestoosemdesiattri
+
+4. tisicky a stovky zakladnych cisloviek sa pre prehliadnost mozu pisat oddelene
+
+5. Miliony, miliardy a biliony su vzdy oddelene
+
+6. Pri sklonovani zakladnych cisloviek mensich ako 21 a pri radovych cislovkach jednotky oddelujeme od desiatok
+
+7. Nasobne cislovky sa pisu
+    - osobitne: dva razy, pat raz, desiaty raz
+    - dovedna: dvojnasobny, patkrat, desiatykrat
+
+8. Spojovnik v slovach s cislovkou
+    - v zlozenom slove: 3-rocne deti, 30-rocna zena
+    - v znacke: tank T-35, lietadlo IL-18
+
+9. Bodka za cislovkou: 
+    - zakladna cislovka: 15 rokov = patnast rokov
+    - radova cislovka: 15. rok = patnasty rok 
+    - nasobna cislovka: 15.-krat = patnastykrat
+
+## Funkcia cisloviek vo vete
+- moze byt:
+    - privlastok 
+    - podmet
+    - predmet 
+    - sucast slovesno-menneho prisudku
+    - prislovkove urcenie
+
+## Stylisticke vyuzitie cisloviek
+- **urcite cislovky**: administrativny, publicisticky a naucny styl
+- **neurcite cislovky**: hovorovy a recnicky styl
+- **magia cisel**:
+    - umelecky a recnicky styl
+    - 3, 7, 12, 40
+
+- antonyma: prvy - posledny
+- gradacia - ani **prvy**, ani **druhy** a ani **tretikrat**
+- zvelcovanie(hyperbola) - uz **tisickrat** som ti to povedal
+
+# Slovesa
+- plnovyznamove
+    - cinnostne - kreli
+	- predmetove - **otvara** (co) dvere
+	- bezpredmetove - **bezi** (netreba nic doplnit)
+    - stavove - zbledol
+- neplnovyznamove
+    - sponove - byt, mat, stat sa
+    - modalne - moct, smiet, musiet
+    - fazove - zacat/zacinat, ostat/ostavat...
+    - limitne - ist, mat
+    - formalne - mat, byt, dat
+
+## Zvratne slovesa
+- *sa, si* 
+    - zvratne sloveso
+    - zvratna podoba nezvratneho slovesa
+    - tvar slovesa v trpnom rode (neosobny tvar slovesa)
+- je zvratne ak:
+    - **po odstraneni si/sa straca vyznam**
+    - **po odstraneni si/sa meni vyznam**
+    - **si/sa sa neda nahradit dlhym tvarom sebe/seba**
+    - **ma aj ine tvary ako 3. os. sg.**
+
+## Slovesne gramaticke kategorie
+- osoba 
+    - 1. ja/my
+    - 2. ty/vy
+    - 3. on,ona,ono/oni,ony
+
+- cislo
+    - singular
+    - plural
+
+- cas
+    - pritomny
+    - minuly
+    - buduci
+
+- sposob
+    - oznamovaci
+    - rozkazovaci
+    - podmienovaci
+
+- vid
+    - dokonavy
+    - nedokonavy
+
+- rod
+    - cinny
+    - trpny
+
+## Slovesny rod
+- **cinny**(aktivum)
+    - mama kosi travnik
+    - mama pokosila travnik
+    - mama bude kosit travnik
+
+- **trpny**(pasivum)
+    - **zvratny** (**3.os.sg slovesa** + *sa*)
+	- travnik sa kosi
+	- travnik sa pokosil
+	- travnik sa bude kosit
+    
+    - **opisny** (*byt* + **trpne pricastie**)
+	- travnik je koseny
+	- travnik bol pokoseny
+	- travnik bude koseny
+
+## Slovesne tvary
+- **podla zlozenia**
+    - **jednoduche** - zajest si, platim, robit
+    - **zlozene** - hlada sa, pisal by som
+
+- **podla moznosti urcite slovesne gramaticke kategorie**
+    - **urcite** - da sa urcit *cas a sposob*
+    - **neurcite** - neda sa urcit *cas a sposob*
+	- *neurcitok* - zakladny tvar slovesa, **ma vetnoclensku platnost**
+	- trpne pricastie - pomenuva cinnost/stav v priebehu(je **spievany**, je **zaspievany**)
+	- slovesne podstatne meno - pomenuva cinnost, nie je vzdy urcite kto kona dej (**prenasledovanie** uplatkarov)
+	- prechodnik - vyjadruje sprievodny dej ku nejakemu inemu deju (siel **spievajuc**)
+	- cinne pricastie pritomne - vyjadruje sprievodny dej ku deju, ktory kona predmet alebo podmet vety (**Spievajuci** muz sa usmieval.)
+
+## Intencia slovesa
+- D - smerovanie deja
+- A - agens, ludia
+- N - nositel stavu
+- P - paciens, objekt
+
+1. A - D - P
+    - upratovac umyva podlahu
+2. N/A - D 
+    - brat bezi, otec sedivie
+3. D - P
+    - zabil ho, vrta mu v hlave
+
+4. D 
+    - snezi, hrmi, blyska sa
