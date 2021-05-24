@@ -1,0 +1,63 @@
+---
+title: Zbernice
+author: Kapko
+output: beamer_presentation
+---
+
+# Definícia 
+*Elektrický vodič, alebo sústava vodičov, ktoré prepájaú viaceré elektrické zariadenia a slúžia na prenos energie alebo informácii vo forme elektrických impulzov.*
+
+#
+![](/home/zir/Downloads/bus.jpg)
+
+# Vlastnosti
+- počet bitov, ktoré v jednom okamihu prenášajú
+- rýchlosť
+- elektrické vlastnosti
+- fyzická dĺžka
+- typ prenášaných dát
+
+# Typy zberníc v počítači
+- lokálna
+- systémová
+
+# Rozdelenie zberníc
+
+## Druh
+- adresová
+- dátová
+- riadiaca
+- napájacia
+
+# Rozdelenie zberníc
+
+## Smer
+- jednosmerná 
+- obojsmerná
+
+# Rozdelenie zberníc
+
+## Synchronizácia
+- synchrónna
+- multimaster
+- pseudosynchrónna
+- asynchrónna
+
+# Rozdlenie zberníc
+
+## Umistnenie
+- vnútorná
+- periférna
+
+# Známe zbernice
+- USB
+- PCI
+- Ethernet
+- audio jack
+- SATA
+
+# Zdroje
+- https://sk.wikipedia.org/wiki/Zbernica
+- https://en.wikipedia.org/wiki/Bus_(computing)
+- https://sk.wikipedia.org/wiki/Komunika%C4%8Dn%C3%A9_rozhranie
+- https://en.wikipedia.org/wiki/System_bus

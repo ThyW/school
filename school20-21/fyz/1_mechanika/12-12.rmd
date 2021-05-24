@@ -1,0 +1,23 @@
+---
+title: Ulohy - rychlost a zrchlenie kmitaveho pohybu
+author: J. Kapko
+output: pdf_document
+---
+
+# 1.
+- a) amplituda: 0.005 m
+- b) frekvencia: 2 Hz
+- c) kedy bude vychylka 0.005: 
+
+$0.005 = 0.005 \sin(4 \pi t)$ \
+$\frac{0.005}{ t} = 0.005 \sin 4 \pi$ \
+$t = 0.216 s$ \
+
+# 2.
+$y = 0.015 \times \sin \omega 0.2$ \
+$y = 0.015 \times \sin(2 \pi 5 t)$ \
+
+# 3. 
+$y = 0.002 \sin(660 \pi t)$ \
+
+# 4. 

@@ -1,0 +1,6 @@
+---
+title: Alexander Dubček
+author: Ján Kapko
+date: 21.5.2021
+output: pdf_document
+---

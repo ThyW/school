@@ -1,0 +1,55 @@
+---
+title: Pohlavna sustava
+date: 20.5.2021
+output: pdf_document
+---
+
+# Muž
+- spermia -> najmenšia bunka v tele
+    - hlavička
+    - krček
+    - bičík
+    - vždy len jedna spermia oplodní jedno vajíčko
+
+- syntetizujú a uvoľňujú pohl. hormóny
+- transportujú pohlavné bunky
+- umožňujú pohlavné spojenie
+- umožňujú oplodnenie
+
+## Vonkajšie orgány
+- pohlavný úd
+- miešok (-4 stupňe ako zvyšok tela)
+
+## Vnútorné orgány
+- semenníky 2x
+- nadsemenníky 2x
+- semenovody 2x
+- semenné mechúriky 2x
+- prostata (predstojnica) 1x
+- močová rúra
+
+### Semenníky a nadsemenníky
+- počas vnútromaternicového vývinu -> brušná dutina
+- tvorba **testosterónu**
+- **semenotvorné kanáliky** (spermatogenéza) -> do kanálikov **nadsemenníka**
+- **nadsemenníky** -> zásobáreň spermií
+- **nadsemenníky** -> hlienová látka, ovplyvňuje zrelosť spermií
+
+### Semenovody, semenné mechúriky a prostata
+- **semenovody**
+    - kanáliky s hladkými svalmi
+    - vyúsťujú do močovej rúry
+- **semenné mechúriky**
+    - sekrét -> pohyb a výživa spermií
+    - vyusťuje do močovej rúry
+- prostata
+    - sekrét -> výživa a pohyblivosť 
+    - ejakulát 
+
+### Miešok a pohlavný úd 
+- **miešok**
+    - kožný vačok -> sú v ňom semenníky a nadsemenníky + začiatok semenovodov
+    - regulácia teploty
+- **úd**
+    - dutinkaté telesá - jedno párové a jedno nepárové 
+    - erekcia `( ͡° ͜ʖ ͡°)`
