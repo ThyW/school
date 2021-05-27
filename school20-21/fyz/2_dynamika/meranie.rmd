@@ -1,0 +1,84 @@
+---
+title: Experiment
+author: Kapko
+output: pdf_document
+---
+
+# 1. Zavislost periody kmitania od hmotnosti zavazia
+- dlzka zavesu: 0.7m
+
+\begin{center}
+\begin{tabular}{| c | c | c |}
+\hline
+Hmotnost Zavazia (kg) & Cas 10 kmitov (s) & Perioda (s) \\
+\hline
+0.1 & 21.8 & 2.18 \\
+\hline
+0.2 & 21.8 & 2.18 \\
+\hline
+0.3 & 21.8 & 2.18 \\
+\hline
+0.4 & 21.8 & 2.18 \\
+\hline
+0.5 & 21.8 & 2.18 \\
+\hline
+0.6 & 21.8 & 2.18 \\
+\hline
+0.7 & 21.8 & 2.18 \\
+\hline
+0.8 & 21.8 & 2.18 \\
+\hline
+0.9 & 21.8 & 2.18 \\
+\hline
+1.0 & 21.8 & 2.18 \\
+\hline
+\end{tabular}
+\end{center}
+
+## Zaver:
+- s meniacou sa hmotnostou sa perioda nebude menit, lebo zmena periody nezavisi na zmene hmotnosti ale na zmene dlzky zavesu
+
+# 2. Zavislost periody a dlzky zavesu 
+- hmotnost zavesu: 1 kg
+
+
+\begin{center}
+\begin{tabular}{| c | c | c |}
+\hline
+Dlzka Zavesu (m) & Cas 10 kmitov (s) & Perioda (s) \\
+\hline
+0.1 & 8 & 0.8 \\
+\hline
+0.2 & 11.1 & 1.11 \\
+\hline
+0.3 & 13.7 & 1.37 \\
+\hline
+0.4 & 16.2 & 1.62 \\
+\hline
+0.5 & 17.7 & 1.77 \\
+\hline
+0.6 & 19.6 & 1.96 \\
+\hline
+0.7 & 21.1 & 2.11 \\
+\hline
+0.8 & 22.2 & 2.22 \\
+\hline
+0.9 & 23.8 & 2.38 \\
+\hline
+1.0 & 25.1 & 2.51 \\
+\hline
+\end{tabular}
+\end{center}
+
+## Zaver:
+- s meniacou sa dlzkou zavesu sa priamo umerne meni aj perioda, pretoze perioda je priamo umerna dlzke zavesu a preto s rastucou dlzkou rastie aj perioda
+
+
+# Graf:
+
+```{r fig-margin, fig.margin=TRUE}
+dlzka <- list(0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0)
+perioda <- list(0.8, 1.11, 1.37, 1.62, 1.77, 1.96, 2.11, 2.22, 2.38, 2.51)
+
+plot(dlzka, perioda, type="l")
+```

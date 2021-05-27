@@ -1,0 +1,23 @@
+---
+title: Priklad
+author: Kapko
+output: pdf_document
+---
+
+# Priklad
+$T = 20s$ \
+$y_m = 0,1m$ \
+$\omega = \frac{2 \pi}{T}$ \
+$y = y_m \cdot \cos(\omega t)$ \
+$y = 0.1 \cdot \sin(0.1 \pi t)$ \
+$v = \omega \cdot y_m \cos(\omega t)$ \
+$v = 0.1 \pi \cdot y_m \cos(0.1 \pi t)$ \
+$v = 0.01 \pi \cdot \cos(0.1 \pi t)$ \
+$a = - \omega^2 y$ \
+$a = - 0.001 \pi^2 \sin(0.1 \pi t)$ \
+$\Phi = 0.1 \pi t = 0.1 \cdot 180 \cdot 12$ \
+
+$y = 0.1 \cdot \sin(216)$ \
+$v = 0.01 \pi \cdot \cos(216)$ \
+$v = 0.025 cm \cdot s^-1$ \
+$a = 0.0058 m \cdot s^-1$ \

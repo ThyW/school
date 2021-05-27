@@ -1,0 +1,79 @@
+#! /usr/bin/env python3 
+
+from typing import Generic, TypeVar, Union
+
+T = TypeVar('T')
+
+class Node(Generic[T]):
+    def __init__(self, val: T):
+        self.value: T = val;
+        self.next: Union[Node[T], None] = None
+
+class Stack(Generic[T]):
+    def __init__(self):
+        self.top: Union[Node[T], None] = None
+    
+    def push(self, val: T):
+        new = Node(val);
+        if self.top:
+            new.next = self.top;
+            self.top = new;
+        else:
+            self.top = new;
+        return new.value
+
+    def pop(self):
+        if self.top == None:
+            return None
+        else:
+            ret = self.top;
+            self.top = self.top.next 
+            return ret
+
+    def __repr__(self) -> str:
+        current = self.top
+        ret = ""
+        while current != None:
+            ret = f"{ret}{current.value}\n"
+            current = current.next
+        return ret
+
+
+def brackets(filename: str) -> bool:
+    s = Stack()
+    with open(filename, "r") as opened:
+        read = opened.read()
+        read = read[::-1]
+        for each in read:
+            s.push(each)
+        opened.close()
+    
+    not_end = True
+    vals = ["(", ")", "[", "]", "{", "}"]
+    l1 = []
+    while not_end:
+        popped = s.pop()
+        if popped == None:
+            not_end = False
+        else:
+            for br in vals:
+                if popped.value == br:
+                    l1.append(popped.value)
+                else:
+                    pass
+    print(f"this is l1: {l1}")
+    if l1.count("(") == l1.count(")") and l1.count("[") == l1.count("]") and l1.count("{") == l1.count("}"):
+        return True
+    else:
+        return False
+
+s = Stack()
+
+s.push(1)
+s.push(2)
+s.push(3)
+s.push(4)
+
+print(s)
+
+print(brackets("brackets"))

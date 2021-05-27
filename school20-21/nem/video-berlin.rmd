@@ -1,0 +1,13 @@
+---
+title: Berlin Video
+author: Kapko
+output: pdf_document
+---
+
+Die Atmosphäre aus dem Video ist sehr ruhig. Berlin ist eine sehr moderne Stadt.
+
+Das Video lässt mich denken, dass Berlin eine wirklich große Stadt ist, in der es viele Sehenswürdigkeiten gibt.
+
+Mir gefiel, dass viele der Sehenswürdigkeiten keinen Eintritt kosteten. Aber ich mochte nicht, dass man die Tickets ein paar Tage vorher buchen muss, weil sie sehr schnell ausverkauft sind.
+
+Die Vorteile sind, dass die Stadt groß ist, voller interessanter Leute, die man treffen kann und eine Menge Dinge, die man tun kann. Die Nachteile sind, dass die Großstädte meist schmutzig und sehr laut sind.

@@ -1,0 +1,34 @@
+---
+title: Dychacia sustava
+author: Kapko
+output: pdf_document
+---
+
+# Dychacia sustava
+- **horne dychacie cesty:**
+    - nosova dutina, nosohltan
+- **dolne dychacie cesty:**
+    - hrtan, priedusnica, priedusky
+
+## Horne dychacie cesty
+- nope
+
+## Dolne dychacie cesty
+
+### Hrtan Larynx
+- 6 cm dlhy, z prstienkovych hrtanovych chrupiek
+- v strede zuzeny - hlasivky
+- hltana oddeleny hrtanovou prichlopkou
+
+### Priedusnica
+- tvoria ho podkovite chrupky
+
+
+## Pluca
+- spongiotiyty tvar
+- prave(3. laloky), lave(2. laloky)
+- v medizpluci je ulozene srdce
+- horna cast - plucne hroty
+
+<!-- i give up dude --!>
+<!-- finish this shit later dude --!>

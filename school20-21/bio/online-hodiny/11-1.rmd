@@ -1,0 +1,28 @@
+---
+title: Dychacia sustava
+author: Kapko
+output: pdf_document
+---
+
+# Dolne dychacie cesty
+- **PRIEDUSNICA: Trachea**
+    - tvoria ho podkovitove chrupky
+    - reozvetvuje sa na dve priedusky
+
+- **PRIEDUSKY: BRONCHY**
+    - su parove
+    - smerom do pluc sa rozvetvuju na priedusky
+    - rozvetvenie v plucach tvori tzv. **Bronchialny strom**
+    - priedusnicky ustia do **ALVEOL**
+
+- **PLUCA:**
+    - spongiovity utvar bez svalov
+    - su parove prave(3 laloky) a lave(2 laloky) pluca
+    - v medzipluci je ulozene srdce, hrotomotocena dolava
+    - horna cast sa nazyva - plucne horty a dolna - baza pluc
+    - povrch pluc - kryje blana podplucnica 
+    - vnutorna strana hrudnej dutiny je pokryta pohudnicou
+    - medzi nimi je priestor
+
+- **NEGATIVNY VNUTROHRUDNIKOVY TLAK:**
+    - Pohrudnicova Dutina je vyplnena malym mnozstvom tekutiny a je v nej podtlak

@@ -1,0 +1,129 @@
+---
+title: Operačné systémy
+author: Kapko & Brežák
+date: 23.2.2021
+output: beamer_presentation
+---
+
+# Obsah
+- čo je OS?
+- architektúry
+- boot 
+- podobnosti & odlišnosti
+- task manager & (h)top
+
+# čo je OS?
+- *"An operating system (OS) is system software that manages computer hardware, software resources, and provides common services for computer programs."*
+
+# procesory a inštrukcie
+```
++-----+---+---+---+-----+---+
+| ADD |   |   |   | JMP |   |
++-----+---+---+---+-----+---+
+|  0  | 4 | 5 | 1 |  1  | 0 |
++-----+---+---+---+-----+---+
+   ^
+```
+
+
+```
+start:
+    add 4, 5, 1
+    jmp start
+```
+
+# procesory a inštrukcie
+```
++-----+---+---+---+-----+---+
+| ADD |   |   |   | JMP |   |
++-----+---+---+---+-----+---+
+|  0  | 4 | 5 | 1 |  1  | 0 |
++-----+---+---+---+-----+---+
+                     ^
+```
+
+
+```
+start:
+    add 4, 5, 1
+    jmp start
+```
+
+# procesory a inštrukcie
+```
++-----+---+---+---+-----+---+
+| ADD |   |   |   | JMP |   |
++-----+---+---+---+-----+---+
+|  0  | 4 | 5 | 1 |  1  | 0 |
++-----+---+---+---+-----+---+
+   ^
+```
+
+
+```
+start:
+    add 4, 5, 1
+    jmp start
+```
+
+# architektúry
+- určujú inštrukcie podporované procesorom
+- **x86** - desktops, servers, laptops
+- **arm** - tablets, chromebooks, phones
+- **RISC-V** - ***open source architektúra***
+
+# zložky operačného systému
+- ring 0 = **kernel mode(space)**
+- ring 3 = **user mode(space)**
+![Protection rings in x86](/home/zir/Downloads/protrings.png)
+
+# booting (x86, mbr)
+- začína na adrese: *0x7C00*
+- načítanie prvých 512 bytov
+    - načítajú zvyšok **bootloaderu** z disku
+- **bootloader** prevedie procesor do 64-bit režimu(long)
+- **real mode(16bit), protected mode(32bit), long mode(64bit)**
+
+# booting
+![diagram](/home/zir/Downloads/bootloader.png)
+
+# operačné systémy ako ich poznáme
+- **MS DOS:**
+    - Windows
+- **UNIX:**
+    - macOS
+    - <GNU, musl, bionic>/Linux
+    - FreeBSD
+
+![](/home/zir/Downloads/linuxmacwin.jpg)
+
+# podobnosti & odlišnosti
+- permission system
+    - Windows: vlastníci a skupiny
+    - Linux: u:rwx g:rwx o:rwx
+![Permisions](/home/zir/school/school20-21/inf/perms.jpg)
+
+# podobnosti & odlišnosti 
+- TUI/GUI
+
+# podobnosti & odlišnosti 
+![windows](/home/zir/Downloads/windektop.png)
+
+# podrobnosti & odlišnosti 
+![linux](/home/zir/Pictures/rice.png)
+
+# podobnosti & odlišnosti
+- filesystems
+    - Windows: `C:\Users\Jozko` 
+    - Linux: `/home/Jozko`
+    - macOS: `/Users/Jozko`
+- unix: všetko je súbor (`/dev/sda`)
+
+# task manager & top
+- taks manager: `Ctrl + Shift + ESC`
+    - **404: ukážka not found**
+- h(top)
+    - command line
+
+# ďakujeme za pozornosť
+![](/home/zir/Downloads/happystallman.jpg)

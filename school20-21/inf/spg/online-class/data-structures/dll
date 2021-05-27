@@ -1,0 +1,89 @@
+#! /usr/bin/env python3
+
+class Node: 
+    def __init__(self, val):
+        self.val = val
+        self.next = None
+        self.prev = None
+
+class DLL: 
+    def __init__(self, val):
+        self.head = Node(val)
+        self.length = 1
+        self.tail = self.head
+
+    def append(self, val):
+        old_tail = self.tail
+        old_tail.next = Node(val)
+        self.tail = old_tail.next
+        self.tail.prev = old_tail
+        self.length += 1
+
+    def prepend(self, val):
+        old_head = self.head
+        old_head.prev = Node(val)
+        self.head = old_head.prev
+        self.head.next = old_head
+        self.length +=1 
+
+    def insert(self, val, index):
+        if index > self.length:
+            return 
+        if index == self.length:
+            self.append(val)
+        else:
+            cur = self.head
+            for i in range(index - 2):
+                cur = cur.next
+            # a <-> cur <-> old
+            old = cur.next
+            # a <-> cur <-> new
+            cur.next = Node(val)
+            cur.next.prev = cur
+            # a <-> cur <-> new <-> old
+            cur.next.next = old
+            old.prev = cur.next
+            self.length += 1
+    
+    def find(self, index):
+        if index <= 1:
+            return self.head
+        if index >= self.length: 
+            return self.tail
+        else:
+            cur = self.head
+            for i in range(index):
+                cur = cur.next
+            return cur.prev
+
+    def delete(self, index):
+        if index < 1:
+            return
+        if index >= self.length:
+            self.tail = self.tail.prev
+            self.tail.next = None
+            self.length -= 1
+            return 
+        else:
+            cur = self.head
+            for i in range(index - 2):
+                cur = cur.next
+            # a - cur - to_del - next
+            cur.next = cur.next.next
+            cur.next.prev = None
+            # a - cur - next
+            self.length -= 1
+
+l = DLL(1)
+
+l.append(2)
+l.append(3)
+l.append(4)
+l.append(5)
+l.insert(10, 3)
+
+print(l.length)
+
+l.delete(3)
+
+print(l.find(3).val)

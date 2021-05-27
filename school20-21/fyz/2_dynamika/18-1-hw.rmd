@@ -1,0 +1,30 @@
+---
+title: Dynamika ulohy
+author: Kapko
+output: pdf_document
+---
+
+# 1. Pružinový oscilátor vznikol zavesením telesa s hmotnosťou 10 kg na pružinu, ktorá sa predĺžila o 15 cm. Určte periódu oscilátora.
+$m = 10kg$ \
+$\Delta l = 15 cm = 0.15 m$ \
+$\Delta l_{rp} = \frac{0.15}{2} = 0.075 m$ \
+$T = 2 \cdot \pi \cdot \sqrt{ \frac{m}{k}}$ \
+$T = 2 \cdot \pi \cdot \sqrt{\frac{m \cdot \Delta l_{rp}}{m \cdot g}}$ \
+$T = 0.54s$ \
+
+# 2. Teleso zavesené na pružine s tuhosťou 50 N.m -1 vykoná 50 kmitov za 64 sekúnd Určte hmotnosť telesa.
+$k = 50 N \cdot m^-1$ \
+$f = 0.78$ \
+$T = 1.28$ \
+$m = \frac{k}{(2 \cdot \pi \cdot f)^2}$ \
+$m = 2.07kg$ \
+
+# 3. Mechanický oscilátor je tvorený medenou guličkou zavesenou na pružine. Ako sa zmení frekvencia kmitania oscilátora, ak guličku zameníme za hliníkovú s rovnakým priemerom?
+$\rho_{C_u} = 8960 \frac{kg}{m^3}$ \
+$\rho_{A_l} = 2700 \frac{kg}{m^3}$ \
+$f = \frac{1}{2 \cdot \pi} \cdot \sqrt{\frac{k}{\rho \cdot V}}$ \
+$f_{C_u} = \frac{1}{2 \cdot \pi} \cdot \sqrt{\frac{k}{8960 \cdot V}} = \frac{k}{0.0168 \cdot V}$ \
+$f_{Al} = \frac{1}{2 \cdot \pi} \cdot \sqrt{\frac{k}{2700 \cdot V}} = \frac{k}{0.0302 \cdot V}$ \
+$f_{Al} > f_{Cu}$ \
+
+- Frekvencia sa zvysi

@@ -1,0 +1,57 @@
+---
+title: Koza
+author: Kapko
+output: pdf_document
+---
+
+# Koža
+- pokožka
+- zamša(škára)
+- podkožné väzivo
+
+## Pokožka
+- tvorí ju niekoľko vrstiev
+- vrchné vrstvy rohovatejú a odlupujú sa
+- bunky spondej vrstvy sa ustavične delia
+- povrchové bunky obsahujú vo vode nerozpustný **KERATÍN**
+- v spdnej vrstve = **MELANÍN** - pohlcuje UV žiarenie
+
+## Zamša
+- nie sú spojené hladkou líniou, ale zamša vytvára **PAPILÁRNE LÍNIE**
+- **dermatoglyfické obrazce**
+- sú v nej **krvné aj lymfatické cievy**
+- vyrastajú z nej **vlasy a chlpy**
+- sú v nej **mazové a potné žlazy**
+- sú v nej **kožné receptory**
+
+## Podkožné väzivo
+- tvoria ho väzivové bunky, medzi nimi je veľa **KOLAGÉNOVÝCH a ELASTICKÝCH vlákna**
+- v jeho bunká sa ukladá zásobný tuk
+- pomerne riedke podkožné väzivo umožnuje posúvanie kože
+
+## Kožné deriváty
+- **NECHT**
+    - zrohovatená doštička na konci prstov
+    - vyrastá z nechtového lôžka
+    - zabezpečuje ochranu
+- **PRSNÍKOVÁ ŽĽAZA**
+    - je ulozena na tukovom vankúši
+    - tvorí ju 15-20 lalokov
+    - vývody lalokov sa spájajú do mliekovodov
+    - tieto vypušťaju do prsnej bradavky
+
+## Regulácia telesnej teploty
+- **TVORBA TEPLA**
+    - zabezpečujú ju exorgonické deje pri metabolizme
+    - Hlavný zdroj: pečeň a pracujúce svaly
+
+- **VYDAJ TEPLA**
+    - 1. Vyžarovaním 
+    - 2. Odparovaním
+    - 3. Prúdením
+
+### Nervové centrá pre reguláciu telesnej teploty sú v medzimozgu
+- keď je organizmus vystavený extrémnym teplotným podmienkam môže nastat:
+    - Hypertermia: až 43 °C
+    - Hypotermia: 28 °C
+- Obranná hypertermia (pri infekčných ochoreniach - tvorba protilátok)

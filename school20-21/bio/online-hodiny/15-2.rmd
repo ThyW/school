@@ -1,0 +1,7 @@
+---
+title: Hormonálna sústava
+author: Kapko
+output: pdf_document
+---
+
+## A

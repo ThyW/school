@@ -1,0 +1,30 @@
+---
+title: Zaujimavosti v Berline
+output: pdf_document
+---
+
+# Alexanderplatz
+- Es ist nach dem russichen Zaren Alexander I. bennant.
+
+# Berliner Mauer
+- Mindestens 100 Manchen wurden ermordet, als sie versuchten, sich vod doer DDR zu lösen.
+
+# Potsdamer Platz
+- Bennant nach der Stadt Potsdam. Es wurde im Zweiten Weltkrieg vollständig zerstört.
+
+
+# Berliner Unterwelten-Museum
+- Es erforscht die verschiedenen Strukturen im Unterwelt der Stadt und stellt sie für Führungen zur Verfügung. Mann kann Bunker aus dem Zweiten Weltkrieg oder sogenannte Geisterbahnhöfe besuchen.
+
+# Denkmal fur die ermordeten Juden Europas
+- Es war vom Architekten Peter Eisenman entworfen. Es besteht aus 2711 Betonblöcken. 
+  Ein angeschlossener Untergrund heißt Ort def Information enthältet informaitonnen über 3 Millionen Juden.
+
+# Charlottenburg
+Es wurde 1705 gegründet und nach Sophia Charlotte von Hannover, einer Königingemahlin von Preußen, benannt. 
+
+# Rechstagsgebäude
+Es wurde nach der Vereinigung Deutschlands durch den Architekten Norman Foster vollständig repariert.
+
+# Brandenburger Tor
+- Es ist neoklassizistisches Denkmal aus dem 18. Jahrhundert in Berlin, das auf Befehl des preußischen Königs Friedrich Wilhelm II. 

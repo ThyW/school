@@ -1,0 +1,21 @@
+---
+title: Kivadlo
+author: Kapko
+output: pdf_document
+---
+
+# Kivadlo
+- ma bod zavesu
+- teleso zavasene nad taziskom, ktore sa volne otaca okolo bodu 
+- sily: $F_g$: Gravitacna, $F_t$: Tahova, vyslednica $F$
+- Matematicke kyvadlo -> zanedavame: 
+    - hmotnost zavesu
+    - rozmery telesa
+    - + $\alpha < 5 \deg$
+$\sin{\alpha} = \frac{F}{Fg} = \frac{x}{l}$ \
+$F = - m\omega^2x = - mg\frac{x}{l}$ \
+$\omega = \sqrt{\frac{g}{l}} = 2\pi f$ \
+$f = \frac{1}{2\pi} \cdot \omega$ \
+$T = 2\pi \cdot \omega$ \
+
+- $T$ a $f$ zavisi len od dlzky zavesu

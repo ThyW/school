@@ -1,0 +1,14 @@
+---
+title: Freues Neues Jahr
+author: Kapko
+output: pdf_document
+---
+
+# Neuesjahresvorsatze
+- Ich mochte in der Schule bessere Ergebnisse haben.
+- Ich mochte ins Fitnessstuio fur Sport gehen.
+- Ich mochte neue Leute treffen.
+
+# AAA
+Ich habe einem neuen Programmierprojekt gearbeiten.
+Ich habe neue Kochce gegessen.

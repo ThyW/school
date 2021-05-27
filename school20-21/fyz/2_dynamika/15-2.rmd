@@ -1,0 +1,24 @@
+---
+title: Priklady
+author: Kapko
+output: pdf_document
+---
+
+### 5.
+$m = 0.3 kg$ \
+$\omega = \frac{3 \pi}{5} rad \cdot s^-1$ \
+$y = 0.2 m$ \
+
+$F = -k \cdot y$ \
+$F = -m \cdot \omega^2 y$ \
+$F = 0.21 N$ \
+
+### 6. 
+$m = 0.2 kg$ \
+$y_m = 0.02 m$ \
+$f = 5 Hz$ \
+
+$E = \frac{k \cdot y_m^2}{2}$ \
+$\sqrt{\frac{k}{m}} = 2 \pi f$ \
+$k = 197.38 N \cdot m^-1$ \
+$E = 0.039 J$ \

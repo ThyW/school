@@ -1,0 +1,28 @@
+---
+title: Bundeslander
+author: Kapko
+output: pdf_document
+---
+
+Baden-Württemberg -> Stuttgart
+Bayern -> Munich 
+Berlin -> Berlin // kleine
+Brandenburg -> Potsdam
+Bremen -> Bremen // kleine
+Hamburg -> Hamburg // kleine
+Hessen -> Wiesbaden
+Sachsen -> Hanover
+Mecklenburg-Vorpommern -> Schwerin
+Niedersachsen(Hannover)
+Nordrhein-Westfalen -> (Düsseldorf)
+Rheinland-Pfalz -> (Mainz)
+Saarland -> (Saarbrücken)
+Sachsen -> (Dresden)
+Sachsen-Anhalt -> (Magdeburg)
+Schleswig-Holstein -> (Kiel)
+Thüringen -> (Erfurt)
+
+Im Norden grenzt Deutschland an Dänemark.
+Im Süden grenzt Deutschland an Österiech, Schweiz.
+Im Osten grenzt Deutschland an Tschechische Republik, Polen.
+Im Westen grenzt Deutschland an Luxemburg, Frankreich, Belgien, Niederlande.

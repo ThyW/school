@@ -1,0 +1,12 @@
+---
+title: Vnutropoliticky vyvoj
+author: Kapko
+output: pdf_document
+---
+
+# 1. Medzniky
+- **Sudna moc:**
+    - vytvorena docasna vlada
+
+<!-- finish the rest -->
+<!-- mentalne som to nezvladal -->

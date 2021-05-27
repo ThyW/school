@@ -1,0 +1,39 @@
+---
+title: Tlemené a netlmené kmitanie, nútené kmity
+author: Kapko
+output: pdf_document
+date: 3. 2. 2021
+---
+
+# Nenútené kmitanie
+- **konštantá amplitúda**
+
+# Tlemné kmitanie
+- **amplitúda sa zmenšuje** -> pôsobením sily(odporová sila vzduchu)
+
+# Nútené kmitanie
+- chceme z tlmeného dostať netlmené
+- dodávame silu, aby kmitanie nespomaľovalo
+    - **GENERÁTOR NÚTENÝCH KMITOV**
+    - **neharmonické** => sila posobí iba v krátokom okamihu
+    - **harmonické** => pôsobenie periodickej sily
+
+## Frekvencia núteného kmitania
+1. závisí od frekvencie pôsobiacej sily
+2.  nezávisí od vlastností oscilátora $\omega != \omega_o$
+3. amplitúda a fáza závisí od vlastností oscilátora
+
+- vonkajšou pôsobiacou silou vieme rozkmitať objekty, ktoré nemajú vlastnosti oscilátora
+
+# Rezonancia oscilátora
+- ak na oscilátor pôsobíme periodickou silou, tak maximálnu výchylu dosiahne oscilátor, ak sa frekvencia pôsobiacej sily rovná frekvencii vlastných kmitov
+- $\omega = \omega_o$
+
+## Rezonančná krivka
+
+```{r echo=FALSE}
+x <- c(1:6)
+y <- c(0,0.3, 1.5, 3, 1.5, 0.3, 0)
+plot(x, y, type="l", ylab="y", xlab="omega")
+```
+

@@ -1,0 +1,18 @@
+---
+title: Der bundes republik Deutshland
+author: AUTHOR
+output: pdf_document
+---
+
+# BDR
+- freiheitlich-demokratische Staat
+- Freiheit und Gleichheit vor dem Gesetz
+- soziale Rechte -> socialne prava na zdravotnu starostlivost, vzdelanie 
+- Menschen im Not 
+- Rechte auf Gesundheits pflege
+- BDR hat 16 Bundesländern
+- Das großte Bundesland ist Bayern.
+    - die Haupstadt von Bayern ist München
+- Jeden Bundesland hat eine Haupstadt und eigene Regierung.
+- Hohes Lebensniveau -> vysoka zivotna uroven
+- hohes Gehalt -> vysoky plat

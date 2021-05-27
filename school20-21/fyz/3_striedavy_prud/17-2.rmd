@@ -1,0 +1,15 @@
+---
+title: Striedavý prúd
+author: Kapko
+output: pdf_document
+---
+
+# Striedavý prúd
+- generátor striedavého prúdu
+    - stator => pevná časť
+    - rotor => pohybujúca sa časť
+- závit sa otáča v magnetickom poli, nastáva zmena magnetického toku, ktorý spôsobuje vznik napätia
+
+- $u, i$ <- periodické veličiny; **okamžitá hodnota U a I**
+- $u = U_m \sin(\omega t)$
+- $i = I_m \sin(\omega t)$
