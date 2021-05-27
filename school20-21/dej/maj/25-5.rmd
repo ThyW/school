@@ -1,0 +1,37 @@
+---
+title: "Vychodný front, 3. časť & Pacifik"
+author: Kapko
+date: 25.5.2021
+output: pdf_document
+---
+
+# Kursk
+- finálna prehra nemcov
+- TIGER vs T-34
+- nemci na úteku, začína oslobodenie Sovietskeho zväzu
+
+# Teherán
+- stretnutie v Teheráne - stretnutie Spojencov 1. 12. 1943
+- **VB** -> Atlantická Charta
+    - US + VB -> demokracia
+    - **ku tomuto sa však pridal aj Stalin** (stalinova "demokracia")
+- Stalin si pýta bojové pole v Západnej Európe
+- delenie a plánovanie frontov v Európe
+
+# Vojna v Pacifiku
+- 7.12. '41 - 2.9. '45
+- lietadlové lode a námorne boje
+- Pearl Harbour -> 7 mesiacov má Japonsko prevahu a zaberajú Juh Ázie
+    - hneď Amerika vstupuje do Vojny proti Fašistickej Osi 
+
+## Charakteristika
+- Japonci -> rasistická vojna ("Ázia aziatom!")
+- **Togo** -> hlavný japonský veliteľ
+- **Cisár Hirohito**
+    - zbavil sa "cisárskeho božstva"
+- **bušidó** -> radšej zomrieť ako sa vzdať
+- **harakiri** -> ritual suicide (poggers)
+- Midway 1942
+    - prvý neúspech Japoncov
+- Guadalcanal
+    - *pacifický Stalingrad* (200 dní)

@@ -1,0 +1,48 @@
+---
+title: "Východný front, 2. časť"
+date: 24.5.2021
+author: Kapko
+output: pdf_document
+---
+
+# Stalin
+- ŠVO (štátny výbor obrany)
+    - špeciálna vláda
+- hlavný štáb partiznánskeho hnutia v Kieve
+
+# Leningrad
+- 900 dňová okupácia a konštantné obliehanie
+- mesto v troskách - neustále bombardovanie
+- nedostatky
+    - pitná voda
+    - kurivo (drevo, uhlie)
+    - jedlo
+- suché letá, mokré a studené zimy a jesene
+- šovstachovičová symfónia (wtf, no clue)
+- Hitlerov prvý neúspech
+
+# Moskva
+- 6. 12. 1941 - Wehrmacht sa otáča od Moskvy, zima a iné nevyhovujúce podmienky
+- Armáda Tajfún
+- Žukov nasadzuje Katjuše
+- obyvatelia sa podielali na obrane Moskvy
+
+# Juh ukrajiny
+- Einsatzgruppen - čistky
+- od jary '42 do leta '42 sa nemcom veľmi darilo
+    - juh Ukrajiny, Kaspické more, veľmi blízko ku Volgogradu, Kaukaz (Elbrus)
+- minority vítajú nemcov (Čecenci atď)
+- po vojne ich Stalin trestá (minority)
+- leto '42 -> Bitka o Volgograd
+
+## Bitka o Volgograd/Stalingrad(Caricin)
+- 200 dní
+- socha ženy - Mať volá! 200 krokov
+- NEM
+    - 300k vojakov
+    - generál Paulus
+    - mesto dobil
+- RUS
+    - Čujkov, Žukov, Rotosovský, Jeremenko
+- boj a každé meter štvorcový
+- Stalingrd = Massengrad (masový hrob)

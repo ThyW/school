@@ -1,0 +1,148 @@
+---
+title: Pohlavna sustava
+date: 20.5.2021, 24.5.2021
+output: pdf_document
+---
+
+# Muž
+- spermia -> najmenšia bunka v tele
+    - hlavička
+    - krček
+    - bičík
+    - vždy len jedna spermia oplodní jedno vajíčko
+
+- syntetizujú a uvoľňujú pohl. hormóny
+- transportujú pohlavné bunky
+- umožňujú pohlavné spojenie
+- umožňujú oplodnenie
+
+## Vonkajšie orgány
+- pohlavný úd
+- miešok (-4 stupňe ako zvyšok tela)
+
+## Vnútorné orgány
+- semenníky 2x
+- nadsemenníky 2x
+- semenovody 2x
+- semenné mechúriky 2x
+- prostata (predstojnica) 1x
+- močová rúra
+
+### Semenníky a nadsemenníky
+- počas vnútromaternicového vývinu -> brušná dutina
+- tvorba **testosterónu**
+- **semenotvorné kanáliky** (spermatogenéza) -> do kanálikov **nadsemenníka**
+- **nadsemenníky** -> zásobáreň spermií
+- **nadsemenníky** -> hlienová látka, ovplyvňuje zrelosť spermií
+
+### Semenovody, semenné mechúriky a prostata
+- **semenovody**
+    - kanáliky s hladkými svalmi
+    - vyúsťujú do močovej rúry
+- **semenné mechúriky**
+    - sekrét -> pohyb a výživa spermií
+    - vyusťuje do močovej rúry
+- prostata
+    - sekrét -> výživa a pohyblivosť 
+    - ejakulát 
+
+### Miešok a pohlavný úd 
+- **miešok**
+    - kožný vačok -> sú v ňom semenníky a nadsemenníky + začiatok semenovodov
+    - regulácia teploty
+- **úd**
+    - dutinkaté telesá - jedno párové a jedno nepárové 
+    - erekcia
+
+# Žena
+- vonkajšie a vnútorné 
+- veľké a malé pisky ohambia
+- vonkajšie prekryjú malé - znak donosenosti
+
+## Vnútorné orgány
+- vaječníky - pár
+- vajíčkovody - pár
+    - vajíčkovodná sliznica - bunky, ktoré kmytajú smerom ku maternici
+- maternica
+    - krčok maternice -> ústi do pošvy
+- pošva
+  
+### Vaječník
+- pri narodení obsahuje asi **700k folikulov** (vajíčok)
+- do puberty ich zopár odumrie
+- po puberte, každý mesiac jeden folikul dozrie a vypudí vajíčko do maternice dozrieť
+    - **Graafov folikul** -> dozretý folikul
+    - tvorený obalovými bunkami
+	- vo vnútry je vajíčko a tekutina
+- **OVULÁCIA** -> na 16 deň je vajíčko vypudené (folikul praskne) smerom ku vajíčkovodom 
+- folikulárne bunky sa zmenia na **žlté teliesko**
+- **žlté teliesko** -> produkcia hormónu progesterónu
+    - ten udržiava maternicu pripravenú na oplodnenie
+- **Graafov folikul** -> hormón estrogén
+    - znovu tvorenie a opakovanie cyklu
+
+### Vajíčkovod
+- tu a len tu nastáva oplodnenie vajíčka
+- spermie môžu už byť vo vajcovodoch alebo sa tam môžu dostať počas ovulácie
+- **jedno vajíčko a jedna spermia!!**
+
+## Cyklicé zmenu
+- vaječník - **ovariálny cyklus**
+- maternica - uterinný cyklus
+
+### Ovariálny cyklus
+1. fáza -> predovulačná fáza
+2. fáza -> **ovulácia** (14 - 16 deň)
+    - najväčšia šanca otehotnieť
+3. fáza -> poovulačná fáza
+
+### Uterinný cyklus
+1. fáza -> **menštruačná**
+    - sliznica sa celá olúpe a vyjde z tela
+    - trvá 3 - 7 dní
+2. fáza -> **proliferačná** 
+    - **sliznica proliferuje** (*rastie*), pokrýva sa novými bunkami a rastie
+    - trvá až do ovulácie pod vplyvom **estrogénu** (Graafovo teliesko?)
+    - zhruba do 13 - 16 dňa cyklu
+3. fáza -> **sekrečná**
+    - zodpovedný hormón progesterón
+4. fáza -> **ischemická**
+    - spôsobená koncom vylučovaním hormónom
+    - cievy sa stahujú, deje sa to pár hodín pred menštruáciou
+
+# Ortogenéza človeka
+- oplodnenie vo vajcovodoch
+- vajíčko sa postupne začne deliť
+- **blastocista**
+    - blastocista sa uhniezdi v maternici -> **nidácia**
+- z vajíčka vznikne všetko, čo oblklopuje nový plod
+    - embryo, polodová voda, placenta(spája embryo s telom matky), pupočná šnúra, atď...
+- celý zárodok je obalený blanov **amniónom**
+    - v ňom je plodová voda/ amniónová tekutina
+- amnión je obalený **choriónom**
+    - z **choriónu** vznikne **placenta**
+- cievy nie su spojené medzi matkou a dieťaťom, len sú blízko seba na prenášanie živín
+- **tehotenstvo trvá 280 dní** a nasleduje **pôrod**
+- pôrod môže trvať aj niekoľko hodín
+
+## Pôrodné doby
+1. pôrodná doba -> príprava pôrodných ciest na pôrod -> **otváracia doba**
+    - maternica sa začne sťahovať a vytláčať plod do pôrodných ciest
+    - krčok maternica a pošva == **pôrodné cesty**
+    - cyklické zťahy maternice
+2. pôrodná doba -> **vlastný pôrod**
+    - dieťatko sa pretlačí cez pôrodné cesty (stále spojené s placentou)
+    - odstrihnutie pupočnej šnúry -> podatie matke
+    - váženie, umytie a návrat matke
+
+3. pôrodná doba -> **porodenie placenty a plodových obalov**
+    - vyjde von placenta a plodové obaly (amnión a chirión)
+    - 600nedelie -> prvý mesiac - *novorodenec*
+    - *dojča* - do 1 roka
+    - *batoľa*(lezúň) - do 2 rokov
+    - do 6 rokov -> predškolský vek
+    - mladši, starší školksý vek
+    - mladosť -> 15 - 18
+    - dospelosť
+    - staroba
+    - smrť
