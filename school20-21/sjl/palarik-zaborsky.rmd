@@ -1,0 +1,7 @@
+---
+title: Palárik a Záborský
+author: Kapko
+date: 27.5.2021
+output: pdf_doucment
+---
+

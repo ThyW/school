@@ -1,0 +1,26 @@
+---
+title: Dokončenie druhej svetovej vojny
+author: Kapko
+output: pdf_document
+---
+
+# Vyvrcholenie WWII
+- 1943(VF) - 2.5. 1945
+    - Berlín zrovnaný zo zemou
+    - 8. + 9. 5.
+
+## Operácia Husky
+- 4. 6. '44 - 9.4. '45
+- z Afriky do Talianska (vylodenie na Sicílii) -> oslobodenie Talianska
+- P. Badoglio -> kontakt s Američanmi (antifašistický odboj), pomohol im
+- zosadenie Musolíniho -> nastupuje P. Badoglio
+- Taliansko sa rozdelí na Badoglioho časť(antifašistický) a Republika de Sallo(fašisti)
+- boj o Monte Kasíno
+- Mussolini je v Milane popravený
+
+## Vylodenie v Normandii
+- 6.6 1944
+- 5 plážii
+    - Gold, Omaha, Utah, Juno, Sword
+- bloodbath
+- bombardovanie -> vyradenie nemeckej infraštruktúry

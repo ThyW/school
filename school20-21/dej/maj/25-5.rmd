@@ -31,6 +31,8 @@ output: pdf_document
     - zbavil sa "cisárskeho božstva"
 - **bušidó** -> radšej zomrieť ako sa vzdať
 - **harakiri** -> ritual suicide (poggers)
+
+## Priebeh
 - Midway 1942
     - prvý neúspech Japoncov
 - Guadalcanal

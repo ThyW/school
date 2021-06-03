@@ -1,0 +1,75 @@
+---
+title: romatntizmus pisomka
+date: 3.6.2021
+output: pdf_document
+header_includes: 
+    - \usepackage{geometry}
+    - \geometry{a4paper, hoffset=1in}
+---
+
+# Romantizmus
+- všeobecne - súbor životných pocitov človeka
+- umelecký prúd v koncom 18. a začiatkom 19. storočia
+
+# Historicko spoločenské súvislosti
+- buržoázne revolúcie
+- rovnosť, bratstvo, sloboda
+- nemecká idealistická filozofia - Hegel, Herder
+    - pojmy: sloboda, štát, krása
+
+# Znaky
+- rozpor ideál vs realita
+- subjektivizmus
+    - odzrkadlenie vnútorného sveta
+- individualizmus
+- titanizmus
+- únik
+    - do minulosti
+    - od spoločnosti ku prírode
+    - k bohu
+    - hlásanie revolty
+    - ku záhrobnému svetu
+- iracionalizmus, intuitívne poznanie
+- tragizmus
+- romantický čin
+- protaqonisti
+    - spoločenskí vydedenci, výnimoční ľudia, aristokrati
+- sebavýpoved autora
+- synkretizácia žánrov
+- zakľadateľ v Európe -> G. G. Byron (byronizmus)
+- ľudová slovesnosť
+- významový paralelizmus
+- hlboké zmeny v literárnom jazyku
+
+# Slovenský romantizmus
+- **2 obdobia**:
+    1. 1836 (1. knižná publikácia štúrovskej literatúry) - 1850 
+    2. '50 - '75 -> postupný rozklad romantických princípov
+
+## špecifické črty
+- národnobuditeľský charakter
+- subjektivizmus vnímaný inak -> nesmie zobrazovať strasti človeka
+- výnimočnosť protagonistu - kolektivizmus (subjekt je súčasť celku)
+- historický optimizmus - obmedzovanie pesimistického pocitu života
+- témy - jánošíkovská, matiášovská
+- sylabizmus
+- ľudová slovesnosť vo väčsej miere
+- kodifikácia spisovnej slovenčiny
+
+# Predstavitelia svetového romantizmu
+- FR: V. Hugo -> *Chrám matky božej v Paríži*
+- NEM: 
+    - H. Heine -> *Kniha piesní*, balada *Loreley*
+    - J. W. Goethe -> *Faust*, *Utrpenie mladého Werthera*
+	- "Neužitočný život je predčasná smrť.", "Sme formovaný a utváraný tým čo milujeme."
+- ANG: 
+    - G. G. Byron -> *Korzár, Chillhonský vezeň, Childe Haroldova púť*
+    - P. B. Shelley -> *Odpútaný Prometeus*
+- RUS: A. S. Puškin -> *Kapitánova dcéra, Eugen Onegin*
+- POL: A. Mitzkiewitz
+- HUN: Sándor Petöfi
+- CZ: 
+    - K. J. Erben -> *Kytice, Vodník, Polednice, Vrba*...
+    - Božena Nemcová -> *Babička*
+    - K. H. Mácha -> *Máj*
+- US: Edgar Allan Poe -> *Havran, Jama a kyvadlo*

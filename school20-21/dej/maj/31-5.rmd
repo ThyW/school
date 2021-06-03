@@ -1,0 +1,24 @@
+---
+title: Pacific
+author: Kapko
+date: 31.5.2021
+output: pdf_document
+---
+
+# Priebeh
+- zvraty -> Midway, Guadalcanal
+- koncepcia žabích krokov (Amerika)
+- koncepcia strielania moriakov (Amerika)
+    - zostrelovanie japonských ľahkých bombardérov
+- správa, že sa otvorí nový front s Nemeckom v oblasti Atlantického valu (Amerika o Nemecku)
+    - najslabšia časť valu -> Sever Francúzska, Normandia
+- priestor bonínskeho sústrovia (Amerika) 
+    - **Iwo Jima, Okinawa**
+- kamikadze
+- smrť Roosvelta -> nový prezident Trueman
+- eventually Manhattan Project
+    - **Postupimská konferencia**
+    - Hiroshima - August 1945 -> "Little Boy"
+    - Nagasaki -> "Fat Man"
+- Hirohito -> Kapitulácia
+- kapitulácie Nemecka a Japonska
