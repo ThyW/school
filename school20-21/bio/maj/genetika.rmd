@@ -1,0 +1,57 @@
+---
+title: Genetika
+date: 31.5.2021
+output: pdf_document
+---
+
+# Genetika
+- veda o dedičnosti a premenlivosti živočíchov
+
+## Človek
+- **23 párov chromozómov**
+- 1. až 22. pár -> autozómy(somatické/telové)
+- 23. pár -> **pohlavný, gonozómy** (pohlavné)
+    - XY
+    - XX
+- dvojica chromozómov -> **homologický pár**
+    - rovnaká veľkosť, rovnaký tvar, nesú **rovnakú** informáciu pre rovnakú vlastnosť (na rovnakom mieste)
+    - pri eukariotických bunkách -> **gén => 2 alely**
+	- alela **dominantná**
+	- alela *recesívna*
+	- **DD**: tmavooký, **D***R*: tmavooký, *RR*: bledooký
+	- dominantná: veľké písmeno(A), recesívna: malé písmeno(a)
+	    - rovnaká vlastnosť, rovnaké písmeno
+	- **AA** -> homozygot dominantný
+	- *aa* -> homozygot recesívny
+	- **A***a* -> heterozygot
+	- miesto na ktorom je umiestnená alela sa volá **Lopus**
+- *vlastnosť* == **znak**
+- **genotyp** -> súbor všetkých génov v organizme
+- **fenotyp** -> vonkajší prejav génov 
+- **trojica dusíkatých báz** sa volá **triplet** 
+    - **triplet** kóduje jednu **aminokyselinu**
+- **kodón** -> triplety v DNA a mRNA 
+- **antikodón** -> triplet v tRNA
+
+## Expresia génu
+- prevod genetickej informácie do poradia aminokyselín v bielkovine
+- 2 fázy
+    - 1 transkripcia -> prepis gen. informácie z DNA do mRNA
+    - 2 translácia -> preklad kodónov z mRNA do poradia aminokyselín
+- DNA polymeráza -> rozpletie DNA na 2 reťazce
+- vytvorí sa vlákno mRNA
+- mRNA -> opustí jadro bunky cez jadrové póry, prejde cez citoplazmu a pripojí sa na ribozóm
+- mRNA sa presúva po ribozóme a prečíta sa kodón 
+- na priraďovacom mieste sa napojí cez tRNA aminokyselina 
+- na odsúvacom mieste sa tRNA odsunie bez aminokyseliny
+- **nezmyselné kodóny** -> medzi kodónmi, označujú začiatok a koniec genetického reťazca
+
+---
+# TODO: pozri si na utube transkripciu a translaciu
+---
+
+## RNA
+- mRNA -> mediátorová RNA (messangerová/ informačná)
+- tRNA -> transferová RNA
+- rRNA -> ribozómová RNA
+
