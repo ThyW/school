@@ -1,0 +1,71 @@
+---
+title: uloha
+author: kapko
+output: pdf_document
+---
+
+# St. Martins cathedral
+- Gothic architecture
+- coronation church - 1563 - 1830
+    - Maximilian II
+    - Maria Theresa
+    - Ferdinand V
+    - 11 kings, 8 royal spouses
+- Baroque reconstruction following a fire
+    - tower most damaged
+    - multiple altars destroyed, including the **Corvinus Altar**
+- later on fourth chapel was built
+    - chapel of St. John the Almsgiver
+    - Hungarian Primate invested an extreme amount of money into this new chapel
+    - mausoleum with the remains of St. John and a crypt with the remains of Emerich Esterházy (Archbishop)
+- Georg Rafael Donner
+    - group of statues of St. Martin
+    - Baroque
+    - roman soldier cutting his cape in order to give it to a beggar 
+- Baroque tower
+    - destroyed in a fire
+    - rebuild in a Neo Gothic style -> Ignác Feigler senior
+    - 2x2 m cushion
+	- copy of the Hungarian royal crown
+	  - 1m tall/ 300 kg
+- grave of Jozef Ignác Bajza
+    - crypt of St. Anne chapel
+- chalices, epitaph of Mikulas Pálffy, grave monument of Juraj Schomberg, organ (Jan Hunyady, later Leopold Suderspitz -> painted by Pressburg painter Hans Fink)
+
+# St. Elisabeth of Hungary - Blue Church
+- born to king Andrew II of Hungary
+- mother died, her husband and brother in law died
+- moved to the German town of Marburg with her children
+    - devoted to charity
+    - founded the female order of the Elizabethans
+- died at the age of 24
+- Emerich Esterházy
+    - gave the order a church and a monastery in Pressbug
+    - church of St. Elisabeth or Blue Church
+
+# Franciscan church
+- oldest preserved building in Bratislava
+- Ladislav IV of Hungary 
+- after an Earth Quake -> Gothic cross vault was rebuilt in a Renaissance style 
+- statue of Pieta
+- statue of Immaculate Conception
+- part of the coronation ceremony took place in the Franciscan church
+- The night worship of the dead monks
+    - candles on the altar, Christmas tree in the crypt
+    - every Christmas all the dead monks rise from the crypt to serve a mass and sing
+- St. John the Evangelist 
+    - burial place for mayor Jakub II
+    - remains of St. Reparatus
+- St. Rozalia chapel
+- Loretánska kaplnka
+
+# Grave of Queen Sofia of Bavaria
+- widow of Vaclav IV
+- came to Bratislava during the Hussite wars
+- under protection of Sigismund of Luxembourg
+- cared for the construction 
+- after her death her grave site was forgotten
+- in 16th century -> two **empty** graves were found
+    - Juraj Schomberg
+    - the other one was hers
+

@@ -55,3 +55,50 @@ output: pdf_document
 - tRNA -> transferová RNA
 - rRNA -> ribozómová RNA
 
+
+# Mendelove zákony
+- zákony kríženia (hybridizácia)
+
+## Zákon o uniformite prvej generácie
+- **zápis: X(zápis kríženia)**
+- P: -> rodičovská generácia(parentálna)
+- G: -> gamety 
+- $F_1$: prvá filiálna generácia
+- krížia sa len homozygoty
+- **AA x AA, aa x aa, AA x aa**
+- ?všetci jedinci uniformný?
+
+## Zákon o segregácii alel a ich voľnej kombinácii
+
+## Zákon o dihybridizácii plody. zelené a žlté
+
+# Stuff
+
+---
+# hmmm
+---
+
+- dedičnosť
+    - s úplnou dominanciou
+    - s úplnou recesiou
+- intermediarita
+    - vo fenotype sa prejavia obe
+
+## Delenie chromozómov
+- autozómy - nepohlavné
+- gonozómy - pohlavné 
+- posledné dva (pár) sú pohlavné
+
+### Chromozómové určenie pohlavia
+- cicavčí typ (typ drosofila(mucha))
+    - samica = XX, samec = XY 
+- vtáčí typ (typ motýlí, typ abraxas)
+    - samica = XY, samec = XX
+- zápis dedičnosti
+    - P: $X_H$ $X_h$ x $X_H$ Y
+    - G: $X_H$; $X_h$ $X_H$; Y
+- syndrómy 
+    - zmeny v počte chromozómov
+    - Downow, triomáza 21. p
+- enzymopatie
+    - poruchy génu v ktorom sú zapísané nzýmy
