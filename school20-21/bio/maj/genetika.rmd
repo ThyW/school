@@ -102,3 +102,36 @@ output: pdf_document
     - Downow, triomáza 21. p
 - enzymopatie
     - poruchy génu v ktorom sú zapísané nzýmy
+
+## Enzymopatie
+- Alkaptonúra
+    - 1: 19000
+- Gelaktozémia
+    - 1: 10000
+    - v mlieku je galaktóza
+- Albinizmus
+    - albín, chýba kožný pigment
+
+## Syndrómy
+- Downow syndróm - Triómia 21
+    - na Slovensku - 1: 700
+    - vekom matky predpoklad narastá
+- Patavov syndróm - Trizomia 13
+    - vážne poškodenie nervovej sústavy
+    - často to poskytuje hlavne dievčatá
+    - ráštepy podnebia
+- Edwardsov syndróm - Trizómia 18
+    - vážne poškodenia srdca
+    - 1: 7500
+- Turnerov syndróm - Monozoómia X
+    - 1: 4000
+    - postihuje dievčatá
+    - prejav -> nízke, neplodné, nevyvinuté pohlavné orgány
+- Klimefelterov s. - trizómia XXY
+    - to iste čo turnerov s. ale u chlapcov
+- supermuž - trizómia XYY
+    - znížené IQ a výrazne zvýšené pohlavné znaky
+    - agresivita
+    - 1: 1000
+- superžena - trizómia XXX
+    - to isté čo predtým ale u žien
