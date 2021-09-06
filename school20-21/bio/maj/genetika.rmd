@@ -113,7 +113,7 @@ output: pdf_document
     - albín, chýba kožný pigment
 
 ## Syndrómy
-- Downow syndróm - Triómia 21
+- Downov syndróm - Triómia 21
     - na Slovensku - 1: 700
     - vekom matky predpoklad narastá
 - Patavov syndróm - Trizomia 13
