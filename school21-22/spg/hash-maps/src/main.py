@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
 
-data = [[]] * 100
-
 # example of a simple hash function
-# hash = sum(ascii(string)) % 8
+# hash = sum(ascii(string)) % 100
 def primitive_hash(string):
     sum = 0
     for c in string:
@@ -11,11 +9,12 @@ def primitive_hash(string):
 
     return sum % 100
 
-class HashMap:
+class HashTable:
     def __init__(self, hash_function):
         self.__data = [[]] * 100
         self.__hf = hash_function
 
+    # insert a new key and value into the hash table
     def insert(self, key, val):
         self.__data[self.__hf(key)] = val
 
@@ -26,23 +25,55 @@ class HashMap:
             if each:
                 ret += f"{each[0]}\n" 
         return ret
-
+    
+    # get a value for a key from table hash table
     def get(self, key):
         index = self.__hf(key)
         if self.__data[index]:
             return self.__data[index]
 
+    # if there already is an entry for the given hash, insert the data to the next free space in our list
+    def insert_linear(self, key, val):
+        index = self.__hf(key)
+
+        while self.__data[index]:
+            index += 1
+
+        self.__data[index] = val
+    
+    # this is pretty dumb, defeats the whole purpose of Hash Tables
+    # :/
+    def get_linear(self, key, val):
+        index = self.__hf(key)
+
+        while self.__data[index]:
+            if self.__data[index] == val:
+                return self.__data[index]
+            
+            index += 1
+
 
 def test():
-    hm = HashMap(primitive_hash)
+    hm = HashTable(primitive_hash)
 
     hm.insert("jozko", "j")
     hm.insert("ferko", "f")
     hm.insert("maria", "m")
     
-    if hm.get("ferko") == "f":
-        print("test: passed")
-    else:
+    try:
+        assert hm.get("maria") == "m"
+    except:
         print("test: failed")
-
 test()
+
+def test2():
+    hm = HashTable(primitive_hash)
+
+    hm.insert_linear("asd", "a")
+    hm.insert_linear("dsa", "b")
+    
+    try:
+        assert hm.get_linear("dsa", "a") == "a"
+    except:
+        print("test2: failed")
+test2()
