@@ -17,12 +17,17 @@ echo "<br>" . $dni[date("N") - 1] . "</br>";
 
 echo "<table>";
 
-for ($row = 0; $num < 10; $row++) {
+for ($i = 0; $i < 10; $i++) {
     echo "<tr>";
-    echo "<td></td>";
-    for ($data = 1 )
+    for ($l = 0; $l < 10; $l++) {
+	if ($i == 0 and $l == 0) echo "<td></td>";
+	if ($i == 0 and $l != 0) echo "<td>" . $l . "</td>";
+	if ($i != 0 and $l != 0) echo "<td></td>";
+	if ($i !=0 and $l == 0) echo "<td>" . $i . "</td>";
+    }
+    echo "</tr>";
 }
-
+echo "</table>";
   ?>
  </body>
 </html>
