@@ -3,6 +3,18 @@
   <title>1st PHP Page</title>
  </head>
  <body>
+<style>
+table {
+  width: 100%;
+  border: 1px solid #000;
+}
+
+th, td {
+  text-align: left;
+  vertical-align: top;
+  border: 1px solid #000;
+}
+</style>
 <?php 
 echo '<h1>Time</h1>';
 echo "<strong>current time: " . date(DATE_RFC2822) . "</strong>";
@@ -17,12 +29,12 @@ echo "<br>" . $dni[date("N") - 1] . "</br>";
 
 echo "<table>";
 
-for ($i = 0; $i < 10; $i++) {
+for ($i = 0; $i <= 10; $i++) {
     echo "<tr>";
-    for ($l = 0; $l < 10; $l++) {
+    for ($l = 0; $l <= 10; $l++) {
 	if ($i == 0 and $l == 0) echo "<td></td>";
 	if ($i == 0 and $l != 0) echo "<td>" . $l . "</td>";
-	if ($i != 0 and $l != 0) echo "<td></td>";
+	if ($i != 0 and $l != 0) echo "<td>". $i * $l ."</td>";
 	if ($i !=0 and $l == 0) echo "<td>" . $i . "</td>";
     }
     echo "</tr>";
