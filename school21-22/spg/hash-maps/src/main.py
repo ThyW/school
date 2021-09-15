@@ -26,7 +26,7 @@ class HashTable:
                 ret += f"{each[0]}\n" 
         return ret
     
-    # get a value for a key from table hash table
+    # get a value for a key from hash table
     def get(self, key):
         index = self.__hf(key)
         if self.__data[index]:
