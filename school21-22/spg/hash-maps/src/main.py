@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+import ll
+
 # example of a simple hash function
 # hash = sum(ascii(string)) % 100
 def primitive_hash(string):
@@ -12,6 +14,7 @@ def primitive_hash(string):
 class HashTable:
     def __init__(self, hash_function):
         self.__data = [[]] * 100
+        self.__data2 = [ll.LL()] * 100
         self.__hf = hash_function
 
     # insert a new key and value into the hash table
@@ -52,6 +55,18 @@ class HashTable:
             
             index += 1
 
+    def insert_ll(self, key, val):
+        index = self.__hf(key)
+
+        self.__data2[index].push_back(val)
+
+    def get_ll(self, key, val):
+        index = self.__hf(key)
+
+        if self.__data2[index].get(val):
+            return val
+
+        return None
 
 def test():
     hm = HashTable(primitive_hash)
@@ -77,3 +92,14 @@ def test2():
     except:
         print("test2: failed")
 test2()
+
+def test3():
+    hm= HashTable(primitive_hash) 
+
+    hm.insert_ll("asd", "a")
+    hm.insert_ll("sda", "b")
+
+    try:
+        assert hm.get_ll("sda", "b") == "b"
+    except:
+        print("test3: failed")
