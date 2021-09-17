@@ -1,0 +1,47 @@
+---
+title: Logické obvody
+author: Kapko
+output: pdf_document
+---
+
+# Logické obvody
+- **NOT** !
+    - 0 -> 1
+    - 1 -> 0
+- **AND** &
+    - 0 0 -> 0
+    - 1 0 -> 0
+    - 0 1 -> 0
+    - 1 1 -> 1
+- **NAND**
+    - 1 1 -> 0
+    - 0 0 -> 1
+    - 1 0 -> 1
+    - 0 1 -> 1
+- **OR** 
+    - 0 0 -> 0
+    - 1 0 -> 1
+    - 0 1 -> 1
+    - 1 1 -> 1
+- **NOR**
+    - 0 0 -> 1
+    - 1 0 -> 0
+    - 0 1 -> 0
+    - 1 1 -> 0
+- **Half-adder** 
+    - A + B -> P + S
+    - or a xor + dva výstupy
+- **Full-adder** 
+    - A + B + P' -> P + S
+    - 3 vstupy, 2 výstupy
+    - 2 xor, 2 and, 1 or
+- dekodér
+    - 3 inputy, 7 outputov
+    - pomocou negácie a AND brán vieme veľmi jednoducho nakombinovať veľa výstupov
+
+- kóder
+    - opak dekódera
+
+- Mux / Demux
+    - demux: output dát, tam kde si selectnem, rovnaké ako dekóder, len ku každému oru si priám ešte aj D vstup
+    - mux: multiple vstup single output 

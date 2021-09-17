@@ -1,0 +1,45 @@
+---
+title: "POS: Uvodná hodina"
+author: Kapko
+output: pdf_document
+---
+
+# úvod
+- päťminútovky
+    - tolerancia: 4
+- veľká písomka
+    - polovicu známky tvorí písomka
+
+# história
+- pascalina
+    - prvá mechanická kalkulačka
+- babbagov stroj
+    - mechanický
+- elektrónky
+    - vyzerá ako žiarovka
+    - rozžhavené vlákno vie vypúšťať elektróny
+    - pomocou mriežky vieme riadiť napätie
+- eniac
+    - prvý počítač, ktorý reálne fungoval
+- tranzistor
+    - princíp elektrónky ale vie byť veľmi malý
+
+# číselné sústavy
+
+## Binárka
+- násobenie 2 sa sa bitshiftuje o 1 do ľava
+- číslo si vieme ľahko odvodiť keď ho delíme 2
+    - ak nám ostane 1 tak napíšem 1 inak 0
+- 192 -> `11000000`
+- 168 -> `10101000`
+- násobenie
+- mocnenie
+    - dá sa v $O(log N)$
+
+## Hexadecimálna
+- 31 => 1f
+
+# Tranzistor
+- PN prepúšťa elektróny len z jednej strany
+- PNP (emitor, báza, kolektor) - poď na pivo
+- NPN (emitor, báza, kolektor) - nechoď pivo nie
