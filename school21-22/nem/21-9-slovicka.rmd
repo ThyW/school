@@ -1,0 +1,46 @@
+---
+output: pdf_document
+---
+
+# Slovesa
+- klopfen: naklepať | geklopft
+- einschneiden: narezať | eingeschnitten 
+- abtrocknen: vysušiť | getrocknet
+- wenden: otočiť | gewendet
+- festdrücken: stlačiť smerom dole | festgedrückt
+- backen: piecť | gebacken
+- garnierne: obložiť | garniert
+- servieren: servírovať | serviert
+- hacken: nakrájať | gehackt
+- rösten: opiecť | geröstet
+- dazugeben: pridať | dazugegeben
+- salzen: osoliť | gesalzen
+- geben: dať | gegeben
+- aufgießen: priliať | aufgegossen 
+- durchrösten: poriadne opiecť | durchgeröstet
+- abschmecken: dochutiť | abgeschmeckt
+- zerlassen: rozpustiť | zerlassen
+- entfernen: dať nabok / odstrániť | entfernt
+- verrühren, untermischen: premiešať / vmiešať | verrührt / untermischt
+- unterrühren: miešať | untergerührt
+ 
+# Podstatne mena
+- der Rand: kraj, okraj
+- das Mehl: múka
+- das Ei: vajko
+- die Semmelbröseln: strúhanka
+- die Panade: "breadcrumb coating" chlebová omrvinka/drobček
+- das Fett: tuk
+- die Zitronenspalten: kôra
+- der Kartoffelsalat: zemiakový šalát
+- die Zwiebel: cibuľa
+- das Schweinefleisch: bravčové mäso
+- das Rindfleisch: hovädzie mäso
+- die Menge: dostatok
+- die Brühe: vývar
+- der Pfeffer: čierne korenie / pepř
+- die Knoblauchzehe: strúčik cesnaku
+- der Speck: slanina
+- die Knoblauchbutter: cesnakové maslo
+- die Speckwürfel: kocky slaniny
+- würfelig: na kocky
