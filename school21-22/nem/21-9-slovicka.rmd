@@ -36,7 +36,8 @@ output: pdf_document
 - die Zwiebel: cibuľa
 - das Schweinefleisch: bravčové mäso
 - das Rindfleisch: hovädzie mäso
-- die Menge: dostatok
+- die Menge: množstvo
+- nötigen: dostatočné
 - die Brühe: vývar
 - der Pfeffer: čierne korenie / pepř
 - die Knoblauchzehe: strúčik cesnaku
