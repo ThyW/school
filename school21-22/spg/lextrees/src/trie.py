@@ -15,8 +15,7 @@ class Trie:
             if not letter in node.children.keys():
                 node.children[letter] = Node()
             node = node.children.get(letter)
-            print(f"{letter}: {node.children}")
-
+            if node.word_end == True: node.word_end = False
         node.word_end = True
 
     def serach(self, key):
@@ -27,12 +26,11 @@ class Trie:
             else:
                 return False
         return node.word_end
-
+    
 def test():
     trie = Trie()
 
     trie.insert("dvere")
     trie.insert("dick")
-    print(trie.serach("dvere"))
 
 test()
