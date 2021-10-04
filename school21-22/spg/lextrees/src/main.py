@@ -8,7 +8,7 @@ trie = Trie()
 r = 30
 d = 30
 
-w, h = 1000, 900
+w, h = 500, 300
 
 window = tk.Tk()
 window.title("Yes")
