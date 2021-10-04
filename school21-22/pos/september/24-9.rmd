@@ -1,0 +1,24 @@
+---
+title: Sekvenčné obvody
+output: pdf_document
+---
+
+# SO
+- návrat záleží od predošlých vstupov
+- 1 bit memory
+
+## 1 bit pamäť - SR Obvod
+- two NOT gates (NOR gates)
+- ak dodám jednotku tak na vstupe aj výstupe je 1
+- ak nemám jednotku tak jednotka je medzi NOT(NOR) gateami
+- do druhej NOR dodáme RESET
+
+- potom máme NOT set a NOT reset
+- ak tam pridám CLK (clock) tak viem settovat a resetovat len ked je clock v 1, cize len pocas nejakej periody
+
+## JK Klopny obvod
+- JK-flip flop
+- Master slave obvod 
+- two SR latches are called a delay
+    - one whole clock cycle behind 
+    - clock negation is uses

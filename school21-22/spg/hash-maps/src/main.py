@@ -1,10 +1,12 @@
 #!/usr/bin/env python3
 
+from typing import Callable, Optional
+
 import ll
 
 # example of a simple hash function
 # hash = sum(ascii(string)) % 100
-def primitive_hash(string):
+def primitive_hash(string: str) -> int:
     sum = 0
     for c in string:
         sum += ord(c)
@@ -12,17 +14,17 @@ def primitive_hash(string):
     return sum % 100
 
 class HashTable:
-    def __init__(self, hash_function):
-        self.__data = [[]] * 100
-        self.__data2 = [ll.LL()] * 100
-        self.__hf = hash_function
+    def __init__(self, hash_function: Callable):
+        self.__data: list[list[str]] = [[]] * 100
+        self.__data2: list[ll.LL] = [ll.LL()] * 100
+        self.__hf: Callable[[str], int] = hash_function
 
     # insert a new key and value into the hash table
-    def insert(self, key, val):
+    def insert(self, key: str, val: str):
         self.__data[self.__hf(key)] = val
 
-    def __str__(self):
-        ret = ""
+    def __str__(self) -> str:
+        ret: str = ""
 
         for each in self.__data:
             if each:
@@ -30,7 +32,7 @@ class HashTable:
         return ret
     
     # get a value for a key from hash table
-    def get(self, key):
+    def get(self, key) -> Optional[list[str]]:
         index = self.__hf(key)
         if self.__data[index]:
             return self.__data[index]
@@ -46,7 +48,7 @@ class HashTable:
     
     # this is pretty dumb, defeats the whole purpose of Hash Tables
     # :/
-    def get_linear(self, key, val):
+    def get_linear(self, key, val) -> Optional[list[str]]:
         index = self.__hf(key)
 
         while self.__data[index]:
