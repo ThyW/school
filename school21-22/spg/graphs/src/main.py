@@ -11,7 +11,10 @@ window = tk.Tk()
 window.title("graph")
 
 canvas = tk.Canvas(window, width=w, height=h, bg="white")
+
+entry = tk.Entry(window)
 canvas.pack()
+entry.pack()
 
 
 def lclick(event):
@@ -19,7 +22,12 @@ def lclick(event):
     g.draw(canvas)
 
 def rclick(event):
-    g.select(event.x, event.y)
+    a = 0
+    try:
+        a = int(entry.get())
+    except:
+        ValueError
+    g.select(event.x, event.y, a)
     g.draw(canvas)
 
 def remv(event):
