@@ -35,19 +35,21 @@ $cislo = rand(100000000, 999999999);
 
 $cislo = (string) $cislo;
 $index = rand(0, 8);
-$new = " ";
+$new = "";
 
 for ($i = 0; $i < 3; $i++) {
     if ($index == 8) {
 	$index = 0;
     }
      
-    $new = $new . "<b>" . $cislo[$index] . "</b>";
-    
+    $new = $new . $cislo[$index];
+
     $index++;
 }
 
-echo "<p> Vyhralo cislo +421" . $cislo . "! Gratulujeme!</p>";
+$x = str_replace($new, "<strong>" . $new . "</strong>", $cislo);
+
+echo "<p> Vyhralo cislo +421" . $x . "! Gratulujeme!</p>";
 ?>
 </body>
 <html>
