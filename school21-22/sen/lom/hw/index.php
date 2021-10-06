@@ -4,20 +4,18 @@ function my_count($ka, $veta) {
     echo substr_count($veta, $ka) . "\n";
 }
 
-function replace($veta) {
+function replace($veta, $input) {
     $ret = $veta;
-    $vowels = ["a", "e", "i", "o", "u", "y"];
-    foreach ($vowels as $vow) {
+    foreach ($input as $vow) {
 	$ret = str_replace($vow, "*", $ret);
     }
 
     echo $ret . "\n";
 }
 
-function remove($veta) {
+function remove($veta, $input) {
     $ret = $veta;
-    $vowels = ["a", "e", "i", "o", "u", "y"];
-    foreach ($vowels as $vow) {
+    foreach ($input as $vow) {
 	$ret = str_replace($vow, " ", $ret);
     }
 
@@ -32,9 +30,10 @@ function reverse($word) {
 }
 
 $veta = "Ano je ti tu vyborne";
+$input = ["a", "e", "i", "o", "u", "y"];
 
 my_count("e", $veta);
-replace($veta);
-remove($veta);
+replace($veta, $input);
+remove($veta, $input);
 reverse("slovo");
 ?>
