@@ -1,0 +1,48 @@
+---
+title: Mindmap čínske náboženstvá
+output: pdf_document
+---
+
+# Zdroje
+- web: https://www.nationalgeographic.org/encyclopedia/confucianism/
+- kniha: TODO
+- video: TODO
+- handouts: TODO
+
+# Čínske náboženstvá 
+
+## Konfucionizmus
+- **"Do not do unto others what you would not others do unto you."**
+
+### What?
+- ancient Chinese belief system
+- philosophy?
+- religion?
+
+### Achievements
+- foundations for much of Chinese culture
+
+### Values and Ideas
+- have a good moral character
+- cosmic harmony
+
+#### Ren or "Humanity"
+- nesebeckosť
+- pokora
+- respect
+
+#### Rituals
+- bring about this values
+- create a greater sense of community within a group
+
+#### Devotion to family
+- ancestor worship
+- submission to parental authority
+- family is the most important group
+
+### Konfucionizmus dnes
+- most influential to this day
+- Neo-Confucianism: Conf + Budda + Tao
+
+## Taoizmus
+
