@@ -1,0 +1,60 @@
+---
+title: Čísla v pamäti
+output: pdf_documnet
+---
+
+# Prirodzené čísla
+- viac bajtové čísla: **LITTLE ENDIAN**, **BIG ENDIAN**
+- endianness
+- little endian: made by intel
+    - more significant bits idú do ďalšieho bajtu
+    - z prava sú least significant bits a najviac vľavo sú most significant bits
+    - z rastúcou adresou rastie significance
+- big endian
+    - v pravo most significant byte
+    - čiže úplne naopak ako big endian
+    - hýbeme sa opačne
+    - s rastúcou adresou klesá significance
+
+# BCD
+    - binary coded decimal
+    - čísla v desiatkovej sústave pomocou 16-tkovej sústavy
+    - jednoduché konverzie do 10 kovej sústavy
+    - je ich viacero: bcd pre 7segmentovky, iné na zobrazenie čiarových kódov
+	- 2 of 5 code
+	- ITF = interleaved 2 of 5
+	- font: code 39 -> využíva 3 of 9 code
+	- font: code 128
+    
+# Záporné čísla
+- priamy kód
+    - 0000|0001 = 1
+    - 1000|0001 = -1
+    - posledný bit si urvem a flipnem ho na 1 a preto mám rozsah od -127 po 127 (+- 0..127)
+- inverzný kód
+    - 0000|0001 = 1
+    - 1111|1110 = -1
+    - basically znegujem celý zápis
+    - výhoda, že nemám plus a mínus 0(v priamom)
+- 2kový doplnkový kód
+    - vezmem inverzný kód
+    - 5: 0000|0101
+    - potom inverzný: 1111|1010
+    - potom pridám: 1111|1011
+    - výhoda je, že na sčítavanie a odčítavanie nám stačí jeden obvod
+    - 5 + (-2):
+	- 1|110 = -2
+	- 0|101 = 5
+	- 0|011 = 3
+- Excess kód
+    - 8 bit signed = -128..127 <- what I have 
+    - -64..191 <- what I want
+    - v praxi: zápis desatinných čísel
+
+# desatinné čísla
+- fixed point -> pevná d. č. 
+    - presne fixed precision
+- floating point -> pohybujúca sa d. č.
+    - 1,23E4
+    - mantisa, exponent
+    - 1.bit : +-; 1..9bit: exponent; 9..32: mantisa
