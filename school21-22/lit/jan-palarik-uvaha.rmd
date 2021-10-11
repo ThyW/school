@@ -1,0 +1,16 @@
+---
+title: Úvaha o Jánovi Palárikovi
+output: pdf_document
+---
+
+# Úvod
+V tejto práci by som sa rád zamyslel nad slovenským autorom Jánom Palárikom, 
+jeho dielom Zmierenie alebo Dobrodružstvo na obžinkoch a nad žánrom tohto
+diela, veselohry. Začnime však tým, čo je to vôbec tá veselohra a čím sa líši 
+od komédie a čo to pre nás v tomto kontexte znamená. Veselohra ako žáner
+sa od žánra komédie odlišuje hlavne v postavách a ich prezentovaní, pričom
+postavy vo veselohre vedia o svojej smiešnosti, kdežto postavy v komédií sú 
+vždy vážne a vážne sa prezentujú. Veselohra sa môže chápať ako odľahčená
+komédia. Myslím si, že Ján Palárik veselohru využíva na odľahčené prezentovanie
+vážnej témy, pričom klasická komédia by bola príliš seriózna a mohla by diváka
+s kombináciou vážnej témy pobúriť. 

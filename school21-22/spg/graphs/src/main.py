@@ -22,13 +22,17 @@ def lclick(event):
     g.draw(canvas)
 
 def rclick(event):
-    a = 0
+    a = None
     try:
         a = int(entry.get())
-    except:
+    except: 
         ValueError
-    g.select(event.x, event.y, a)
-    g.draw(canvas)
+    finally:
+        if a:
+            g.select(event.x, event.y, a)
+        else: 
+            g.select(event.x, event.y)
+        g.draw(canvas)
 
 def remv(event):
     g.remove(event.x, event.y)
