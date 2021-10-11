@@ -1,0 +1,128 @@
+---
+title: Mindmap čínske náboženstvá
+output: pdf_document
+---
+
+# Zdroje
+- web: **https://www.nationalgeographic.org/encyclopedia/confucianism/**, **https://www.nationalgeographic.org/encyclopedia/taoism/**
+- kniha: Svetové náboženstvá, Mladé Letá
+- video: **https://www.youtube.com/watch?v=tUhGRh4vdb8**, **https://www.youtube.com/watch?v=dFb7Hxva5rg**
+- handouts
+
+# Čínske náboženstvá 
+
+## Konfucionizmus
+- **"Čo nechceš aby iní robili tebe, nerob ty im."**
+
+### Vznik
+- 6. storočie pred našim letopočtom
+- Kchung-fu-c' / Konfúcius
+
+### Čo to je?
+- staroveký Čínsky systém viery
+- ucelená filozofická, sociálna, politická a intelektuálna náuka
+
+### Ústredné pojmy
+- Cesta (Tao)
+
+#### Žen(Ren)
+- kultivovaný cit
+
+#### Li
+- rituály, obrady, normy a pravidlá
+
+#### I(Yi)
+- spravodlivosť, správny charakter
+
+### Snaží sa o
+- súlad a pokoj v ľudsých vzťahoch
+- humanitne a láskavo usporiadaná spoločnosť
+- zodpovednosť jednotlivca
+- slobodný a nenásilný vládca
+
+### Obrady
+- svadby, pohreby
+- uctievanie predkov, neba a zeme 
+- farebné oblečenie
+
+### Texty
+- Kniha Premien
+- Kniha Piesní
+- Kniha Dokumentov
+- Kniha Obradov
+- Kronika od jari do jesene
+
+## Taoizmus
+- *"Ten, kto vie nehovorí, ten, kto hovorí, nevie."*
+
+### Vznik
+- Lao-c' -> filozoficá škola
+- 6. storočie pred našim letopočtom
+- Čung Tao Ling -> náboženstvo
+
+### Učenie
+
+#### Tao
+- cesta, na ktorej veci robia to čo robia
+- je: večné, nemenné, harmonické,neurčité, prázdne, netvorivé
+
+#### Energia te
+- nepopísaný papier, otvorené možnosti
+- potencíal
+
+#### Princíp Wu-Wej
+- nezasahovať, nevylepšovať
+- nechať veci nech idú prirodzene
+
+#### Jin & Jang
+- vždy kombinácia oboch
+- reprezentujú dynamickú zmenu
+
+##### Jin
+- zenskosť, nežnosť
+- je ho málo, treba naň klásť dvôraz
+
+##### Jang
+- mužskosť, hrubosť
+- svet ho uprednostňuje, je ho priveľa
+
+#### Hladanie nesmrtelného života
+
+#### 5 zákazov (náboženstvo)
+- zabiť
+- piť víno
+- klamať
+- kradnúť
+- cudzoložiť
+
+#### 10 dobrých myšlienok (náboženstvo)
+- milovať rodičov
+- byť lojálny voči všetým bytostiam
+- tolerantnosť
+- veľkorysosť
+- pomáhať
+- obetovť sa atď...
+
+### Texty
+- Klasická knniha o ceste tao a jej tvorivej energií te
+- Taocan, poklad Taa (náboženstvo)
+- 5485 zväzkov medzi počas dynastie Ming (náboženstvo)
+
+### Obrady & Sviatky (Náboženstvo)
+
+#### Ťiao
+- očista zeme a tela, vyhnanie zlých duchov
+- stotožnenie sa s cestou Tao
+
+#### Čun-kuan
+- duše mŕtvych sa ukazujú živým
+- kňazi rituálom ťiao oslobodzujú duše zosnulých z utrpenia
+
+#### Chrámy
+- Tschaj-šan
+- Chua-šan
+
+### Symbol (Náboženstvo)
+- Symbol Najvyššej bytosti
+- jin, jang
+- osem trigrammov

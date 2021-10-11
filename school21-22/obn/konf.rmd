@@ -1,0 +1,56 @@
+---
+title: Konfucionizmus
+author: Kapko
+output: pdf_document
+---
+
+# Konfucionizmus
+
+## Vznik
+- 6. st. p.n.l.
+- Kchung / Kchung-fu-c
+- dedinka Čou-i
+
+## Texty
+- Kanonicke knihy od ktorych sa odvija ucenie
+    - Kniha Premien (I-ťing)
+    - Kniha Piesni (Š-ťing)
+    - Kniha Dokumentov (Šu-ťing)
+    - Kniha Obradov (Li ťi)
+    - Kornika od jari do jesene (Čchun-čhiou)
+- je to ucelenoa filozoficka, socialna, politicka a intelektualna nauka
+
+## Ustrende pojmy
+- Tao: cesta
+- 3 prncipy
+    - žen (ren)
+	- kultivovany cit => rozdiel medzi clovekom a ostatnymi zivocichmi
+    - li
+	- ritualy, obrady, normy a pravidla => nimi sa vypestovany cit vyjadruje, menia sa casom
+    - i (yi)
+	- spravodlivost, spravny charakter => vrodeny sposob vyjadrenia tohto citu v spravnej chvili na spravnom mieste
+
+## Co sa snazi dosiahnut
+- sulad, pokoj v ludskych vztahoch
+- "harmonia v spolocnosti a klud na nebesiach"
+- zodpovednost -> bez nej sa neda dosiahnut medzi ludmi sulad
+- spolocnost ma byt usporiadana **humanitne** a **laskavo**
+    - clovek musi zacat od seba -> vztahy v spolocnosti -> v state -> vo svete -> vo vesmire
+- 5 typov vztahov vo svete:
+    - Otec a syn; manzel a manzelka; starsi a mladsi brat; panovnik a poddany; priatel a priatel
+- vladca: 
+    - vladnut slobodne bez zvazujucich postupov
+    - princip nenasilia
+
+## Obrady
+- svadby, pohreby -> tisic rocna tradicia (uchovavana ucencami)
+- uctievanie predkov, neba i zeme
+- oblecenie:
+    - farby a vzory na ruchach hraju svoju ulohu
+
+## General info & quotes
+- *vraj sa stretol s Lao-c'(zakladatel taoizmu)*
+- *"Ako chcete sluzit duchom ked neviete sluzit ludom? Ako chcete sluzit pochopit smrt, ked neviete nic o zivote?"* 
+- *"Co nechces aby ini robili tebe, nerob ty im."* -> **Princip čeng-ming**
+- *"Treba byt sam sebou ale nezanedbavat druhych"*
+- *"Uslachtily clovek sa vzdy usiluje pomoct durhym, robit dobro a nie robit zle."*

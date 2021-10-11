@@ -1,0 +1,71 @@
+---
+title: Taoizmus
+output: pdf_document
+---
+
+# Taoizmus
+
+## Vznik
+- Lao-c' -> filozoficka skola : 6. st. p.n.l.
+- Čung Tao Ling -> nabozenstvo -> taoťiao : 2. st. n.l.
+
+## Ucenie
+- ustredny pojem: Tao(cesta)
+    - cesta na ktorej veci robia to co robia
+    - ak poznas cestu, konas nenutene, ak nie robis marne a zbytocne(mozno az katastrofalne)
+    - tao je: vecne, nemenne, dokonale, harmonicke, neurcite, nedefinovane, netvorive, prazdne 
+- **princip wu-wej**
+    - nezasahovat, nechat veci nech funguje ich prirodzeny chod, nevylepsovat ich
+- jin, jang
+    - jin(zenskost, neznost)
+    - jang(muzskost, tvrdost)
+    - vsetky veci pozostavaju z tychto dvoch polarit -> **vzdy kombinacia**
+    - nie je to staticka rovnovaha ale **dynamicka zmena**
+    - svet uprednostnuje **jang**
+    - Lao-c' sa snazi uprednostnit a davat dvoraz na **jin**
+    - hlasanie navrat do detstva: nepopisany papier, navrat ku otvorenym moznostiam -> **energia te**
+- hladanie nesmrtelneho zivota, alchymisti
+- dobre i zle skutky co rozhoduju o ludskej dusi
+- neskor viac siekt -> stale ma spolcne znaky
+    - uctievanie neba, zeme, vody... (filozof Lao'c -> najvyssim majstrom)
+    - ovladnutie tela a prekonavanie zlych duchov sa robi pomocou talizmu a exorcizmov
+    - meditacia ocisti ducha a telo a prijme sa prostriedok na dosiahnutie nesmrtelnosti
+    - ucitel odovzdava svojim ziakom cestu alebo tao; pôsty, carovne formule(motlitby) a posvatne texty, treba odriekat
+- 5 zakazov
+    - zabit
+    - pit vino
+    - klamat
+    - kradnut
+    - cudzolozit
+- 10 dobrych myslienok
+
+## Texty
+- Klasicka kniha o ceste tao a jej tvorivej energii te (Tao te ťing)
+- zbierali sa niekolko storoci
+- medzi rokmi 1386 a 1644 ich bolo uz 5485
+- Taocan, poklad Taa
+
+## Obrady & Sviatky
+- ťiao: ocistit zem a vyhnat zlych duchov
+    - stotoznenie sa s Cestou Tao
+- Čun-kuan: 15. den 7 novolunia
+    - duse mrtvych sa ukazuju zivym
+    - taoisticky knazi pomocou ritualu ťiao oslobodzuju duse zosnulych z utrpenia
+- taoisticke chramy: putnicke miesta
+    - Tchaj-šan 
+	- daleko od svetskeho ruchu sidli Nesmrtelni(hovori sa)
+	- kazdy novy adept Taoizmu sa tam snazi dostat aby sa s nim mohol stretnut
+    - Chua-šan
+
+## Symbol
+- Symbol Najvyssej bytosti
+- muzske jang, zenske jin
+- osem trigrammov
+    - zakladne protiklady
+    - nebo zem, juh sever
+    - vznik u starych samanov na vestenie
+  
+## Quotes and General info
+- *"Nebesky majster (C. T. L.) jedneho dan prisiel na to, ze knizne vedomosti su nepotrebene pre vecny zivot. Opustil dovtedajsi sposob zivota, aby sa stotoznil s taom, a stal sa nesmrtelnym. Zil asketicky a jedneho dna dosltal od mystickeho dietata jedinecny novy text - tao"*
+- *"Ten kto vie, nehovori, ten, kto hovori, nevie"* - Lao-c'
+- Ťaj-čchi-čchuan (boj proti tienu) -> martial arts -> povod v taoizme 
