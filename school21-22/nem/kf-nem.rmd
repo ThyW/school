@@ -1,0 +1,56 @@
+---
+title: Klassenfahrt
+output: pdf_document
+---
+
+# Ersten Tag
+
+## Dorotheum
+Wir werden um viertel nach neun in Wien ankommen.
+Wir fahren mit dem Bus zu unserem Hotel, wo wir unser Gepäck abstellen werden.
+Danach gehen wir in die Kunstgalerie Dorotheum.
+Hier werden wir viele Kunstwerke aus ganz Europa sehen.
+Wir denken, dass dies eine interessante Attraktion ist.
+Nach 2 Stunden werden wir aufbrechen, zu Mittag essen und zur Hofburg fahren.
+
+## Hofburg
+Wir kommen gegen 1 Uhr in Hofbug an.
+Hier werden wir viele Gegenstände sehen, die den Habsburger Monarchen gehörten.
+Wir denken, dass dies ein guter und interessanter Halt auf unserer Tour ist.
+Wir werden gegen 15 Uhr aufbrechen.
+
+## Stephansdom
+Wir erreichen den Stephansdom um halb vier.
+Der Stephansdom ist eine sehr berühmte Kathedrale und eine kulturelle Ikone Österreichs.
+Wir werden die Hauptkathedrale, die Katakomben und auch die Schatzkammer besuchen.
+Wir denken, dass dieser Ort ein Muss ist, wenn man Wien besucht.
+Und schließlich werden wir zum Graben gehen.
+
+## Graben und Kuhlmarkt
+Der Graben ist eine berühmte Straße mit alter Architektur und vielen Geschäften und Restaurants.
+Hier werden wir zu Abend essen.
+Wir denken, dass dies ein guter Ort sein wird, um sich nach einem langen Tag zu entspannen.
+Gegen halb acht fahren wir zurück zu unserem Hotel.
+
+# Dritten Tag
+
+## Kunsthistorisches Museum
+Nach dem Frühstück um 9 Uhr gehen wir um 10 Uhr zum Kunsthistorischen Museum.
+Hier werden wir uns etwa 600 Kunstwerke ansehen.
+Wir werden auch einen netten Audioguide haben, der uns führt.
+Wir glauben, dass Sie einige der Stücke in der Habsburger Kunstsammlung lieben werden.
+Das wird eine ganze Weile dauern, also gehen wir gleich danach zum Mittagessen.
+
+## Wiener Naschmarkt
+Der Wiener Naschmarkt ist ein berühmter internationaler Lebensmittelmarkt.
+Wir werden mehr als hundert Essensstände besuchen können.
+Wir glauben, dass Sie das Essen, das hier serviert wird, lieben werden.
+Nach einem guten Essen werden wir um 3 Uhr aufbrechen.
+
+## Schloss Belvedere
+Dies ist die letzte Station auf unserer Reise.
+Hier werden wir 2 Paläste besichtigen und eine Menge mittelalterlicher und barocker Kunst sehen.
+Der schöne Park, in dem sich dieser Komplex befindet, wird Ihnen sicher gefallen.
+Gegen 6 Uhr kehren wir in unser Hotel zurück, um unsere Koffer zu holen.
+Während wir auf den Zug warten, werden wir am Wiener Hauptbahnhof zu Abend essen.
+

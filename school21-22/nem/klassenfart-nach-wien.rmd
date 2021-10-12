@@ -1,0 +1,103 @@
+---
+title: poznamky
+output: pdf_document
+---
+
+# Erste Tag
+
+## Dorotheum
+After we arrive in Vienna via the Train, we will drop our luggage off at the hotel and the we will get to Dorotheum Art Gallery using public transport.
+Dorotheum is one of the oldest auction houses in Europe. 
+It was was established by Emperor Joseph the First in 1707.
+It houses a lot of art, furniture and jewellery from many European countries, all which are put up for auction.
+We are going to spend about two hours here after that we will be getting lunch and going to Hofburg.
+
+Nachdem wir mit dem Zug in Wien angekommen sind, geben wir unser Gepäck im Hotel ab und fahren dann mit den öffentlichen Verkehrsmitteln zur Kunsthalle Dorotheum.
+Das Dorotheum ist eines der ältesten Auktionshäuser in Europa.
+Es wurde 1707 von Kaiser Joseph dem Ersten gegründet.
+Es beherbergt eine Vielzahl von Kunstwerken, Möbeln und Schmuck aus vielen europäischen Ländern, die alle zur Versteigerung angeboten werden.
+Wir werden etwa zwei Stunden hier verbringen, danach werden wir zu Mittag essen und zur Hofburg fahren.
+
+## Hofburg
+We are going to get to Hofburg at about one o'clock.
+In Hofburg, we will be taking a look at the old imperial life of the Habsburg monarchs.
+We will see many personal items of the Habsburg monarchs.
+Here, we are also going to be visiting the Sisi museum, which displays more than 300 personal items of the famous Empress Elisabeth.
+We will leave at about three o'clock.
+
+Wir werden gegen ein Uhr in der Hofburg ankommen.
+In der Hofburg werden wir einen Blick auf das alte kaiserliche Leben der Habsburger Monarchen werfen.
+Wir werden viele persönliche Gegenstände der Habsburger Monarchen sehen.
+Hier werden wir auch das Sisi-Museum besuchen, das mehr als 300 persönliche Gegenstände der berühmten Kaiserin Elisabeth zeigt.
+Wir werden gegen drei Uhr aufbrechen.
+
+## Stephansdom
+At about half past three we will arrive to the Stephansdom.
+Stephansdom is a very famous cathedral and a cultural icon of Austria.
+Many of the older parts have been destroyed in a fire during the Second World War.
+We will visit the main cathedral, the catacombs and also the treasury.
+This is going to take us about one and a half hours.
+
+Gegen halb vier werden wir am Stephansdom ankommen.
+Der Stephansdom ist eine sehr berühmte Kathedrale und eine kulturelle Ikone Österreichs.
+Viele der älteren Teile wurden bei einem Brand während des Zweiten Weltkriegs zerstört.
+Wir werden den Hauptdom, die Katakomben und auch die Schatzkammer besichtigen.
+Wir werden etwa eineinhalb Stunden brauchen.
+
+## Graben Kohlmark
+Around half past five, we will get to Graben.
+Graben is a famous street with some old architecture.
+There are also some shops and restaurants so we will also have dinner here.
+We are going to spend about to hours here, browsing shops and having fun.
+After that we will take a bus to our hotel.
+
+Gegen halb sechs erreichen wir den Graben.
+Graben ist eine berühmte Straße mit alter Architektur.
+Es gibt auch einige Geschäfte und Restaurants, so dass wir hier auch zu Abend essen werden.
+Wir werden etwa zwei Stunden hier verbringen, in den Geschäften stöbern und Spaß haben.
+Danach nehmen wir einen Bus zu unserem Hotel.
+
+# Dritte Tag
+
+## Kunsthistorische Museum
+After having breakfast in the hotel at around 9 o'clock, we are going to get to Kunsthistorische Museum at 10 o'clock.
+This museum exhibits the large art collection of the Habsburg monarchs.
+On the opposite side of the street lies an identical building where the Naturhistorisches Museum lies.
+We will be exploring the 600 art pieces while listening to the audio guide.
+We are going to stay here for about two and a half hours and then go to get some lunch in the famous Wiener Naschmarkt.
+
+Nachdem wir gegen 9 Uhr im Hotel gefrühstückt haben, machen wir uns um 10 Uhr auf den Weg zum Kunsthistorischen Museum.
+In diesem Museum ist die große Kunstsammlung der Habsburger Monarchen ausgestellt.
+Auf der gegenüberliegenden Straßenseite befindet sich ein identisches Gebäude, in dem das Naturhistorische Museum untergebracht ist.
+Wir werden die 600 Kunstwerke erkunden, während wir dem Audioguide zuhören.
+Wir werden etwa zweieinhalb Stunden hier bleiben und dann zum Mittagessen auf den berühmten Wiener Naschmarkt gehen.
+
+## Wiener Naschmarkt
+After the museum, we will get to the Naschmarkt at about one o'clock.
+Wiener Naschmarkt is a famous international food market.
+There are more than a hundred permanent food stands which serve food from all around the world. 
+You can have food from almost any country and culture you can imagine.
+After having a nice meal, we will leave at about three o'clock.
+
+Nach dem Museum werden wir gegen ein Uhr zum Naschmarkt gehen.
+Der Wiener Naschmarkt ist ein berühmter internationaler Lebensmittelmarkt.
+Es gibt mehr als hundert permanente Essensstände, die Essen aus der ganzen Welt anbieten. 
+Man kann hier Essen aus fast allen Ländern und Kulturen bekommen, die man sich vorstellen kann.
+Nach einem guten Essen werden wir gegen drei Uhr aufbrechen.
+
+## Schloss Belvedere
+We will get to Schloss Belvedere at half past three. 
+It is a historical complex which houses important Austrian art and consists of two baroque palaces The Upper and the Lower Belvedere.
+Each palace has a collection of medieval and Baroque art.
+It is also a former residence of Austrian Prince Eugene of Savoy.
+We are going to leave at about half past five. 
+We will get to our hotel and we will grab all our luggage and we will get to the Wien Hauptbanhhof.
+Here, we will have a pleasant dinner in one of the many restaurants in the Hauptbahnhof, while waiting for our train.
+
+Wir erreichen das Schloss Belvedere um halb vier. 
+Es ist ein historischer Komplex, der bedeutende österreichische Kunst beherbergt und aus zwei Barockschlössern besteht, dem Oberen und dem Unteren Belvedere.
+Jedes Schloss beherbergt eine Sammlung von mittelalterlicher und barocker Kunst.
+Es ist auch eine ehemalige Residenz des österreichischen Prinzen Eugen von Savoyen.
+Wir werden gegen halb sechs Uhr aufbrechen. 
+Wir werden unser Hotel erreichen, unser Gepäck packen und zum Wiener Hauptbahnhof fahren.
+Hier werden wir in einem der vielen Restaurants des Hauptbahnhofs gemütlich zu Abend essen, während wir auf unseren Zug warten.

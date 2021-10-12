@@ -1,0 +1,56 @@
+---
+title: Poznamky
+output: pdf_document
+---
+
+# Ersten Tag
+
+## Dorotheum
+We are going to arrive in Wien at quarter past nine.
+We will take a bus to our hotel, where we are going to drop our luggage off.
+After that we will go to Art Gallery Dorotheum.
+Here we will see many works of art, from all around Europe.
+In our opinion, this is a good way to start our tour of Viennas.
+We will leave after 2 hours, we will get lunch and head to Hofburg.
+
+## Hofburg
+We arrive in Hofbug at about 1 o'clock.
+Here we will see many items that belonged to the Habsburg Monarchs.
+We think, that this a good and interesting stop on our tour.
+We will leave at about three o'clock.
+
+## Stephansdom
+We will arrive in Stephansdom at half past three.
+Stephansdom is a very famous cathedral and a cultural icon of Austria.
+We will visit the main cathedral, the catacombs and also the treasury.
+We think that this place is a must when visiting Wien.
+And finally we are going to go to Graben.
+
+## Graben und Kuhlmarkt
+Graben is a famous street with old architecture and many shops and restaurants.
+We will have dinner here.
+We think this will be a good place to relax after a long day.
+At about half past seven, we will go back to our hotel.
+
+# Dritte Tag
+
+## Kunsthistorisches Museum
+After breakfast at 9, we will get to Kunsthistorisches Museum at 10 o'clock.
+Here we will look at about 600 art pieces.
+We will also have a nice audio guide to guide us.
+We think you will love some of the pieces in the Habsburg art collection.
+This will take quite some time, so right after we're going to get some lunch.
+
+## Wiener Naschmarkt
+Wiener Naschmarkt is a famous international food market.
+We will be able to visit more than a hundred food stands.
+We think that you will love the food served here.
+After having a nice meal, we will leave at 3 o'clock.
+
+## Schloss Belvedere
+This is the last stop on our trip.
+Here, we will visit 2 palaces and see a lot of middle age and baroque art.
+We think you will enjoy this, because of the nice park this this complex is located in.
+At around 6 o'clock we will get back to our hotel to get our bags.
+We will dine at Wien Hauptbahnhof while waiting for the train.
+
