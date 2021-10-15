@@ -1,0 +1,64 @@
+---
+title: More coding
+output: pdf_document
+---
+
+# Grayov zrkadlový kód
+ gray:      bin:	    
+     0000	0000    
+     0001	0001    
+     0011	0010    
+     0010	0011    
+     0110	0100    
+
+- treba si to doštudovať
+- "Prechádzka po hyperkocke???"
+- vždy sa mení len jeden bit
+
+# Encoding
+- kódovanie stringov
+
+## ASCII
+- American Standard Code for Information Interchange
+- riadiace znamky (control characters, non-printing characters)
+    - escape sequences
+- konce riadkov CR/LF (De.: 13/10, Hex: 0x0D, 0x0A) Win / Lin / Mac sú rôzne 
+- Ctrl = -64
+- Malá abeceda = +32: A -> a = 65 -> 97
+
+
+## Kódové stránky
+- S pevnou dĺžkou: **Windows-1250**, **ISO8859-2**
+- s premenlivou dĺžkou kódu: **Unicode**: UTF-8, UTF-16, LE/BE(litle, big endian), ...
+    - zápis určí nejaký **code point** v Unicode a príslušný **znak** sa vykreslí pomocou **fontu**
+    - Začiatok unicodového text-streamu: UTF-8: EF BB BF
+    - Viacbajtový zápis
+	- 1xxx xxxx - 1B zápis
+	- 01xx xxxx - nie som prvý byte
+	- 001x xxxx - 2B zápis
+	- 0001 xxxx - 3. až 6. byte
+    - zápis control sequences
+	- **Escape chars**: \n, \t, \\, \, ...
+	- **transfer encoding**: quoted-printable, base64
+	- HTML entity, URL code, ...
+    - súbory majú tiež nejakú syntax, hlavičky a pod -> **formát**
+
+## Čiarové kódy
+- kód 128
+    - na počet čiar veľa symbolov
+    - malá, veľká abeceda, control chars
+
+## Vysielacie vlastnosti
+- **samosynchrónny kód**
+    - viem kde som
+- **prefixový kód**
+    - žiadne kódované slovo nie je prefixom iného
+
+## EDC
+- **parity bit**
+    - vždy musím mať párny počet jednotiek v payloade 1 byte + 1 bit
+- **Bergerov kód**
+    - súčet núl
+    - odhaluje problém v akomkoľvek počte bitov 
+**checksum**
+    - viem zistiť súradnice chyby
