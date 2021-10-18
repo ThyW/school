@@ -4,13 +4,53 @@ output: pdf_document
 ---
 
 # Úvod
-V tejto práci by som sa rád zamyslel nad slovenským autorom Jánom Palárikom, 
+V tejto práci by som sa rád zamyslel nad slovenským autorom Jánom Palárikom,
 jeho dielom Zmierenie alebo Dobrodružstvo na obžinkoch a nad žánrom tohto
-diela, veselohry. Začnime však tým, čo je to vôbec tá veselohra a čím sa líši 
-od komédie a čo to pre nás v tomto kontexte znamená. Veselohra ako žáner
+diela, nad veselohrou. Začnime však tým, čo je to vôbec tá veselohra a čím 
+sa líši od komédie a čo to pre nás v tomto kontexte znamená. Veselohra ako žáner
 sa od žánra komédie odlišuje hlavne v postavách a ich prezentovaní, pričom
-postavy vo veselohre vedia o svojej smiešnosti, kdežto postavy v komédií sú 
+postavy vo veselohre vedia o svojej smiešnosti, kdežto postavy v komédií sú
 vždy vážne a vážne sa prezentujú. Veselohra sa môže chápať ako odľahčená
 komédia. Myslím si, že Ján Palárik veselohru využíva na odľahčené prezentovanie
 vážnej témy, pričom klasická komédia by bola príliš seriózna a mohla by diváka
-s kombináciou vážnej témy pobúriť. 
+s kombináciou vážnej témy pobúriť.
+
+# úvod2
+Hoci dráma existuje už od čias antického grécka, jej význam zostal
+rovnaký po stáročia až do dnšnej modernej doby. Prečo však dráma vznikla
+už v antike, a má jej vnzik niečo spoločné s demokraciou? Ja by som si
+dovolil tvrdiť, že dráma a teda hlavne tragédia vznikla ako odpoveď
+na demokraciu a teda na to, že v spoločnosti sa odrazu moc delila medzi všetok
+ľud, čo jednotlivcom a skupinám umožňovalo po tejto moci bažiť a robiť všetko
+preto, aby ju získali pre seba. Autori tragédií sa ľuďom snažia ukázať to zlo
+a tú špinu, ktorú mal za následok tento boj o moc. Komédia, spolu s veselohrou,
+sú tomuto celému veľmi podobá, až na to, že okrem silnej myšlienky sa divákovi
+snaží ukázť absurditu tohoto boja o moc pomocou humoru. Rád by som sa preto
+zamyslel nad tým, prečo sa teda Ján Palárik rozhodol použiť prváve veselohru,
+keď v 60. rokoch 19. storočia rozhodol napísať dielo Zmierenie?
+
+## Tragédia
+Čin:
+    - dej
+    - charaktrey
+    - myšlienky
+    - slovný výrok
+    - hudba
+    - ž-niečo?
+
+# Význam Palárika a jeho tvorby pre nás:
+1. Konečne k slovenskému divadlu 
+2. Jeho pozitívny prístup k témam 
+3. Dáva divadlu kompozíciou antickej drámy dobré základy
+4. Zámenou postáv experimentuje
+5. Kultivuje 
+    - 6 riadkov - definícia
+    - do 25 riadkov záver
+6. Poznanie v jeho témach
+7. Uvedomenie si charakterov v kotexte doby
+8. Uvedomenie si vzťahov menšín dnes
+9. vnímanie sociét
+10. Otázka národnostná a jej aktualizácia
+
+## Argument 1.
+
