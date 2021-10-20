@@ -1,0 +1,19 @@
+header, footer {
+    background-color: black;
+    color: white;
+    margin: 5px;
+    padding: 5px;
+}
+
+nav {
+    background-color: darkred;
+    margin: 5px;
+    padding: 5px;
+}
+
+nav a {
+    color: powerblue;
+}
+nav a:hover {
+    background-color: gray;
+}
