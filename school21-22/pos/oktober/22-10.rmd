@@ -1,0 +1,58 @@
+---
+title: More on codes
+author: Kapko
+output: pdf_document
+---
+
+# Komprimácia
+- zápis informácie na co najmenšie miesto
+- **stratová** - zip, rar, png, flac
+- **bezstratová** - mp3, ogg, codec
+
+## Príklady
+- **RLE(run lenght encoding)**
+    - zapisujem, koľko a akých(rovnakých) znakov za sebou (tzv. runs) vidím
+    - **bring to front**
+	- funguje to rovnako ako alt tabbing, last used sa posunie na prvé miesto
+
+- **LZ77**
+    - sliding window
+    - trojica -> distance, length, character - akú dlhú rovnakú sekvenciu vidím ako ďaleko v histórii
+    - potom pripíšem 1 znak, ktorým som reprezentovať nevedel
+**LZ78**
+    - píšem len dvojicu, index do slovníka a nový znak
+    - slovo + daný znak = nové slovo v slovníku
+**LZW**
+    - slovník inicializujem jedno písmenovými slovami ("a".."z")
+    - nové slovo: index + prvé písmeno ďalšieho slova
+**Huffmanovo kódovanie**
+    - optimalizácia Shannon-Fano kódovania
+    - frekvenčná analýza textu(najpoužívanejšie sa píšu najkratšie)
+	- ku správe treba priložiť slovník
+	- možnosť viacerých slovníkov podľa kontextu
+
+# Vysielanie signálu
+- šum
+- nerovnomerný útlm
+- elektromagnetické rušenie z okolia
+- a/d d/a d/d a/a prevodník(analog digital)
+- modem / rádio
+
+## Delenie
+- **Množstvo naraz prenášaných signálov**
+    - serial
+    - paralel
+- **synchrónnosť**
+    - synchrónny - synchronizované externými hodinami(zariadenia v počítači, napr. RAMky)
+    - asyncrónny - na synchronizáciu pripadá väčší overhead
+- flow control
+    - rts/cts (request to send, clear to send) realizované  vodičmi
+    - Xon/Xoff realizované správami (riadiacimi znakmi)
+- smer
+    - simplex - const sender 
+    - half-duplex - striedajú sa
+    - full-duplex - obaja naraz vysielajú
+- MA(multiple access) -> prístup ku médiu viacerými vysielajúcimi
+    - TDMA, FDMA, CDMA, SDMA
+    - OFDM - viac frekvenčných kanálov prideľovaných podľa potrebnej rýchlosti
+    - CSMA/CD (ethernet) a csma/ca (wifi) - viac až pri sieťach
