@@ -1,0 +1,16 @@
+---
+title: How maturita
+output: pdf_document
+---
+
+20 minút príprava
+
+10 minút literatúra
+10 minút gramatika + sloh + ako sa to týka literatúry
+
+1. úvod (začnem tu -> idem sem -> nakoniec sa dostanem sem)
+2. jadro
+    1. niečo
+    2. niečo
+    3. niečo
+3. koniec, nejaký záver

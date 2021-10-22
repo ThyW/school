@@ -1,0 +1,24 @@
+---
+title: ako na poviedku
+output: pdf_document
+---
+
+PPT: román, poviedka, novela, romantizmus(?),
+    - realizmus svetový
+    - realizmus slovenský
+    - analýza
+pojmy:
+romantizmus, pozitivizmus, A. Comte, realita, fabula, realizmus, vlny autorov(etapy) <- historický súlad, sylabotonizmus
+poviedka, rozprávka, opis, román, racionalizmus(vedecko technický rozvoj), naturalizmus <- prirodzená podstata fenoménu, senzualizmus
+občianska spoločnosť, predstavitelia <- slovenskí(Hviezdoslav?), svetoví(Dostojevskij)
+
+1. argument - význam pre nás
+    - na rôznych autoroch
+2. argument - experimenty 
+3. porovnanie autorov
+4. konflikt romantizmus a realizmus
+5.
+6.
+7.
+8.
+9.
