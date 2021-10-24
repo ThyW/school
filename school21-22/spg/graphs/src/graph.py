@@ -1,7 +1,8 @@
 #! /usr/bin/env python3
 
-from typing import Tuple, List
+from typing import Optional, Tuple, List
 from tkinter import Canvas
+from heapq import heapify, heappush, heappop
 
 
 class Node:
@@ -74,3 +75,18 @@ class Graph:
                         (n.x+ne[0].x)/2,
                         (n.y+ne[0].y)/2,
                         text=ne[1])
+
+    def djikstra(self, start_id: int, finish_id: int) -> None:
+        vertex_value: int = 100000 # start value of all unvisited nodes
+        heap = []
+        dist = [vertex_value for _ in self.nodes]
+        start_node = [x for x in self.nodes if x.id == start_id]
+        other_nodes = [x for x in self.nodes if x.id != start_id]
+        for each_node in other_nodes:
+            heappush(heap, (vertex_value, each_node.id))
+        heappush(heap, (0, start_node[0].id))
+
+        while heap:
+            smallest = heappop(heap)
+            verticies = [(x[1], x[0]) for x in smallest[1].neightours]
+            # TODO hehe brain no work

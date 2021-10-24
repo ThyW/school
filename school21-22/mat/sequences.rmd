@@ -1,0 +1,36 @@
+---
+title: Sequences
+author: Kapko
+output: pdf_document
+header_includes:
+    - \usepackage{amsmath}
+---
+
+## Definícia
+- každá funkcia definovaná na množine $N$ je postupnosťou:
+
+\begin{center}
+\begin{align*}
+a_n &= N \rightarrow R
+\end{align*}
+\end{center}
+
+## Aritmetická postupnosť
+- postupnosť je aritmetická keď:
+
+\begin{center}
+\begin{align*}
+\forall n \in N:\\
+a_{n+1} &= a_n + d\\
+a_n &= a_1 + (n - 1) \cdot d\\
+a_r &= a_s + (r - s) \cdot d \rightarrow r > s\\
+\end{align*}
+\end{center}
+
+- súčet prvých $n$ elementov
+
+\begin{center}
+\begin{align*}
+S_n &= (a_1 + a_n) \cdot \frac{n}{2}
+\end{align*}
+\end{center}
