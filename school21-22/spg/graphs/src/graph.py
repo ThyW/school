@@ -1,14 +1,27 @@
 #! /usr/bin/env python3
 
-from typing import NamedTuple, Optional, Tuple, List, Dict
+from typing import NamedTuple, Tuple, List, Dict
 from tkinter import Canvas
-from heapq import heapify, heappush, heappop
+from heapq import heappush, heappop
 
 class Pair(NamedTuple):
     id: int
     w: int
-    def __gt__(self, x: Tuple[_T_co, ...]) -> bool:
-        return super().__gt__(x)
+    def __gt__(self, x: "Pair") -> bool:
+        return self.w > x.w
+
+    def __lt__(self, x: "Pair") -> bool:
+        return self.w < x.w
+    
+    def __eq__(self, x: "Pair") -> bool:
+        return self.w == x.w
+
+    def __ge__(self, x: "Pair") -> bool:
+        return self.w >= x.w
+    
+    def __le__(self, x: "Pair") -> bool:
+        return self.w <= x.w
+
 
 class Node:
     id: int = 0
@@ -37,6 +50,9 @@ class Node:
         if x - 20 < self.x <= x + 20 and y - 20 < self.y <= y + 20:
             return True
         return False
+
+    def __lt__(self, other: "Node"):
+        return self.weight < other.weight
 
 
 class Graph:
@@ -82,46 +98,18 @@ class Graph:
                         text=ne[1])
 
     def djikstra(self, start_id: int, finish_id: int) -> None:
-        vertex_value: int = 100000 # start value of all unvisited nodes
-        heap: List[] = []
-        dist: Dict[int, int] = dict()
-        for each_node in self.nodes:
-            dist[each_node.id] = vertex_value
-        dist[start_id] = 0
-        start_node = [x for x in self.nodes if x.id == start_id]
-        start_node = start_node[0]
-        other_nodes = [x for x in self.nodes if x.id != start_id]
-        path: List[int] = []
-
-        for each_node in other_nodes:
-            heappush(heap, (vertex_value, each_node.id))
-        heappush(heap, (0, start_node.id))
+        heap = []
+        end = None
+        for each in self.nodes:
+            if each.id == start_id:
+                each.weight = 0
+            if each.id == finish_id:
+                end = each
+            heappush(heap, each)
 
         while heap:
-            smallest = heappop(heap)
-            neighbours = [n for n in smallest.neightbours]
-
-            #      a - - - e
-            #      |\      |
-            #      | -d - - b
-            #      |  /     |
-            #      c - - - -f
-            #
-            # a -> f
-            # a - c = 3
-            # a - e = 10
-            # a - d = 5
-            # c - d = 4
-            # c - f = 8
-            # d - b = 13
-            # b - e = 8
-            # b - f = 1
-            # 
-            # a - c - f = 8
-            # a - c - d - b - f = 8
-            #
-            #
-            #
-            #
-            #
-            #
+            for node_tuple in heap[0].neighbours:
+                if node_tuple[0].weight > node_tuple[1] + heap[0].weight:
+                    node_tuple[0].weight = node_tuple[1] + heap[0].weight
+        
+        print(end.weight)

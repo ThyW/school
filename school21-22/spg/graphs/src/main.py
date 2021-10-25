@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 import tkinter as tk
-from . import graph
+import graph
 
 g = graph.Graph()
 
@@ -11,7 +11,7 @@ window = tk.Tk()
 window.title("graph")
 
 canvas = tk.Canvas(window, width=w, height=h, bg="white")
-djkstra_button = tk.Button(window, text="Djikstra")
+djikstra_button = tk.Button(window, text="Djikstra", command= lambda: run_dk(g))
 
 entry = tk.Entry(window)
 entry_start = tk.Entry(window)
@@ -20,6 +20,7 @@ entry_end = tk.Entry(window)
 canvas.pack()
 
 entry.pack()
+djikstra_button.pack()
 entry_start.pack()
 entry_end.pack()
 
@@ -47,6 +48,10 @@ def remv(event):
     g.remove(event.x, event.y)
     g.draw(canvas)
 
+def run_dk(graph):
+    start = int(entry_start.get())
+    finish = int(entry_start.get())
+    graph.djikstra(start, finish)
 
 canvas.bind("<Button-1>", lclick)
 canvas.bind("<Button-3>", rclick)
