@@ -1,9 +1,14 @@
 #! /usr/bin/env python3
 
-from typing import Optional, Tuple, List
+from typing import NamedTuple, Optional, Tuple, List, Dict
 from tkinter import Canvas
 from heapq import heapify, heappush, heappop
 
+class Pair(NamedTuple):
+    id: int
+    w: int
+    def __gt__(self, x: Tuple[_T_co, ...]) -> bool:
+        return super().__gt__(x)
 
 class Node:
     id: int = 0
@@ -78,15 +83,45 @@ class Graph:
 
     def djikstra(self, start_id: int, finish_id: int) -> None:
         vertex_value: int = 100000 # start value of all unvisited nodes
-        heap = []
-        dist = [vertex_value for _ in self.nodes]
+        heap: List[] = []
+        dist: Dict[int, int] = dict()
+        for each_node in self.nodes:
+            dist[each_node.id] = vertex_value
+        dist[start_id] = 0
         start_node = [x for x in self.nodes if x.id == start_id]
+        start_node = start_node[0]
         other_nodes = [x for x in self.nodes if x.id != start_id]
+        path: List[int] = []
+
         for each_node in other_nodes:
             heappush(heap, (vertex_value, each_node.id))
-        heappush(heap, (0, start_node[0].id))
+        heappush(heap, (0, start_node.id))
 
         while heap:
             smallest = heappop(heap)
-            verticies = [(x[1], x[0]) for x in smallest[1].neightours]
-            # TODO hehe brain no work
+            neighbours = [n for n in smallest.neightbours]
+
+            #      a - - - e
+            #      |\      |
+            #      | -d - - b
+            #      |  /     |
+            #      c - - - -f
+            #
+            # a -> f
+            # a - c = 3
+            # a - e = 10
+            # a - d = 5
+            # c - d = 4
+            # c - f = 8
+            # d - b = 13
+            # b - e = 8
+            # b - f = 1
+            # 
+            # a - c - f = 8
+            # a - c - d - b - f = 8
+            #
+            #
+            #
+            #
+            #
+            #
