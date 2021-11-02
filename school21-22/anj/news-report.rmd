@@ -1,0 +1,11 @@
+---
+title: Brave in the face of danger, investigative journalists receive Nobel Peace Prize.
+author: Kapko
+output: pdf_document
+---
+
+On the 8th of October of this year, chairwoman of the Norwegian Nobel Prize committee announced this years Nobel Peace Prize winners, journalists Maria Ressa and Dimitry Muratov.
+
+Mrs. Berit Reiss-Andersen, chairwoman of the Nobel Prize committee, announced this years Nobel Peace Prize winners, which coincidentally, both were journalists. During her opening speech, madam Reiss-Andersen spoke about the necessity of free speech and the freedom of expression in our daily lives and as a important part of all modern democratic societies, as well as being a predisposition for lasting peace. **Having emphasized the importance of free and critical journalism**, madam chairwoman also spoke about the reasons these journalists were awarded, as well as their individual achievements. **Firstly**, Miss Ressa is a Filipino-American journalist and CEO of Rappler, a Philippine online news website dedicated to revealing corruption in the Philippine government. **It is reported**, that she's been a target of many threats, apparently, some of them even threats on her life and the life of her fellow journalists and colleges. **Secondly**, Mr. Muratov is a Russian journalist and editor-in-chief of the *Novaya Gazeta* pro-democratic newspaper. This newspaper is **generally known** to report on sensitive political issues as well as having uncovering government ties in many government scandals throughout the years. **It appears**, that many of their journalists over the years **might have been** killed because of their work.
+
+In my opinion, giving this award to these journalists, who are in these incredibly dangerous situations, is a great way to show them the our appreciation for their work and for the dangers they put themselves in to deliver us the truth. It won't solve any of the problems, but it can definitely raise awareness on these issues.
