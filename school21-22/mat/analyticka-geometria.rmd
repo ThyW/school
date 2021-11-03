@@ -1,0 +1,83 @@
+---
+title: Analytická geometria lineárnych útvarov
+authro: J. Kapko
+header-includes:
+    - \usepackage{amsmath}
+output: pdf_document
+---
+
+# Priamka v 2D
+
+## Všeobecná rovnica priamky
+\begin{center}
+$X = A + t \cdot \vec{u}$
+\end{center}
+
+- $A$ -> začiatočný bod priamky
+- $t$ -> **číslo, ktoré nám vyrába všetky body priamky v $n$ rozmernom priestore**
+- $\vec{u}$ -> smerový vektor priamky
+
+## Parametricé vyjadrenie priamky
+\begin{center}
+\begin{align*}
+x =& -1 + 3t \\
+y =& 5 - 2t \\
+2x + 3y - 13 =& 0 \\
+\end{align*}
+\end{center}
+
+**Ak bod vyhovuje tejto rovnici, potom patrí priamke:**
+
+\begin{center}
+$A \in p \Rightarrow ax_A + by_A + c = 0$
+\end{center}
+
+## Smernicový tvar
+\begin{center}
+$y = kx + q$
+\end{center}
+
+## Úsekový tvar
+\begin{center}
+$\frac{x}{p} + \frac{y}{q} = 1$
+\end{center}
+
+# Prienik priamok
+**Máme dve priamky p, q:**
+
+\begin{center}
+$(P, \vec{u_p})$ \\
+$(Q, \vec{u_q})$
+\end{center}
+
+**Ak:**
+
+\begin{center}
+$\vec{u_p} = k \cdot \vec{u_q}$
+\end{center}
+
+**Potom:**
+
+\begin{center}
+$p \cap q = \emptyset \Rightarrow p \parallel q$
+$p \cap q \neq \emptyset \Rightarrow p \equiv q$
+\end{center}
+
+**Inak:**
+
+\begin{center}
+$\vec{u_p} \neq k \cdot \vec{u_q}$ 
+\end{center}
+
+**Potom:**
+
+\begin{center}
+$p \cap q = \emptyset \Rightarrow mimobežné $\\
+$p \cap q \neq \emptyset \Rightarrow rôznobežné$
+\end{center}
+
+## Uhol medzi dvoma priamkami
+- uhol dvoch priamok je uhol ich smerových vektorov
+\begin{center}
+$\cos \phi = \frac{\vec{u_p} \cdot \vec{u_q}}{|\vec{u_p}| \cdot |\vec{u_q}|}$ 
+\end{center}
