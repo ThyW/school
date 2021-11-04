@@ -19,13 +19,13 @@ output: pdf_document
     - sliding window
     - trojica -> distance, length, character - akú dlhú rovnakú sekvenciu vidím ako ďaleko v histórii
     - potom pripíšem 1 znak, ktorým som reprezentovať nevedel
-**LZ78**
+- **LZ78**
     - píšem len dvojicu, index do slovníka a nový znak
     - slovo + daný znak = nové slovo v slovníku
-**LZW**
+- **LZW**
     - slovník inicializujem jedno písmenovými slovami ("a".."z")
     - nové slovo: index + prvé písmeno ďalšieho slova
-**Huffmanovo kódovanie**
+- **Huffmanovo kódovanie**
     - optimalizácia Shannon-Fano kódovania
     - frekvenčná analýza textu(najpoužívanejšie sa píšu najkratšie)
 	- ku správe treba priložiť slovník

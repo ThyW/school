@@ -13,6 +13,17 @@ output: pdf_document
     - dej(čin), charaktery postáv, zaujímavé myšlienky(pre mňa zaujímavá), slovný výraz(sila slova)
     - scéna(kostýmy, kulisy), hudba -> emocionálne zložky
     - trojjedinosť -> jednota deja(čin), času(nebudem meniť čas aby som nerušil diváka) a priestoru(nebudem rušiť divákov zmenou priestoru)
+- **k hra:**
+    - Ďuro je veľmi hnusný na Zuzku
+    - chce len majetok, a na Zuze mu nezáleží
+    - starý Palčíkov nechce dať svoj majetok Ďurovi
+    - Ďuro to celé blamuje na svojich rodіčov a Palčíkovcov
+    - Palčíkovci kvoli Ďurovi a dvom svadbám pomaly prichádajú o peniaze
+    - Palčikovci a Ľavkoci majú hádku
+    - Beta sa nechce vzdať Zuzkinych vecí
+    - Ďuro wants to turn the leaf
+    - všetci sa došli ospravedlniť Zuze a jej rodine
+    - Ďuro má stále issues
 
 # A. Noetika
 
@@ -25,15 +36,15 @@ output: pdf_document
 
 ### fabula:
 - postavy
-    - mama, starý muž, mladý muž(Jurko), mamina sestra a jej muž, Zuzka, Jurova frajerka, Zuzina mama, Zuzin otec 
+    - mama, otec, mladý muž(Jurko), mamina sestra a jej muž, Zuzka, Ďurova frajerka, Zuzina mama, Zuzin otec, Zuzin brat(Ondriš), Ďurov a Zuzin syn, Michal
 - priestory
-    - chyža, krčma, tancovacia miestnosť
+    - chyža, krčma, tancovacia miestnosť, obydlie Palčíkovcov, vnútri tohto Palčíkovského obydlia, Zuzine obydlie
 - čas
     -  
 - deje
     - 
 - predmety
-    - fľaša domácej
+    - fľaša domácej, cigara, Zuzkine vankúše a periny
 - iné
     -
 
