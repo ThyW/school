@@ -1,0 +1,37 @@
+---
+title: niečo
+author: Kapko
+output: pdf_document
+---
+
+# Modulácia
+- A/D prevodník
+- prevod analóg signalu do digitálnej
+    - PWM - regulácia jasu LEDky
+    - **PCM - zápis analógovej vlny** => maturita
+	- sampling rate
+	- bit depth - kvantizácia
+	- WAV súbor (RIFF container)
+
+# Baseband modulácia (digital line code)
+samotné nuly a jednotky su vhodné pre dané medium (plus je jednotka, nic je nula)
+- unipolar, polar, bipolar
+    - (unipolar)mark, space, len jendým smerom
+    - (polar) stále vysielam nejaké nenulové napätie, vysielam plusy a mínusy, keď vysielam nulu tak príjmateľ vie, že nič nevysielam
+    - (bipolárne) 1 je +, 0 je 0 ale subsequent jednotky sa striedajú +-+-, dosiahnem dobré vlastnosti striedavého prúdu
+- [non]return to zero - pol periódy signalizujem a pol periódy sa vraciam naspäť do nuly
+- run lenght limiting - zbavenie sa po sebe idhúcich núl
+    - stuffed bits
+    - 8b/10b - 8 => 10, nikdy nejde viac ako 5 núl za sebou, rozdiel 1 a 0 je najviac 2
+    - violations: B8ZS, B6ZS, HDB3
+- Hybrid ternary coding
+- Machester encoding (Ethernet)
+    - differential manchester 1 zmením smer padania, 0 ponechám smer padania
+
+# analógová modulácia
+kódovanie dát do vyššie nosnej fekvencie za účelom zlepšenia vlastností prenosu
+- ampltitúdová - AM (amplitude modulation)
+- frekvenčná - FM (frequency modulation) 
+- fázová - Phase Shift Keying
+    - binárne psk
+    - quadrature psk
