@@ -1,0 +1,7 @@
+---
+title: 6 phrases
+author: Kapko
+output: pdf_document
+---
+
+Many companies have to think **outside of the box** in order to keep their marketing relevant. I don't think it's that hard, it's not **rocket science** and it almost never **breaks the bank**. So why do some companies have such problems with keeping up with the **best marketing practises**? A good marketing campaign goes **hand in hand** with a good marketing team which can **see eye to eye** with customers...
