@@ -1,6 +1,6 @@
 #! /usr/bin/env python3
 
-from typing import NamedTuple, Tuple, List, Dict
+from typing import NamedTuple, Optional, Tuple, List, Dict
 from tkinter import Canvas
 from heapq import heappush, heappop
 
@@ -33,6 +33,7 @@ class Node:
         Node.id += 1
         self.id: int = Node.id
         self.weight = 1000
+        self.previous: Optional[Node] = None
 
     def add(self, n: "Node", w: int):
         n.neighbours.append((self, w))
@@ -97,13 +98,16 @@ class Graph:
                         (n.y+ne[0].y)/2,
                         text=ne[1])
 
-    def djikstra(self, start_id: int, finish_id: int) -> None:
+    def djikstra(self, start_id: int, finish_id: int, canvas: Canvas) -> None:
         heap = []
         end = None
         for each in self.nodes:
+            each.previous = None
             if each.id == start_id:
                 each.weight = 0
+                print(each.id)
             if each.id == finish_id:
+                print(each.id)
                 end = each
             heappush(heap, each)
 
@@ -111,5 +115,16 @@ class Graph:
             for node_tuple in heap[0].neighbours:
                 if node_tuple[0].weight > node_tuple[1] + heap[0].weight:
                     node_tuple[0].weight = node_tuple[1] + heap[0].weight
+                    node_tuple[0].previous = heap[0]
+            heappop(heap)
         
         print(end.weight)
+        self.draw_path(finish_id, canvas)
+
+    def draw_path(self, end: int, canvas: Canvas) -> None:
+        self.draw(canvas)
+        node = list(filter(lambda x: x.id == end, self.nodes))[0]
+
+        while node.previous:
+            canvas.create_line(node.x, node.y, node.previous.x, node.previous.y, fill="blue")
+            node = node.previous

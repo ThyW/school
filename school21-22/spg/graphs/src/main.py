@@ -50,8 +50,8 @@ def remv(event):
 
 def run_dk(graph):
     start = int(entry_start.get())
-    finish = int(entry_start.get())
-    graph.djikstra(start, finish)
+    finish = int(entry_end.get())
+    graph.djikstra(start, finish, canvas)
 
 canvas.bind("<Button-1>", lclick)
 canvas.bind("<Button-3>", rclick)
