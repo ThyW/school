@@ -1,0 +1,10 @@
+---
+title: Pozámky ku divadelnej hre
+author: kapko
+output: pdf_document
+---
+
+# Vstup do divadelnej hry
+- expozícia
+- in medias res
+- retrospektíva
