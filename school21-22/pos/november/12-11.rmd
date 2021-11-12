@@ -1,0 +1,65 @@
+---
+title: Title
+author: Author
+output: pdf_document
+---
+
+# pc architektura
+sposob ako sa zariadenia v pc prepoja
+- **Von Neumannova** -> program a data maju spolu pamat
+- **Harvardska** -> program je v ulozenej 1 pamati, potom je read only data pamat
+- **modded harvardska** -> program je v oddelenej pamati, na zapis do program a data memory pouzivame rozne instrukcie
+hlavne casti pc:
+- cpu
+- memory
+- graphics
+- north bridge -> fast
+- south bridge -> slow, need driver
+- zbernice, zariadenia (super io)
+
+# Zbernice
+- seriova
+- paralelna
+
+## Delenie
+- interne -> vystupuje vramici dosky a na komuikaciu chipov medzi sebov
+    - lokalne -> zariadenie musi byt fyzicky blizko, procesor riadi zbernicu zariadenia na nej
+    - univerzalna -> nejaky protokol, viac zariadeni, rozny bus master sa moze dohodnut
+- externe
+    - zariadenie riesi len jeden bus master
+- zbernicova topologia -> vsetci pocuju vsetko ked sa pocuju
+- start topologia -> jeden komunikuje len s jednym a ten to potom posiela tym co to maju pocut
+
+## IO
+- port mapped io
+    - instrukcie: **in, out**
+- memory mapped io:
+    - instrukcia: **mov**
+    - DMA -> direct memory access -> nekopiruje po jednom ale naraz vsetko z lokalnej do lokalnej adresy (chip na northbridge)
+    - bus master -> process initiator(kto hovori, kto pocuva) -> lokalny -> procesor; univerzalnych -> moze sa bus master menit
+    - zariadenia staby pamat -> ukazuju sa s linearnou adresou
+- prerusenie
+    - interupts
+    - instrukcia: **int**
+    - IRQ -> interupt request -> hardware prerusenie
+    - interupt table -> by OS
+- PAE -> physical address extension
+
+## Interne zbernice
+ISA(industry standard) -> 8, 16b -> 8, 10 mhz; dnes uz len pomale zariadenia, dnes nahradene LPC, TPM chip -> **holds keys? security**
+EISA(extended ...) -> 32b -> 8, 10mhz; pokus o zrychlenie isa
+VESA Local bus(video electronics standard association) -> 32b, 25-40mhz; lokalna zbernica
+PCI(Peripheral component interconnect) -> 32b -> 33-66mhz; 2.0 znizila napatie na 3.3 V inak sa pouzivalo 5 V
+    - hot plugging -> pripojim a funguje za chodu
+    - burst mode -> jedna adresa, viac bytov dat s increased adresou, inak by sme museli vzdy adresa a data, adresa data...
+    - arbitrazny obvod -> ak je viac pokusov o bus mastera tak tento obvod urci kto z nich bude BM
+AGP(accelerated graphics port) -> 32b -> 66mhz; max jeden na jednej motherboard, transfer viac krat za jeden takt(1, 2, 4, 8x), znizil signalne napatie
+    - vychadza z pci ale ju vyrazne zjednodusila, tym padom mohli zvysovat frekvenciu
+PCI-X -> 64b -> 66-533mhz; len 64 bit rozsirenie pci, pre servery
+PCI-Ex-1 (PCI express krat 1) -> seriova -> 2,5 - 16 GT/s; 2,5giga transfre
+    - lany su full duplex
+    - topologia je hviezdicova, teda mam tam nejaky switch
+    - v1.0 - 8/10b kodovanie ~ 2Gb/s = 250MB/s
+    - v2.0 - zdvojnasobeny takt na 5GT/s
+    - v3.0 - kodovanie 128/130/b a 8GT/s
+    - v4.0 - dvojnasobeny takt na 16GT/s -> 2GB/s per lane
