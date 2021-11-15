@@ -1,0 +1,15 @@
+---
+title: Title
+output: pdf_document
+---
+
+# Ako začať
+- napísať si všetko čo o danej téme vieme -> TIP
+- musím mať fakty
+- všetky kontexty musím vedieť
+- uvažovať, nereferovať
+- analýza, PP, sekundárny zdroj -> všetko treba používať
+
+# Práca
+- používať celé meno autora
+- dodávať súvislosti s dobou
