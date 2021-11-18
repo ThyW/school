@@ -22,10 +22,10 @@ hlavne casti pc:
 - paralelna
 
 ## Delenie
-- interne -> vystupuje vramici dosky a na komuikaciu chipov medzi sebov
-    - lokalne -> zariadenie musi byt fyzicky blizko, procesor riadi zbernicu zariadenia na nej
-    - univerzalna -> nejaky protokol, viac zariadeni, rozny bus master sa moze dohodnut
-- externe
+- **interne** -> vystupuje vramici dosky a na komuikaciu chipov medzi sebov
+    - *lokalne* -> zariadenie musi byt fyzicky blizko, procesor riadi zbernicu zariadenia na nej
+    - *univerzalna* -> nejaky protokol, viac zariadeni, rozny bus master sa moze dohodnut
+- **externe**
     - zariadenie riesi len jeden bus master
 - zbernicova topologia -> vsetci pocuju vsetko ked sa pocuju
 - start topologia -> jeden komunikuje len s jednym a ten to potom posiela tym co to maju pocut
@@ -37,7 +37,7 @@ hlavne casti pc:
     - instrukcia: **mov**
     - DMA -> direct memory access -> nekopiruje po jednom ale naraz vsetko z lokalnej do lokalnej adresy (chip na northbridge)
     - bus master -> process initiator(kto hovori, kto pocuva) -> lokalny -> procesor; univerzalnych -> moze sa bus master menit
-    - zariadenia staby pamat -> ukazuju sa s linearnou adresou
+    - zariadenia akoby pamat -> ukazuju sa s linearnou adresou
 - prerusenie
     - interupts
     - instrukcia: **int**
@@ -56,8 +56,8 @@ PCI(Peripheral component interconnect) -> 32b -> 33-66mhz; 2.0 znizila napatie n
 AGP(accelerated graphics port) -> 32b -> 66mhz; max jeden na jednej motherboard, transfer viac krat za jeden takt(1, 2, 4, 8x), znizil signalne napatie
     - vychadza z pci ale ju vyrazne zjednodusila, tym padom mohli zvysovat frekvenciu
 PCI-X -> 64b -> 66-533mhz; len 64 bit rozsirenie pci, pre servery
-PCI-Ex-1 (PCI express krat 1) -> seriova -> 2,5 - 16 GT/s; 2,5giga transfre
-    - lany su full duplex
+PCI-Ex-1 (PCI express krat 1) -> seriova -> 2,5 - 16 GT/s; 2,5giga transfer
+    - lane-y su full duplex
     - topologia je hviezdicova, teda mam tam nejaky switch
     - v1.0 - 8/10b kodovanie ~ 2Gb/s = 250MB/s
     - v2.0 - zdvojnasobeny takt na 5GT/s
