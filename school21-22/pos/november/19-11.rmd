@@ -1,0 +1,82 @@
+---
+title: Ram
+author: Author
+output: pdf_document
+---
+
+# Typy pamati
+- **primarna** -> najrychlejsia, os, 
+- **sekundarna** -> disk, ulozene data os
+- **terciarna** -> uzivatelske data
+- **off-line** -> terciarna pamat ktora moze byt odpojena CD rom
+
+## Z hladiska zapisu
+
+###  RWM
+- read write
+- DAM - direct access memory, priami pristup k lubovolnej adrese
+- SAM - sequential access memory, lahsie na vyrobu ked neni treba vsetky ich adresy CD/DVD, pasky, magneticke disky
+- CAM - content associative memory, cache pamat, data ulozene pod nesuvislimi adresami, Adresa - Hodnota
+
+### ROM
+- read only
+- len na citanie alebo prevazne na citanie
+- su non-volitle -> po vybrati sa data zapisane nestratia
+- MROM -> mask ROM, pamat s pevne given obsahom, draha na vyrobu ale rychla a spolahliva
+- PROM -> programmable ROM -> prichadza so samymi jednotkami, pomocou zariadenia sa to da programovat, bity sa prepalia na 0
+- EPROM -> Erasable PROM -> pomocou uv luca sa dala cela erasonut a znova programovat
+- EEPROM -> predchodca Flash -> pomale prepisovanie pomocou elektriny pomocou stranok
+    - **flash** -> dnesny standard, pred zapisom staci zmazat len prislusny blok(512B), pomaly presahuje rychlosti magnetickych diskov
+- **nv-ram** -> non volatile
+
+## Pamate RAM
+- random access memory, typu DAM, **voletile**, rychly r/w
+
+### SRAM
+- static ram
+- bit je reprezentovany D obvodom (R-S s riadenim citania a zapisu)
+- informacia sa nachadza kym sa data neprepisu
+- pri vyssych kapacitach su drahsie nez *DRAM*
+
+### DRAM
+- dynamic ram
+- jednoduchsia konstrukcia
+- po tom co citam bit, musim ho naspat zapisat
+- precitam bit do obvodu kde zistim co tam je zapisane
+- potrebuje obnovovaci obvod (16 krat za sekunudu)
+- moze naboj na obvode stracat aj spontanne, lebo napatia su male aby sa setrili fyzikalne vlastnosti
+- **SDRAM**
+    - synchronomous dram
+    - synchronizacia externymi hodinami
+    - burst-mode zapis suvisleho bloku
+    - **pipelining** -> praca s nezavislymi Bankami sucasne
+	- viem nafeedovat viac adries v posebe iducich cykloch
+- **DDR SDRAM**
+    - double data rate SDRAM
+    - komunikacia na nabehovej aj spadovej hrane
+    - DDRAM -> DDR1 potom DDR2(dual channeling)-3 a -4
+    - vzdy zvysenie takt a prenosnu rychlost, znizil napatie, teplotu a spotrebu, zmenil vyrobny proces a vzysil hustotu cim rastla kapacita
+    - zmeny protokolu a zvacsanie velkosti minimalneho zapisovaneho bloku -> speed
+
+## Cache pamate
+- **CAM**
+- **cache hit/miss**
+    - porcesor komunikuje s cache lebo su rychlejsie ako ram
+    - mam alebo nemam ulozene to co tam chcem mat, ak nie idem o uroven vyssie - **hit/miss**
+    - L1 az L3 -> cim mensi level tym rychlejsia a menej ulozi
+- **Write through**
+    - okamzity/synchronny zapis
+    - citam rychlo, pisem pomaly, tak ako pisem do tej najvyssej(najpomalsej) urovne
+- **Write back**
+    - citam/pisem do cache
+    - cache si to sama managuje, async zapisovanie do pomalsej pamate
+    - **tieto adresy sa potom volaju dirty** tie data co su v cache ale este nie pomalsej pamati
+    - moze sa stat to, ze sa cache zaplni dirty datami a potom sa blokuje, lebo sa caka kym sa cache uvolni
+    - pri poruche sa vsetky dirty data stratia
+- **invalidacia** - ked s ramkou pracuje niekto to so mnou nezdiela cache
+    - ak sa do ram zasiahlo, procesor sa o tom musi dozvediet
+
+```c
+/* viem ze tato premenna bude zmenena asynchronne zvonka programu */
+volatile int number;
+```

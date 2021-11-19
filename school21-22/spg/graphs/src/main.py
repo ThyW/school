@@ -12,10 +12,12 @@ window.title("graph")
 
 canvas = tk.Canvas(window, width=w, height=h, bg="white")
 djikstra_button = tk.Button(window, text="Djikstra", command= lambda: run_dk(g))
+prim_button = tk.Button(window, text="Prim", command=lambda: run_prim(g))
 
 entry = tk.Entry(window)
 entry_start = tk.Entry(window)
 entry_end = tk.Entry(window)
+entry_prim_start = tk.Entry(window)
 
 canvas.pack()
 
@@ -23,6 +25,8 @@ entry.pack()
 djikstra_button.pack()
 entry_start.pack()
 entry_end.pack()
+prim_button.pack()
+entry_prim_start.pack()
 
 
 def lclick(event):
@@ -52,6 +56,9 @@ def run_dk(graph):
     start = int(entry_start.get())
     finish = int(entry_end.get())
     graph.djikstra(start, finish, canvas)
+
+def run_prim(graph):
+    graph.prim(int(entry_prim_start.get()), canvas)
 
 canvas.bind("<Button-1>", lclick)
 canvas.bind("<Button-3>", rclick)

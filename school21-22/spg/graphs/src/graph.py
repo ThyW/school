@@ -1,6 +1,6 @@
 #! /usr/bin/env python3
 
-from typing import NamedTuple, Optional, Tuple, List, Dict
+from typing import NamedTuple, Optional, Tuple, List
 from tkinter import Canvas
 from heapq import heappush, heappop
 
@@ -128,3 +128,24 @@ class Graph:
         while node.previous:
             canvas.create_line(node.x, node.y, node.previous.x, node.previous.y, fill="blue")
             node = node.previous
+    def prim(self, start: int, canvas) -> None:
+        heap = []
+        for node in self.nodes:
+            if node.id == start:
+                node.weight = 0
+            node.previous = None
+        [heappush(heap, x) for x in self.nodes]
+        visited = []
+        while heap:
+            for pair in heap[0].neighbours:
+                if pair[0].weight > pair[1]:
+                    pair[0].weight = pair[1]
+                    pair[0].previous = heap[0]
+            visited.append(heappop(heap))
+        self.draw_prim(canvas)
+    
+    def draw_prim(self, canvas: Canvas) -> None:
+        self.draw(canvas)
+        for node in self.nodes:
+            if node.previous:
+                canvas.create_line(node.x, node.y, node.previous.x, node.previous.y, fill="green", width=3)
