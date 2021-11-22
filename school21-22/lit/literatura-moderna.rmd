@@ -1,0 +1,44 @@
+---
+title: Literatúra moderna
+author: Kapko
+output: pdf_document
+---
+
+# Moderna
+- Romantizmus -> Realizmus + Naturalizmus -> Moderna(viacero/množstvo smerov)
+
+# História
+- R-U vyrovnanie (1867)
+- Amerika: Rasová otázka (koniec 19. storočia)
+- ženy dostávajú volebné právo (19. storočie)
+- WW1 - (1914 - '18)
+    - **Na západe nič nové** - kniha
+- Veľká Októbrová Socialistická Revolúcia (7.11. 1917 - mali iný kalendár)
+    - vznik prvého socialistického štátu
+- Vznik ČSR (1918)
+    - Beneš, Masaryk, Štefánik
+    - jeden z najvyspelejších štátov
+- krach burzy na Wall Street (24.10. 1929)
+- WW2 ('39 - '45)
+    - slovenský štát
+- 1948 - "víťazný február"
+    - komunisti vyhrávajú voľby
+    - Slovensko neprijalo Marshallov plán
+- 1953 - smrť Stalina a Gottwalda
+    - **Papierové hlavy** - film
+- 1956 - časopis **Mladá Tvorba**
+    - všetci najlepší spisovatelia vyšli práve v Mladej Tvorbe
+    - teraz sa volá **Dotyky**
+- august 1968 - okupácia Česko-slovenska
+    - 1969 - upálenie Jána Palacha
+- normalizácia - 1970 - 1989
+    - vrátenie sa do roku 1948
+- 1985 - perestrojka - M. Gorbačov
+    - ekonomické reformy
+- 1989 - nežná revolúcia a pád Berlínskeho múru
+- 1993 - rozpad Československa
+- 30.6. 1993 - slovensko vstupuje do Rady Európy
+- 1992 - 1998 - Mečiarizmus
+    - Mafia -> zbierka kníh od Petroviča
+- 1. 5. 2004 - vstup do EU
+- 2009 - zmena meny na euro
