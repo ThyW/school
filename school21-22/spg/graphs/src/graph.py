@@ -2,7 +2,7 @@
 
 from typing import NamedTuple, Optional, Tuple, List
 from tkinter import Canvas
-from heapq import heappush, heappop
+from heapq import heappush, heappop, heapify
 
 class Pair(NamedTuple):
     id: int
@@ -141,7 +141,8 @@ class Graph:
                 if pair[0].weight > pair[1]:
                     pair[0].weight = pair[1]
                     pair[0].previous = heap[0]
-            visited.append(heappop(heap))
+            visited.append((heappop(heap)))
+            heapify(heap)
         self.draw_prim(canvas)
     
     def draw_prim(self, canvas: Canvas) -> None:
@@ -149,3 +150,5 @@ class Graph:
         for node in self.nodes:
             if node.previous:
                 canvas.create_line(node.x, node.y, node.previous.x, node.previous.y, fill="green", width=3)
+        for n in self.nodes:
+            n.weight = 1000
