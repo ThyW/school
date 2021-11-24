@@ -1,5 +1,9 @@
 <?php
 include("header.php");
 
-echo "<h1>Welcome</h1>";
+if (isset($_SESSION["user"])) 
+{
+    echo "<h1>Welcome " . $_SESSION['user'] . "</h1>";
+    echo '<a href="logout.php">logout</a>';
+}
 ?>
