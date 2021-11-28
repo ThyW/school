@@ -1,0 +1,152 @@
+---
+title: shit
+author: fuck
+output: pdf_document
+---
+
+# svetovy realizmus
+- auguste comte - pozitivizmus
+- rozvoj:
+    - vedy
+    - ekonimickych vztahov (manufaktura, nezamestnanost)
+    - narodne sebauvedomenie
+
+- znaky:
+    - nizsie znare
+    - kratsie prozaize utvary, romany
+    - motivy sucastnosti
+    - rozumove vnimanie reality
+    - realisticky opis
+    - objektivny rozpravac
+    - realne prostredie - detailne
+    - realna rec
+    - realne postavy
+    - iluzia skutoncnosti
+    - zobrazovanie reality
+    - dolezita epika
+    - sylabotonizmus
+
+# anglicky
+- **charlote brontöva**
+    - poems by currer, ellis and acton bell
+    - jana eyrova
+    - shirley
+    - villette
+    - the professor - vydany po jej smrti
+
+- **emily jane brontëova** (ellis bell)
+    - poems by currer, ellis, acton bell
+    - burlive vysiny
+
+- **charles dickens** (boz)
+    - pamati klubu pickwickovcov
+    - oliver twist
+    - vianocne koleda
+    - little dorrit
+    - david copperfield
+
+# francuzsky
+- **henri beyle** stendhal
+    - cerveny a cierny
+    - artuza parmska
+	- both romany
+    - vasnivi nepoddajni hrdinovia v ustavicnom rozpore so spolocnostou
+    - je odporcom kvetnatosti stylu
+
+- gustave flaubert
+    - pani bovaryova -> oba romany
+    - citova vychova
+    - zobrazneie psychickej krizi cloveka vtedajsej spolocnosti
+
+- **guy de maupassant**
+    - milacik
+    - mont - oriol
+
+- **emil zola**
+    - najvyznamnejsi predstavitel naturalizmu
+    - zohral velku ulohu v dreyfusovej afere (whatever the fuck that is???)
+    - zabijak
+    - pribeh lasky
+    - nana -> opat vsetko romany
+
+# slovensky
+- pomery v obdobi nastupu slovenskeho literarneho realizmu
+    - 1867 - RU vyrovnanie
+    - 1873 - hospodarska kriza(a cholerova epidemia), pomadarcovanie
+    - 1874 - zatvorene slovenske gymnazia
+    - 1875 - zatvorena matica slovenska
+- zahranicno politicka orientacia na carske rusko(pod vplyvom S H Vajanskeho) -> slavianofilstvo
+- trv **nova skola**, znaky:
+    - kritika sturovskej ideologie
+    - orientacia na pest, spolupraca s progresivnymi madarmi
+    - akcnejsie
+    - almanach Napred
+    - temy - subjektivnejsie, lubostnejsie, analyticke, **aktualne**
+    - sylabotonicky prozodicky system
+    - narusenie rytmicko-syntaktickej konvergencie (paralelizmu) -> versovy presah
+    - narusenie poloversoveho predelu
+    - narusenie zdruzeneho rymu
+
+## prva vlna
+- **S H Vajansky**
+    - basne: Tatry a more (6. Herodes), Spod jarma, Verse
+    - proza: Lalia, Letiace tiene, Sucha ratolest, Koren a vyhonky
+
+- **P O Hviezdoslav**
+    - lyrika: letorosti 1, 2, 3, zalmy a hymny, prechadzk jarom; letom, stesky, dozvuky, krvave sonety
+    - epika: ezo; gabor vlkolinksy, hajnikova zena
+- **Elena Marothy-Soltesova**
+    - proza: proti prudu, moje deti
+
+- **Terezia Vansova**
+    - proza: Sirota Podhradskych, Danko a Janko, Palko Suska
+
+- **Martin Kukucin**
+    - ked bacik z chocholova umrie
+
+## druha vlna
+- M. Kukucin
+- J. G. Tajovsky - Mamka Pôstkova, Maco Mliec, Stary otec - do konca
+- Bozena Slancikova Timrava - Tapakovci, Hrdinovia, Skona Paľa Ročku
+
+## tretia vlna
+- tri linie
+    - naturalizmus - adam Šangala, hana gregorova, janko jesensky (demokrati)
+    - socio-psychologicky realizmus -> pokracovanie druhej vlny
+	- Milo Urban(Zivy bic), J. Ciger - Hronsky (Jozef Mak), Stefan Letz
+    - socialisticky realizmus
+	- peter jilimnicky, fraňo kral, jan poničan
+
+# Rusi
+- **Nikolaj Vasilievic Gogol**
+    - Vecery na laze nedaleko Dikaňky, Mirhorod
+    - peterburske poviedky
+    - revizor, ženba
+    - mrtve duse
+
+- **Ivan Sergejevic Turganev**
+    - polovnicke zapisky - zbierka poviedok
+    - rudin - roman
+    - otcovia a deti - roman
+
+- **Fiodor Michajiovic Dostojevskij**
+    - biedni ludia
+    - zapisky z mrtveho domu
+    - ponizeni a urazeni
+    - zlocin a trest
+    - idiot
+    - diablom posadnuti
+    - bile noci
+    - hrac
+
+- **Lev Nikolajevic Tolstoj**
+    - detstvo, chlapcenstvo, junosstvo, sevastopolske poviedky - kratke prace
+    - vojna a mier - roman
+    - anna kareninova - roman
+    - vzkriesenie - roman
+    - kreutzerova sonata - poviedka, eroticka, ziarlivost
+
+- **Anton Pavlovic Cechov**
+    - Chameleon, Smrt uradnika, Izba cislo 6, Vaňka, Dama so psickom
+    - cajka, ujo Váňa, Tri sestry, Višňoví sad - drama
+    - Roman o base, Kniha staznosti - proza
