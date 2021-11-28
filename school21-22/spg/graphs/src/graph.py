@@ -1,26 +1,52 @@
 #! /usr/bin/env python3
 
-from typing import NamedTuple, Optional, Tuple, List
+from typing import Optional, Tuple, List
 from tkinter import Canvas
 from heapq import heappush, heappop, heapify
+import random
 
-class Pair(NamedTuple):
-    id: int
-    w: int
-    def __gt__(self, x: "Pair") -> bool:
-        return self.w > x.w
 
-    def __lt__(self, x: "Pair") -> bool:
-        return self.w < x.w
+class Color:
+    def __init__(self, r: int, g: int, b: int) -> None:
+        self.r = r
+        self.g = g
+        self.b = b
+
+    def mutate(self) -> "Color":
+        l = [self.r, self.g, self.b]
+        ret = []
+        while l:
+            current = l.pop(0)
+            i = random.randint(0, 255)
+            while current == i:
+                i = random.randint(0,255)
+            ret.append(i)
+
+        return Color(ret[0], ret[1], ret[2])
+
+    @classmethod
+    def new(cls) -> "Color":
+        r = random.randint(0, 255)
+        g = random.randint(0, 255)
+        b = random.randint(0, 255)
+        return Color(r, g, b)
+
+    def __str__(self) -> str:
+        r = hex(self.r).removeprefix("0x")
+        g = hex(self.g).removeprefix("0x")
+        b = hex(self.b).removeprefix("0x")
+        l = [r, g, b]
+        ret = []
+        for each in l:
+            if len(each) == 1:
+                ret.append(f"0{each}")
+            else:
+                ret.append(each)
+        
+        return f"#{ret[0]}{ret[1]}{ret[2]}"
     
-    def __eq__(self, x: "Pair") -> bool:
-        return self.w == x.w
-
-    def __ge__(self, x: "Pair") -> bool:
-        return self.w >= x.w
-    
-    def __le__(self, x: "Pair") -> bool:
-        return self.w <= x.w
+    def __eq__(self, other: "Color") -> bool:
+        return str(self) == str(other)
 
 
 class Node:
@@ -34,6 +60,7 @@ class Node:
         self.id: int = Node.id
         self.weight = 1000
         self.previous: Optional[Node] = None
+        self.color: Color = Color(255, 255, 255)
 
     def add(self, n: "Node", w: int):
         n.neighbours.append((self, w))
@@ -88,7 +115,7 @@ class Graph:
     def draw(self, canvas: Canvas):
         canvas.delete("all")
         for n in self.nodes:
-            canvas.create_oval(n.x - 20, n.y - 20, n.x + 20, n.y + 20)
+            canvas.create_oval(n.x - 20, n.y - 20, n.x + 20, n.y + 20, fill=str(n.color))
             canvas.create_text(n.x, n.y-10, text=n.id)
             canvas.create_text(n.x, n.y+3, text=n.weight)
             for ne in n.neighbours:
@@ -128,7 +155,7 @@ class Graph:
         while node.previous:
             canvas.create_line(node.x, node.y, node.previous.x, node.previous.y, fill="blue")
             node = node.previous
-    def prim(self, start: int, canvas) -> None:
+    def prim(self, start: int, canvas: Canvas) -> None:
         heap = []
         for node in self.nodes:
             if node.id == start:
@@ -152,3 +179,29 @@ class Graph:
                 canvas.create_line(node.x, node.y, node.previous.x, node.previous.y, fill="green", width=3)
         for n in self.nodes:
             n.weight = 1000
+
+    def mapa(self, canvas: Canvas) -> None:
+        # go thorugh the all nodes, and check their neighbours
+        # try to give them a color from the list, if not create a new color
+        # highly ugly kek
+        colors = []
+        for node in self.nodes:
+            if node.color not in colors:
+                colors.append(node.color)
+            print([str(x) for x in colors])
+            used = list()
+            for ne in node.neighbours:
+                if not ne[0].color in used:
+                    used.append(ne[0].color)
+
+            available = [c for c in colors if c not in used]
+            if not available:
+                new_color = Color.new()
+                while new_color in colors:
+                    new_color = Color.new()
+                available.append(new_color)
+
+            node.color = available[0] if available[0] != "#ffffff" else available[1]
+            if available[0] not in colors:
+                colors.append(available[0])
+        self.draw(canvas)
