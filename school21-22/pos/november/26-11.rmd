@@ -1,0 +1,84 @@
+---
+title: CPUs
+author: Kapko
+output: pdf_document
+---
+
+# Processors
+- mozog pocitaca
+- ALU - arithmetic
+- FPU - floating
+- LSU - load store unit
+
+## registre
+- r/o, r/w, protected
+- **datove**
+    - AX, BX, CX, DX (16b) -> accumulator, base, counter, data
+    - AH, AL (high/low horna dolna cast registra, 8 bit halves)
+    - EAX (32b) - extended
+    - RAX (64 bit) - register su napadite
+- **adresne**
+    - CS, SS, DS, ES -> code, stack, data, extra segment
+    - IP, SP, SI, DI -> instruciton \*, stack \*, source index, destination index 
+    - [CS:IP] = adresa prave vykonavanej instrukcie, ked sa uz vykonava, tak pointuje na dalsiu
+    - [SS:SP] = top of the stack
+- **specialne**
+    - FLAGS, CR0
+
+## instruction sets
+- **CISC** vs **RISC** (complex vs reducded)
+    - zapis (opcode) pri CISC su roznej dlzky
+    - RISC z pravidla zjednodusil instrukcie, respektive instrukcie rozdelil a pridal viac instrukcii, ktore zjednosdusili CISC
+	- **viac instrukcii ale menej zlozite na zapis**
+	- **compiler zmensi load/store count, teda urobi viac optimized code**
+- **vypocty**
+    - mov
+    - add, sub, mul, div
+    - and, or
+- **podmienky***
+    - jmp, rep
+    - cmp, je, jne, jl, jnl
+    - call, ret
+- **environment**
+    - 8 bit instrukcie maju rozny zapis
+    - 16/32bit maju rovnaky zapis
+    - zmena za behu aj pre jednotilve instrukcie
+
+## Pipeline
+- vykonavanie instrukcii v procesore prebieha v 4 fazach tzv. **pipeline**
+- **fetch**
+    - data z RAM do procesora
+- **decode**
+    - zisti co mas robit a pusti prislusny obvod, ak nie tak vyvolaj os pridanym interuptom
+- **execute**
+    - prislusne obvody vykonaju to co maju, scitaju 2 cisla, presunu bajty v pamati, poslu data na zbernicu atd
+- **writeback**
+    - ak ma instrukcia vysledok, pisem ho do pamati, po tom sa presuva naspat do fetch fazy
+- ked loadujeme, tak sa moze stat ze decodnuta instrukica je napriklad JE, cize tie instrukcie co su po nej fetched a decoded su nam zbytocne lebo aj tak idem executovat nieco ino, tomuto sa teda hovori **pipeline bubble**, snazime sa tomu predist
+
+## Optimalizacia
+- **parallel execution**
+    - multiple pipelines
+    - **hyperthreading**
+	- viac virtualnych logickyh jadier vnutri jedneho processor jadra
+- **branch prediction**
+    - kvoli cachovaniu sa rozhodujem, ktorym smerom sa bude vypocet uberat
+- **out of order execution**
+    - poprehadzovanie instrukcii zo zachovanim semantiky a z dvovodu rychlejsieho vykonu(napriklad cakanie na medzivysledky alebo cache dostupnost)
+- 8**speculative execution**
+	- vypocet ktory nesuvisi priamo s vykonavanym kodom, snazi sa ziskat lepsie vysledky pri branch prediction, napr. sa pozrem dopredu a vidim ze budem mat je podmienku, preto ju skusim uz teraz zrata aby som potom zlepsil branch prediction (robim naviac, mozno dobre, mozno zle, ak zle tak nevadi, ak dobre tak som rychlejsi)
+
+# Modes
+- **real** - ja som os, ty si program, kazdy si moze vsetko
+- **protected** - chraneny sposb adresacie
+- **V86** (i386) - akoby virtualny real mode, motivacia bola pustanie starcyh programov, emulacia real mode v protected mode
+- **system management mode** - impulz na kontretny pin processora, hardware interupt?, neni ziadny protection
+
+## Historia
+- 8080 8b
+- 8086 16b
+- 286 - 16b, dostal protected mode 
+- 386 - 32b, offset v segmente je 32 bitovy, 4GB pamate je supported
+    - memory paging
+    - environment: 32 aj 16 bit instrukcie maju rovnkay opcode, na akom mode bude pracovat sa rozhodne podla toho v akom prostredi(environmente) je, ide to aj za jazdy, teda compilator s s tym vedel robit tak, ako sa mu pacilo
+- pentium 4 - 64b
