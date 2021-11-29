@@ -49,6 +49,9 @@ class Color:
         return str(self) == str(other)
 
 
+WHITE = Color(255, 255, 255)
+
+
 class Node:
     id: int = 0
 
@@ -127,7 +130,7 @@ class Graph:
 
     def djikstra(self, start_id: int, finish_id: int, canvas: Canvas) -> None:
         heap = []
-        end = None
+        end: Optional[Node] = None
         for each in self.nodes:
             each.previous = None
             if each.id == start_id:
@@ -145,7 +148,8 @@ class Graph:
                     node_tuple[0].previous = heap[0]
             heappop(heap)
         
-        print(end.weight)
+        if end:
+            print(end.weight)
         self.draw_path(finish_id, canvas)
 
     def draw_path(self, end: int, canvas: Canvas) -> None:
@@ -188,7 +192,6 @@ class Graph:
         for node in self.nodes:
             if node.color not in colors:
                 colors.append(node.color)
-            print([str(x) for x in colors])
             used = list()
             for ne in node.neighbours:
                 if not ne[0].color in used:
@@ -205,3 +208,5 @@ class Graph:
             if available[0] not in colors:
                 colors.append(available[0])
         self.draw(canvas)
+        for each in self.nodes:
+            each.color = WHITE
