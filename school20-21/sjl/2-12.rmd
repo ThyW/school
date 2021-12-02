@@ -1,0 +1,6 @@
+---
+title: Slova gramatika
+output: pdf_document
+---
+
+slovo: **hlava**
