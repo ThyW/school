@@ -1,0 +1,42 @@
+---
+title: Compiler
+author: me
+output: pdf_document
+---
+
+# Kompilacia a linkovanie
+- zdrojovy kod
+- assembler
+    - native machine code vs bytecode
+- compiler
+    - object file
+    - tabulka exported symbolov - `.h`, `.c`, declaration/interface, implementation
+- static or dynamic linking
+
+## executable subor
+- **.com**
+    - DOS - nahra ho do 0x0100 a da mu riadenie
+    - sled instrukcii a dat
+    - 1 pamatovy segment
+- **.exe / ELF**
+    - mladsi format
+    - header + obsah, entry point, *ne* inicializovana pamat
+
+## Stack
+- push, pop
+- **reverzny polsky zapis**: `x a b * + = x + a * b`
+- priklad: 4 2 7 * + 5 2 1 5 + ^ * - `(4 + 2 * 7 - 5 * 2 ^ (1 + 5))`
+- prkklad 2: a b + c d - *
+
+## procedury a funkcie
+- call, ret, push, pop -> potreba stacku
+- **volacie konvencie:**
+    - prolog, epilog
+    - poradie parametrov
+    - lokalne premenne
+    - navratova hodnota
+    - pouzitie registrov
+- **buffer/stack overflow**
+- objekty, metody, asociovane funkcie
+    - virtual method table -> budeme preberat pri OOP a UMLs
+- **exceptoins, stack unwinding**
