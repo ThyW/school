@@ -1,0 +1,8 @@
+---
+title: kinder
+output: pdf_document
+---
+
+# dvere
+- klassenchat
+- spielen pokemon go and am computer

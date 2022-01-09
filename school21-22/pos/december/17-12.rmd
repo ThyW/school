@@ -1,0 +1,63 @@
+---
+title: MEM
+author: Kapko
+output: pdf_document
+---
+
+# Adresy
+## Logicka adresa
+- **\[segment:offset\]**
+- programy v strojovych instrukciach
+
+## segmentacia
+- suvisla cast pamate, ktora sa obcas moze aj prekyrvat
+- linearna adresa(cele cislo) zaciatok segmentu + offset
+
+## strankovanie
+- **page**:
+    - fixna velkost
+    - neprekryvaju sa
+    - idu suvislo za sebou a pokryvaju cely linearny adresny priestor
+    - DAM pamati nevadi ak fycizke pages nejdu za sebou
+- **fyzicka adresa** - presna pozicia v pamati
+- ak je paging turned off -> fyzicka adresa == linearna adresa
+
+## Swapovanie a virtual memory
+- logicky adresny priestor moze byt vacsi ako fyzicky
+- niektore oblasti RAM sa vymenia na disk
+- **segmentacia:**
+    - odswappovany proces nemoze bezat 
+    - segmenty musia byt suvisle - fragmentacia volneho miesta
+- **strankovanie:**
+    - vacsina OS
+    - netreba cely segment odswappovat
+    - rovnaka velkost => nie je fragmentacia
+- **segfault/pagefault**
+    - interupt -> ked sa snazim dostat segment alebo page ktore nie su available v RAMke
+
+# Rezim adresacie
+
+## Real
+- Segmentacia: Fyzicka adresa = 16 * segment + offset ***always***
+- paging not supported
+- Segmentt, offset su vzdy 16-bit cisla
+- maximalne: cca 1MB(1_114_096B)
+
+## Protected
+- descriptor(64b) = struktura popisujuca segment
+    - nachysta ho OS pri alokaci pamate (GDT/LDT)Global/Local Descriptor Table
+    - Base 32 bit -> zaciatok segmentu
+    - Limit 20 bit -> dlzka segmentu
+    - Permission level 2b
+    - type, granuality, present, available, ...
+- segmentacia: linearna adresa = bsae + offset
+    - segment = selector 16 bit
+	- 13 bit index do DT
+	- 2b RPL(requested privilege level) na pristupove prava
+	- 1b Table indicator GDT
+    - offset (32bit)
+	- ku Base sa **pripocita**, *nie zretazi*!
+- strankovanie je volitelne
+    - od Intel 80386
+- maximalne obsluzi 4GB -> 2^32B
+    - limit pre jeden segment
