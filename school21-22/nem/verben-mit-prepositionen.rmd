@@ -1,0 +1,55 @@
+---
+title: "Verben mit Präpositionen"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+# Dativ
+| Sloveso    | predlozka    | preklad    |
+|---------------- | --------------- | --------------- |
+| anrufen    | bei | volať na |
+| arbeiten    | an | pracovať na |
+| aufhören   | mit | zastaviť s |
+| beitragen   | zu | prispieť k |
+| einladen   | zu | pozvať na |
+| sich erholen | von | zotaviť sa z |
+| sich erkundigen | nach | opýtať sa na |
+| erzählen | von  | povedať o |
+| gratulieren | zu  | blahoželať k |
+| helfen | bei  | pomôcť s |
+| leiden | an  | trpieť na |
+| profitieren | von  | profitovať z |
+| suchen | nach  | hľadať niečo |
+| telefonieren | mit  | telefonovať s |
+| sich verabschieden | von  | rozlúčiť sa s |
+| warnen | vor | varovať pred |
+| wohnen | bei | žiť s |
+| zwingen | zu | prinútiť |
+
+# Akusativ
+| Sloveso    | predlozka    | preklad    |
+|---------------- | --------------- | --------------- |
+| achten | auf | dávať pozor na |
+| sich aufregen | über | nadchnúť sa nad |
+| sich bewerben | um | podať si prihlášku |
+| bitten | um | opýtať sa na |
+| danken | für | poďakovať za |
+| denken | an | rozmýšľať o |
+| diskutieren | über | diskutovať o |
+| einladen | in | pozvať dnu |
+| sich entscheiden | für | rozhodnúť sa pre |
+| sich entschuldigen | für | ospravedlniť sa za |
+| ersetzen | durch | nahradiť za |
+| erzählen | über  | rozprávať sa o |
+| grenzen | an | susediť s |
+| sich konzentrieren | auf | sústrediť sa na |
+| lachen | über | smiať sa z |
+| schreiben | an | napísať na |
+| sein | für / gegen | byť za / byť proti |
+| streiten | um | hádať sa o |
+| sich unterhalten | über | rozprávať sa o |
+| sich verlassen | auf | spoliehať sa na |
+| verzichten | auf | zaobísť sa bez |
+| sich vorbereiten | auf | pripraviť sa na |
+| sich begeistern | für | byť nadšený z |
+| sich erinnern | an | spomenúť si |
