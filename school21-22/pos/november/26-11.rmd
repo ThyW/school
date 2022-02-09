@@ -6,8 +6,8 @@ output: pdf_document
 
 # Processors
 - mozog pocitaca
-- ALU - arithmetic
-- FPU - floating
+- ALU - arithmetic, logic unit
+- FPU - floating point? unit
 - LSU - load store unit
 
 ## registre
@@ -19,7 +19,7 @@ output: pdf_document
     - RAX (64 bit) - register su napadite
 - **adresne**
     - CS, SS, DS, ES -> code, stack, data, extra segment
-    - IP, SP, SI, DI -> instruciton \*, stack \*, source index, destination index 
+    - IP, SP, SI, DI -> instruciton \*, stack \*, source index, destination index, **[p]ointer, [i]ndex**
     - [CS:IP] = adresa prave vykonavanej instrukcie, ked sa uz vykonava, tak pointuje na dalsiu
     - [SS:SP] = top of the stack
 - **specialne**
@@ -74,7 +74,7 @@ output: pdf_document
 - **V86** (i386) - akoby virtualny real mode, motivacia bola pustanie starcyh programov, emulacia real mode v protected mode
 - **system management mode** - impulz na kontretny pin processora, hardware interupt?, neni ziadny protection
 
-## Historia
+# Historia
 - 8080 8b
 - 8086 16b
 - 286 - 16b, dostal protected mode 

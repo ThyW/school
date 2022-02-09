@@ -1,0 +1,42 @@
+---
+title: OS
+author: Kapko
+output: pdf_document
+---
+
+# Operačné systémy
+- dos, linux, windows, macOS, BSD, os/2, ios, android
+
+## plánovanie uloh
+- **ziadny multitasking**(dos)
+    - dos
+- **kooperativny**(win95, 98, ME)
+    - musi byt dobre napisany program inac sa cely system zdrbe
+    - musi mat program yield, inac bezi sam a je to zle
+- **preemptivny** (win NT(new technology, aj ntfs ma odtial meno), lin, bsd)
+    - scheduler, pridana stabilita, less effective than coop mode
+    - prioritizacia, cim nizsi footprint(cas, pamat)
+
+## mem mngmnt
+- segmentacia pamate, problem fragmentacie - riesenie strankovanim(paging)
+- segment sa mappuje na linearnu adresu
+- na linearnej adrese funguje paging a z toho mi potom vyjde fyzicka adresa
+- alokacie pamate
+- virtualna pamat a swapping
+- ocrhana a izolacia procesov, chraneny rezim(protected mode)
+
+## pristup k io devices
+- drivre
+- unifikacia komunikacie so zariadeniami
+- instrukcia XCHG -> je atomická
+- mutexy, race conditions, kriticky region()
+- deadlock, starvation
+- hladni filozofi
+    - deadlock reasorcov ak to mam zle nakodene
+    - deadlock viem najst a riesit
+    - napriklad tak ze lock ma aj fail return
+    - starvation: ak sa mi nepodari locknut tak unlocknem aj to co som lockol, tym padom to je zle, lebo ak to urobia vsetci tak nikdo nic nespravi ale stale sa tvari ze robi, nic sa nedeje, nenapreduje
+    - viem to riesit pomocou mnozin, vsetko to tym padom vie riesti OS
+
+## sietovanie
+- komunikacne TCP, UDP, IP, SCTP

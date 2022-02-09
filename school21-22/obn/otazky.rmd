@@ -1,0 +1,22 @@
+---
+title: otazky
+output: pdf_document
+---
+
+# otazky
+- 70 rokov ked bol obzalovany -> kolko mal rokov
+- Anitos, Malatos, Lykon -> mena 3 obzalobcov
+- kazil atensku mladez; neveri v bohov/veri v inych bohov -> odvolavanie na daimoniona, kritizuje atensku demokoraciu -> 3 obvidenia
+- sokratovsky dialog, sokratovska ironia; bol doterny ako mucha -> ako si znepriatelil pol aten
+- sokrates je najmudrejsi lebo vie ze v skutocnosti nic nevie, vie ze jeho mudrost nema cenu -> pythina vestba
+- politik, basnik, remeselnik -> povolania
+- obhajoba, verdikt sudu, trest(prolog) -> 3 casti obrany
+- on aj achilles su ziju svoj zivot naplno a ako to citia, tak ako ich daimonion vedie -> achillus a trojska vojna
+- achilles a on, kon(atensky lud) a ovad(sokrates) -> dve metafory
+- jeho vzor filozofa: musi skumat, vypytovat a vzdy filozofovat, prikazuje mu to boh, nech sa staraju o dusu lebo ta je najdolezitejsia -> 29 cd 30 abc
+- vnutorny hlas, svdeomie -> daimonion
+- pokuta, vazenie, exil, smrt -> 4 mozne tresty
+- "stravovanie v britaneu" - miesto pre tych najlepsich, ktorych si uctievali -> aky trest by si dal on
+- platon mu dava jed bolehlav, a sokrates zomiera -> koniec 
+- ak som mrtvy tak sa ma smrt uz netyka, lebo uz necitim; "ja idem do smrti, vy do zivota, kto sa ma lepsie, to vie len boh" -> jeho pohlad na smrt
+    - aj po smrti chce pokracovat v tom co robi, filozofovanie
