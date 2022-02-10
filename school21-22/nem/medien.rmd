@@ -1,0 +1,40 @@
+---
+title: title
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+# Laptop
+- tragbares Gerät -> prenosne zariadenie
+- Tastatur und Bildschrim integriert -> klavesnica a obrazovka su zabudovane
+- es hat ein Akkus, das heist, es kann einige Stunden ohne Nutzbetrieb am beliebten Ort arbeiten. - za pomoci bateriek moze fungovat na aj niekolko hodin kdekolvek
+- es wird auch in privaten Hasuahlten immer beliebten. - oblubene aj v domacnostiach
+- es braucht nict viel Platz - nezabera vela miesta
+- aber der Preis is hoher, weil die Bauteilen kliner bauen muss - cena je drahsia, lebo suciastky musia byt mensie
+
+# Smart-Fernseher
+- mit dieses Gerat kann man Internet-Andwendungen nutzen, die speziell fur das Fernseher gemacht worden sind. - moze pouzivat internetove aplikacie
+- Video on Demand: videos kann zum der Fernsehrsendung passen und diese erganzen - video na temu vysielania ktore ho moze obohatit
+- jederzeit die Vorshacu eines Films anschauen - kedykolvek si pozriet ukazku filmu
+- wenn ein Film gefallt mir, ich kann ihn per Fernbediengung kaufen. - ak sa mi paci film, kupim si ho cez dialkove ovladanie(ovladac)
+- man kann die verpasste Sendungen spater anschauen, ohne dass man sie zuvor auf dem DVD-rekorder oder Video-Rekorder aufgezeichnet hat. - mozes si pozriet zmeskany film bez toho aby si ho nahral
+- auch ist es moglich, ein Fusballspiel oder ein Spielfilm im Pay-TV direkt uber den fernseher zu bezahlen. - mozeme si zapas alebo sporotvu hru cez pay-tv predplatit
+
+# iPod
+- Walkman der neuzeit - novodoby walkman
+- mit USB-Kabel an den PC oder Mac anschliesen. - pripojit ku pc alebo mac
+- mit Itunes kann man ihn mit music fullen - s itunes ho naplnime hudbou
+
+# iPad
+- ein Tablet - PC, ein flacher Computer, der nur aus einem Bildschrim besteht.
+- mit dem Finger direkt auf einem flachen Bildschrim tippen - mozeme s prstom pisat priamo na obrazovku
+- navigation nicht mehr mit eine Maus, oder mit Finger direkt auf den Bildschrim. - uz sa nanvaiguje misou, ale prstom priamo po obrazovke
+- Touchscreen
+- man braucht keine Tastatur, eine Tastatur wird direkt afu dem Bildschrim, sobald man etwa eine E-Mail schreiben will. - nema klavesnicu, klavesnica je priamo na obrazovke aby sme mohli napriklad pisat mail
+- typische office-Tatigkeiten kann man auch erledigen: texts schreiben, kalender verwal;ten oder Presentationen erstellen - mozeme vykonavat typicke kancelarske ukony, pisat texty, sprava kalendara a vytvaranie prezentacii
+
+# E-BookReader
+- ein tragbares Lesegerat fur elektronishc gespeicerte Buchinhalte - prenosna citacka pre elektronicky ulozeny obash knih
+- eines Kleines Gerat, gorser als ein Handy, kleiner als ein Laptop und darauf passen tasusende Bucher
+- es soll so gut lesbar sein wie ectes Paier und die Akkus halten ewig - mal by byt rovnako citatelny ako papier a baterie vydrzia vecne
+- zum Beispiel in der prallen Sonne - naprlikad funguje aj na paliacom slnku

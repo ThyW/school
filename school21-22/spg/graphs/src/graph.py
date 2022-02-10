@@ -141,13 +141,17 @@ class Graph:
                 end = each
             heappush(heap, each)
 
+
         while heap:
             for node_tuple in heap[0].neighbours:
+                print(f"{node_tuple[0].weight} > {node_tuple[1] + heap[0].weight}")
                 if node_tuple[0].weight > node_tuple[1] + heap[0].weight:
                     node_tuple[0].weight = node_tuple[1] + heap[0].weight
                     node_tuple[0].previous = heap[0]
+                    print(f" from {start_id} to {finish_id} previous: {heap[0].id}")
+
             heappop(heap)
-        
+
         if end:
             print(end.weight)
         self.draw_path(finish_id, canvas)

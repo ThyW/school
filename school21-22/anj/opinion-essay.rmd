@@ -1,0 +1,6 @@
+---
+title: Opinion Essay
+output: pdf_document
+---
+
+**The reason why** many people donate to charities is, they simply wish to help and they want to make the world a better place. But these days, many charities have lost touch with the people in need.

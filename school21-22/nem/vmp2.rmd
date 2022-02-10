@@ -12,7 +12,7 @@ output: pdf_document
 | arbeiten    | an | pracovať na |
 | aufhören   | mit | prestakť s |
 | beginnen | mit | začať s |
-| **beitragen** | zu | prispieť k |
+| beitragen | zu | prispieť k |
 | einladen   | zu | pozvať na |
 | sich erholen | von | zotaviť sa z |
 | sich erkundigen | nach | opýtať sa na (optýtať sa po)|
@@ -23,12 +23,12 @@ output: pdf_document
 | profitieren | von  | profitovať z |
 | suchen | nach  | hľadať niečo |
 | telefonieren | mit  | telefonovať s |
-| **sich verabschieden** | von  | rozlúčiť sa s |
+| sich verabschieden | von  | rozlúčiť sa s |
 | warnen | vor | varovať pred |
 | wohnen | bei | žiť s |
 | zwingen | zu | prinútiť |
 | sich verstehen | mit | vychádzať s |
-| **träumen** | von | snívať o |
+| träumen | von | snívať o |
 | anfangen | mit | začať s |
 | teilnehmen | an | zúčastniť sa |
 | --- | --- | --- |
@@ -42,28 +42,28 @@ output: pdf_document
 | Sloveso    | predlozka    | preklad    |
 |---------------- | --------------- | --------------- |
 | achten | auf | dávať pozor na |
-| **sich aufregen** | über | nadchnúť sa nad |
-| **sich bewerben** | um | podať si prihlášku |
+| sich aufregen | über | nadchnúť sa nad |
+| sich bewerben | um | podať si prihlášku |
 | bitten | um | opýtať sa na |
 | danken | für | prosiť o niečo |
 | denken | an | rozmýšľať o |
 | diskutieren | über | diskutovať o |
 | einladen | in | pozvať dnu |
-| **sich entscheiden** | für | rozhodnúť sa pre |
+| sich entscheiden | für | rozhodnúť sa pre |
 | sich entschuldigen | für | ospravedlniť sa za |
-| **ersetzen** | durch | nahradiť za |
-| **erzählen** | über  | rozprávať sa o |
+| ersetzen | durch | nahradiť za |
+| erzählen | über  | rozprávať sa o |
 | grenzen | an | susediť s |
 | sich konzentrieren | auf | sústrediť sa na |
 | lachen | über | smiať sa z |
 | schreiben | an | napísať na |
 | sein | für / gegen | byť za / byť proti |
-| **streiten** | um | hádať sa o |
-| **sich unterhalten** | über | zabávať sa na |
-| **sich verlassen** | auf | spoliehať sa na |
-| **verzichten** | auf | zaobísť sa bez |
+| streiten | um | hádať sa o |
+| sich unterhalten | über | zabávať sa na |
+| sich verlassen | auf | spoliehať sa na |
+| verzichten | auf | zaobísť sa bez |
 | sich vorbereiten | auf | pripraviť sa na |
-| **sich begeistern** | für | nadchnúť sa pre |
+| sich begeistern | für | nadchnúť sa pre |
 | sich erinnern | an | spomenúť si |
 | nachdenken | über | premýšlať nad niečím |
 | sich ärgern | über | pohoršovať sa |
