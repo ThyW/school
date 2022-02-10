@@ -26,9 +26,9 @@ output: pdf_document
 	- narodený v Trstenej a zomiera v Pittsburgu
 	- 2. sv. vojna - narukoval ako vojenský farár
 	- 1945 - odchádza do emigrácie
-	    - Rím, Bueon Aires, Pittsburg(kláštor)
+	    - Rím, Buenos Aires, Pittsburg(kláštor)
 	- Mladý svadobník, Mesto s ružou, Honolulu, pieseň labute, Konvália
-	- Vala Reiszová, matka jeho dieťaťa
+	- Valéria Reiszová, matka jeho dieťaťa
 
 # Slovenský surrealizmus a nadrealizmus
 - v medzivojnovom období
@@ -44,3 +44,22 @@ output: pdf_document
     - prekladal z modernej francúzskej(Charles Baudelaier) a maďarskej(Endre Ady) poézie
 	- neskôr prekladá aj nemeckú, orientálnu, ruskú a anglickú literatúra
     - po 1948 upadol do nemilosti a ku poézii sa vracia až v polovici 60. rokov
+
+# Vitalizmus
+- Ján Smrek(vl. m. Ján Čietek)
+    - vojak v prevej svetovej vojne
+    - po vojne: 6 semestrov na evanjelicko-teologickej fakulte v Bratislave
+    - redaktor národných novín v Bratislave
+    - založil literárno-umelecký mesačník elán v Prahe
+- filozofický zdroj: filozofia elánu, vitality
+- básnici sa tešia z jednoduchých vecí, chcú v živote elán a radosť, lebo to je podľa nich to čo dodáva človeku energiu žiť
+
+# Avantgarda
+- Laco Novomestský
+- jedna z najvplyvnejších osobností literárnej skupiny DAV
+- SNP
+- rokovanie v Moskve a Londýne s E. Benešom
+- po 2. sv. vojne: povereník pre školstvo a osvetu, stál na čele Matice slovenskej a Spolku slovenských básnikov
+- 1951 uväznený a 1954 odsúdený v monster procese
+    - nezákonne odsúdený na 10 rokov
+    - 1955 prepustený a neskôr aj rehabilitovaný
