@@ -1,0 +1,46 @@
+---
+title: Slovenská medivojnová poézia
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+# Duchovná poézia
+- poézia, ktorá nemusí byť nutne náboženská, ale rieši tematiku vnútra a duše a ducha človeka
+- na slovensku: tradičné, nadväzuje na hviezdoslavovskú tradíciu aj noetikou aj poetikou
+- Predstavitelia: **Martin Rázus**
+    - básnik, prozaik, dramatik, publicista, politik, evanjelický kňaz
+    - **Mária Rázusová**
+    - študoval evanjelickú teológiu v Bratislave
+    - pôsobil v Modre a neskôr odišiel do Anglicka
+    - po návrate kaplán a farár v Modre, Pribyline
+
+# Katolícka moderna
+- nadväzuje na duchovné tradície, ale experimentuje
+- po 1948 sa odmietali prispôsobiť socialistickému režimu
+- noetika: duchovné a filozofické témy: o Bohu, Zmysle života a smrti, bolesti, slobode
+- berú báseň ako modlitbu, rozhovor s Bohom
+- na diela mal vplyv surrealizmus, poetizmus, symbolizmus
+- Predstavitelia:
+    - **Rudolf Dilong, Pavel Gašparovič Hlbina, Janko Silan, Pavol Ušák-Oliva, Svetoslav Veigl...**
+    - **Dilong**:
+	- narodený v Trstenej a zomiera v Pittsburgu
+	- 2. sv. vojna - narukoval ako vojenský farár
+	- 1945 - odchádza do emigrácie
+	    - Rím, Bueon Aires, Pittsburg(kláštor)
+	- Mladý svadobník, Mesto s ružou, Honolulu, pieseň labute, Konvália
+	- Vala Reiszová, matka jeho dieťaťa
+
+# Slovenský surrealizmus a nadrealizmus
+- v medzivojnovom období
+- od surrealizmu sa líši tým, že stále má nejakú formu intelektu a sujetu
+- zborníky - **Áno a nie**, **Sen a skutočnosť**, **Vo dne a v noci**
+- Silná sedma: **Rudolf Fabry, Štefan Žáry, Vladimír Reisel, Pavel Bunčák, Ján Rak, Ján Brezina, Július Lenko**
+- ich vydavatelia: **Mikuláš Bakoš, Michal Považan**
+
+# Neosymbolizmus
+- Emil Boleslav Lukáč - 1900 Hodruša-Hámre - 1979 - Bratislava
+    - básnik, evanjelický kňaz, prekladateľ a učiteľ
+    - predstaviteľ básnického neosymbolizmu
+    - prekladal z modernej francúzskej(Charles Baudelaier) a maďarskej(Endre Ady) poézie
+	- neskôr prekladá aj nemeckú, orientálnu, ruskú a anglickú literatúra
+    - po 1948 upadol do nemilosti a ku poézii sa vracia až v polovici 60. rokov
