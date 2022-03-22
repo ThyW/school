@@ -1,0 +1,84 @@
+---
+title: "Počítačové siete"
+author: "Kapko a Brežák"
+date: "`r Sys.Date()`"
+output: ioslides_presentation
+---
+
+# Internet
+- sieť sietí a verejne dostupných webových lokalít(websites)
+- TCP/IP
+- mail, blogging, online hudba, digitálne noviny, streamovanie videa a mnoho ďalších
+
+# Webstránky
+
+## Definícia
+- **webpage** = jeden hypertextový dokument
+- **web lokalita(website)** = viacero webstránok pospájaných odkazmi na seba
+    - typicky pod jednou doménou
+    - musí byť zverejnená na aspoň jednom webovom serveri
+
+## Zloženie
+- HTML
+- CSS
+- JavaScript, WebAssembly
+- obrázky, videá, multimédia...
+
+## Zobrazovanie a navigácia
+- URL
+- stiahnutie dát zo servera
+- zobrazenie v prehliadači
+- prehliadač pomáha s navigáciou(predošlá stránka, prejdi na inú lokalitu atď)
+
+## Statické vs Dynamické
+- statické = serveru stačí poslať jeden file, ktorý má uložený niekde na disku
+- dynamické = server musí tento file najprv vygenerovať
+    - šablóny
+    - získavanie dát napríklad z databázy alebo od užívateľa alebo nejako inak
+
+## Interaktívny obsah
+- najprv čisto text(html)
+- neskôr rôzne "plug ins"
+    - Adobe Flash Player, Adobe Shockwave Player...
+- JavaScript, WebAssemlby
+- WebGL
+
+## Ďalšie pojmy
+- WYSIWYG = what you see is what you get
+- CMS = content management system
+- host server = softvér, ktorý má na starosti odpovedanie na requesty od užívateľov a má im poskytovať webstránku na stiahnutie
+
+# Protokoly
+
+## Mail
+- POP3
+- SMTP
+- IMAP
+
+## POP3
+- prijímanie mailov
+- application layer
+- stiahnutie dát z mail servera ku klientovi a následné vymazanie dát zo servera
+- port 110
+- šifrovaná komunikácia: POP3 - STLS, POP3S - TLS/SSL, port 995
+
+## IMAP
+- prijímanie mailov
+- application layer
+- udržiava dáta na mailovom serveri a synchronizuje maily a priečinky medzi všetkým klientmi
+- port 143, SSL/TLS port 993
+
+## SMTP
+- posielanie mailov
+- klient pošle mail na server, server ho ďalej pošle na server prijímateľa odkiaľ si ho potom prijímateľ stiahne pomocou POP alebo IMAP
+- port 587 alebo 25
+- používa TLS, preto ak odosielanie zlyhá, dôjde nám ako klientom o tom správa
+
+## DHCP
+- protokol na automatické priraďovanie IP adries klientom v sieti
+- dosiahneme tým to, že nemusíme manuálne nastavovať každé nové zariadenie, ktoré sa pripojí do siete
+- klient-server štruktúra
+- DHCP funguje pre IPv4 adresy, DHCPv6 pre IPv6 adresy
+
+## DHCP komunikácia
+![](https://i.pinimg.com/originals/a1/b5/6f/a1b56f30e02aabe10ab3758bbdfd5b2c.jpg)
