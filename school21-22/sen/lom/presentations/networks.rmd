@@ -50,6 +50,11 @@ output: ioslides_presentation
 
 # Protokoly
 
+## TCP vs UDP
+- TCP(transmission control protocol): pošli data a počkaj, kým ti príde správa, že data boli prijaté
+- UDP(user datagram protocol): posielaj data a nič iné nezaujíma
+- spoľahlivosť vs čas
+
 ## Mail
 - POP3
 - SMTP
@@ -81,4 +86,65 @@ output: ioslides_presentation
 - DHCP funguje pre IPv4 adresy, DHCPv6 pre IPv6 adresy
 
 ## DHCP komunikácia
-![](https://i.pinimg.com/originals/a1/b5/6f/a1b56f30e02aabe10ab3758bbdfd5b2c.jpg)
+<img src="https://i.pinimg.com/originals/a1/b5/6f/a1b56f30e02aabe10ab3758bbdfd5b2c.jpg" width="800"/>
+
+## HTTP a HTTPS
+- hypertext transfer protocol(secure)
+- application layer
+- request response, klient urobí request na server, ten mu pošle HTTP response, kde môžu byť data, ktoré si klient vypýtal rovnako ako aj stav dokončenia(completion status)
+- primárne TCP môže však používať aj UDP(HTTPU)
+- HTTPS - šifruje správy, používa SSL
+
+## FTP a SFTP
+- file transfer protocol
+- server-klient model
+- rozličné kanály na kontrolné správy a tok dát
+- porty 20 a 21
+- TCP
+- SFTP - rozšírenie SSH protokolu, dovoluje nám sťahovanie a management súborov po šifrovanom sieťovom kanáli
+
+## NAT
+- network address translation
+- mapovanie súkromných IP adries na verejne IP adresy
+- mení IP hlavičky
+- ![obrázok](~/Downloads/NAT_Concept-en.svg)
+
+## IPv6
+- najnovšia verzia IP
+- IPv6 adresy majú 16 bytov, o 12 viac ako IPv4
+- nikto ho nepoužíva `:^(`
+
+# OSI Model
+
+## Diagram
+<img src="http://3.bp.blogspot.com/-5swPB9xcxfg/VIiAnVbe4NI/AAAAAAAANRs/lpGBkKiNeRE/s1600/1-tutorial-osi-7-layer-model.gif" width="600" height="400"/>
+
+# DNS, URL a domény
+
+## DNS - domanin name resolution
+- prekladanie URLs na IP adresy 
+
+## URL - uniform resource locator
+- `https://google.com` -> protokol(https), domain name(google), domain suffix(.com)
+
+## Domény
+- TLDs - top level domains - `com, edu, net, org, sk, eu`...
+- second level domains - `google, gjh`
+- third level domains - `turing`
+
+# Topológia
+- prosím upriamte svoju pozornosť na pána Brežáka a tabulu, ďakujem :)
+
+# Hardvérové zariadenia
+
+## Switch
+<img src="https://www.bhphotovideo.com/images/images2500x2500/cisco_sg110d_08_na_sg110d_08_110_series_8_port_1204485.jpg" width="600" height="400"/>
+
+## Router
+<img src="http://img.hexus.net/ryan/images/reviews/networking/asus/rt-ac87u/7b.jpg" width="600" height="auto"/>
+
+## Hub
+<img src="https://jjbypc.com.au/160-thickbox_default/usb-20-ethernet-networking-print-server.jpg" width="500"/>
+
+## Káble
+<img src="https://imgaz.staticbg.com/thumb/large/oaupload/ser1/banggood/images/D2/39/cab8f662-1c1f-4cd7-8c7a-909f6dbd1ed6.jpg" width="600" height="500"/>
