@@ -1,0 +1,31 @@
+---
+title: Sovenská medzivojnová literatúra
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+# próza medzi vojnami
+- vplyv zo západu
+- staršia
+    - Kukučín, Tajovský, Timravá
+- stredná
+    - Rázus, Krčméry, Hrušovsý
+- mladá
+
+## umelecké smery
+
+### realizmus
+- naturalistický
+- sociálno psychologický
+- socialistický
+
+### lyrizovaná próza
+- ornamentálna - vplyv francúzskeho regionalizmu
+- lyricky tvarovaná - senzualistická, expresionistická
+- próza literárneho naturizmu - rozprávkovo epický princíp, tematika dediny
+
+- synestézia: metafora vyvolávajúca zmyslového ovládnutia?
+
+### Švantner
+- Malka
+- Schopenhauerova filozofia -> *Svet ako predstava*
