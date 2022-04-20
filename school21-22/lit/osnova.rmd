@@ -1,0 +1,12 @@
+---
+title: Osnova
+date: `r Sys.Date()`
+output: pdf_document
+---
+
+# Dadaizmus a surrealizmus
+1. naturálne pokračovanie od literárnej moderny, veci sú ešte viac individuálne a riešia ešte viac abstraktné veci
+2. poukázanie na teórie Siegmunda Freuda
+    - podvedomie
+    - túžby, id, ego, superego
+3. individualizmus, boj proti propagande -> poukazuje na to, že logika môže byť nemorálna, použitie ako kritika

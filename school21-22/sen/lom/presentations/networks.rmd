@@ -6,6 +6,8 @@ output: ioslides_presentation
 ---
 
 # Internet
+
+## Internet
 - sieť sietí a verejne dostupných webových lokalít(websites)
 - TCP/IP
 - mail, blogging, online hudba, digitálne noviny, streamovanie videa a mnoho ďalších
@@ -40,8 +42,8 @@ output: ioslides_presentation
 - najprv čisto text(html)
 - neskôr rôzne "plug ins"
     - Adobe Flash Player, Adobe Shockwave Player...
-- JavaScript, WebAssemlby
-- WebGL
+- JavaScript, WebAssembly
+- WebGL, WebGPU
 
 ## Ďalšie pojmy
 - WYSIWYG = what you see is what you get
