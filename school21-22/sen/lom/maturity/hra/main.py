@@ -1,11 +1,9 @@
 import tkinter
 import random
 
-N = 5
-
 tk = tkinter.Tk()
 canvas = tkinter.Canvas(tk, width=800, height=600)
-canvas.pack()
+
 
 class Obj:
     id = 0
@@ -19,8 +17,10 @@ class Obj:
         self.id = Obj.id
 
     def collision(self, o: "Obj"):
-        if ((self.x + self.rad) >= o.x and (self.x + self.rad) <= (o.x + o.rad))\
-            or ((self.y + self.rad) >= o.y and (self.y + self.rad) <= (o.y + o.rad)):
+        if (self.x + self.rad >= o.x
+                and self.x <= o.x + o.rad
+                and self.y + self.rad >= o.y
+                and self.y <= o.y + o.rad):
                 return True
         return False
 
@@ -30,18 +30,21 @@ class Obj:
                 self.y -= 3
             if self.dir == 1:
                 self.x += 3
-            if self.dir == 0:
+            if self.dir == 2:
                 self.y += 3
-            if self.dir == 0:
+            if self.dir == 3:
                 self.x -= 3
 
     def draw(self, canvas):
         if not self.player:
-            canvas.delete("jedlo")
-            canvas.create_oval(self.x, self.y, self.x + self.rad, self.y + self.rad, fill="red", tag="jedlo")
+            canvas.delete(f"jedlo{self.id}")
+            canvas.create_oval(self.x, self.y, self.x + self.rad, self.y + self.rad, fill="red", tag=f"jedlo{self.id}")
             return
         canvas.delete("player")
         canvas.create_rectangle(self.x, self.y, self.x + self.rad, self.y + self.rad, fill="blue", tag="player")
+
+    def remove(self, canvas):
+        canvas.delete(f"jedlo{self.id}")
 
 def done(canvas):
     canvas.create_text(400, 300, text="winned")
@@ -50,9 +53,10 @@ def loop(canvas, objs, player):
     player.update()
     if not objs:
         done(canvas)
-    for obj in objs:
-        if player.collision(obj):
-            del obj
+    for i, obj in enumerate(objs):
+        if obj and player.collision(obj):
+            obj.remove(canvas)
+            del objs[i]
 
     for obj in objs:
         obj.draw(canvas)
@@ -63,20 +67,27 @@ objs = []
 for _ in range(5):
     objs.append(Obj(x=random.randint(1, 500), y=random.randint(1, 500)))
 player = Obj(player=True)
-loop(canvas, objs, player)
 
-def up():
+def up(event):
+    print(event)
     player.dir = 0
-def down():
+def down(event):
+    print(event)
     player.dir = 2
-def left():
+def left(event):
+    print(event)
     player.dir = 3
-def right():
+def right(event):
+    print(event)
     player.dir = 1
 
-canvas.bind("W", up)
-canvas.bind("S", down)
-canvas.bind("A", right)
-canvas.bind("D", left)
+
+tk.bind("<Up>", up)
+tk.bind("<Down>", down)
+tk.bind("<Left>", left)
+tk.bind("<Right>", right)
+
+loop(canvas, objs, player)
+canvas.pack()
 
 canvas.mainloop()
