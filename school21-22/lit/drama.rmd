@@ -1,0 +1,26 @@
+---
+title: Dráma
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+- trojjednota
+    - miesto, čas, i?
+
+- 6 zložiek
+    - dej; chór?; myšlienky; hudba; s?; s-ný j?; **finish this**
+
+- kompozícia => expozícia, kolízia, kríza, peripetia, katastrofa => katarzia
+
+## Úvod
+- prečo vznikla? (sofisti -> otázka etiky)
+    - dionýzie, náboženstvo(chór)
+    - prehľad -> tragédia, komédia, veselohra
+
+## Jadro
+- význam alebo prínos -> v čom ja vidím význam a prínos
+1. kritické myslenie a na čom to viem dokázať, ukázať
+2. nemorálne činy -> tragédia nášho bytia
+3. témy -> Hamlet, (ego, superego, id) - prepojenie s Freudom
+    - superego(morálka, spoločnosť, tradície) -> je syn(princ), mal by pomstiť svojho otca
+    - id(podvedomie, zobrazenie túžob) - túžba po Ofélií, chcem normálny život
