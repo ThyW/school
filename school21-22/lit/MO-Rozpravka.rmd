@@ -1,0 +1,143 @@
+---
+title: "Maturitná otázka č. 4 - ROZPRÁVKA a jej uplatnenie v PRÓZE"
+date: "`r Sys.Date()`"
+output: pdf_document
+urlcolor: blue
+---
+
+# 4. ROZPRÁVKA a jej uplatnenie v PRÓZE (okrem naturizmu).
+Definície pojmov: literárne druhy podľa obsahu a formy, žánre prózy, definícia poviedky, novely, románu, rozprávky, ich význam a prínos. Hybridizácia žánrov. Diela: A. P. Čechov - Repka, H. Ch. Andersen - Statočný cínový vojačik, Dušan Dušek - Poloha pri srdci, 
+
+## Literárne druhy
+- vlastnosti, ktoré sú spoločné pre istú skupinu literárnych diel [2]
+
+### Podľa obsahu
+
+#### Epika [1], [2], [3]:
+- z gréckeho slova *epikos*(dejový, vyrozprávaný), ktoré pochádza zo slova *epos*(slovo, rozprávanie)
+- má **dej**, **postavy**, **udalosti** a **priestory**(rôzne miesta, kde sa dej a udalosti odohrávajú)
+- *sled udalostí* tvorí **dej**
+- väčšinou sa **píše v próze**, môže však mať aj **veršovanú podobu**
+- rozlišujeme tri druhy: **veľká**(epos, román), **stredná**(novela, humoreska, poviedka), **krátka**(báj, rozprávka, legenda, povesť, vtip)
+- **znaky**:
+    - objektívnosť
+    - *sujetovosť(dejovosť)*
+    - naratívnosť
+    - hovorovosť
+    - minulý čas(ale môžu byť písané aj v budúcom, či minulom čase: **historický prézent**)
+    - dynamické motívy,
+    - dialogickosť a rozprávanie
+
+#### Lyrika [4], [5], [6]:
+- z gréčtiny *lyrika mele*(lýrou sprevádzané verše)
+- nemá *dej*, vyjadruje *pocity*, *nálady*, *dojmy* a *myšlienky* autora, text je vyjadrovaný básnickými prostriedkami [5]
+- **znaky**:
+    - subjektívnosť
+    - lyrický subjekt - vypovedá za autora
+    - emocionálnosť
+    - metaforickosť
+    - *gnómický čas* - nevymedzený a neobmedzený čas
+    - monologickosť
+    - statické motívy - sú nemenné
+    - viazaná forma reči, verš
+- **rozdelenie**
+    - **podľa prístupu autora ku téme**:
+	1. náladová(impresívna) - citové rozpoloženie lyrického hrdinu
+	2. opisná(deskriptívna) - opis javov a udalostí očami lyrického subjektu
+	3. úvahová(reflexívna) - úvaha nad problémom, či javom
+    - **podľa tematiky**:
+	1. intímna - city, pocity, vnútorný svet lyrického subjektu - témy: *láska*, *radosť*, *smútok*
+	    - môžeme ďalej členiť na **ľúbostnú** a **rodinnú**
+	1. prírodná - pocity, city, myšlienky, ktoré vznikli pod vplyvom prírody
+	1. spoločenská - pocity, city, myšlienky vyvolané spoločenskými príčinami
+- (v zdrojoch [5] a [6] sú aj presné žánre, tie som sem však už nedával)
+
+#### Dráma [8], [9], [10], [11], [12]
+- z gréčtiny *draó* - činiť, konať; vznik v starovekom Grécku, oslavy boha Dionýza, Sofokles
+- v širšom význame je dráma vnímaná ako literárny druh, v užšom význame je to samostatný dramatický žáner
+- **znaky a vlastnosti**:
+    - dialogickosť
+    - písaný vo veršoch alebo ako próza
+    - sujetovosť - usporiadanie dejových zložiek v diele
+    - dejovosť
+    - prítomný čas
+    - dianie/akčnosť
+    - hovorovosť/obraznosť
+- **kompozícia**:
+    - expozícia, kolízia, kríza, peripetia, katastrofa
+
+### Podľa formy
+- ***poézia***: písaná veršovanou formou, báseň, rým, refrén...
+- ***próza***: bežná forma písaného textu
+- ***dráma***: divadelná hra
+
+## Žánre prózy
+- román, novela, poviedka, rozprávka, esej, báj, mýtus
+
+## Román [7], [13]
+- rozsiahle epické dielo s jednou hlavnou a viacerými vedľajšími postavami
+- presná definícia neexistuje: "Je to text obsahujúci viac ako 50 000 slov?"; "Čo je potom 5-minútový román?"
+- **M. M. Bachtinová(ruský teoretik) definícia**:
+    - veľa podobných znakov s eposom
+    - je determinovaný skúsenosťami a poznaním
+    - sujetový, dynamický, problémový, prozaický
+    - **znaky**: nepoetickosť; nehrdinskosť, postava sa formuje; preberá funkciu eposu z antiky
+- chronotrop - spleť času a priestoru, časopriestor
+
+## Novela [7]
+- prozaický útvar najčastejšie stredného rozsahu
+- potláča:
+    - epizodicé, digresívne a opisné prvky
+- sústredí sa na jednu udalosť, ktorá v dramatickom spáde speje ku svojmu ukončeniu
+- sústredí sa na jeden dejový motív, ktorý spracúva v užšom časovom úseku
+- má nečakanú pointu
+- "novelu definuje kategória zvláštneho" - whatever that means?
+- rýchly a dramatický spád
+- jedna až tri hlavné postavy
+
+## Poviedka [7]
+- rozsahom podobná novele
+- lineárne rozprávanie, menej zložitá fabula
+- nemá výraznejší dramatický spád
+- postava je spravidla obyčajný človek
+- rozprávačská stručnosť + jednoduchá fabula = vhodná na experimenty
+
+## Rozprávka [14], [15]
+TODO: satira, postmoderna, lyrizovaná próza, ešte to nebolo prejdené
+
+- krátky prozaický, občas veršovaný útvar
+- vymyslený príbeh, ktorého cieľom je poučenie alebo pobavenie
+- **delenie podla autorstva**:
+    - ľudové - najstaršie a najrozšírenejšie formy ústnej slovesnosti, rozmanitý obsah v závislosti s dobou a spôsobom života
+    - autorské
+- odrážanie svojho spôsobu života, vzťahov, dobra a zla, lásky a nenávisti vo fiktívnom či fantastickom príbehu, **satiricky** či **humorne**
+- hrdina prekoná útlak, dobrosrdečnosťou a mravnosťou víťazí nad zlom(drak, úklady ľudí, obor atď)
+- známi autori a zberatelia:
+    - **slovenskí**: Pavol Dobšínsky, Ľubomír Feldek
+    - **českí**: Karel Čápek, Karel Jaromír Erben, Božena Němcová
+    - **svetoví**: Hans Christian Andersen, Bratia Grimmovci, Lewis Carroll, Antoine de Saint-Exupéry
+
+## Diela
+- Dušan Dušek - Poloha pri Srdci, zo zbierky Poloha pri srdci
+- H. C. Andersne - [Statočný cínový vojačik](https://www.alinka.sk/statocny-cinovy-vojacik/)
+- A. P. Čechov - [Repka](https://drive.google.com/file/d/1GG0lrZ2dx7xtZg2npwaPfeoHVhXJEzJP/view)
+
+## Prínosy
+- ľudová rozprávka - obraz mysle človeka v minulosti
+- TODO: Dodať ďalšie po prejdení učiva a prezentácie na hodine
+
+[1]: https://sk.wikipedia.org/wiki/Epika
+[2]: https://oskole.detiamy.sk/clanok/epika-literarny-druh-i
+[3]: https://oskole.detiamy.sk/clanok/epika-literarny-druh-ii
+[4]: https://sk.wikipedia.org/wiki/Lyrika
+[5]: https://oskole.detiamy.sk/clanok/lyrika-literarny-druh-i
+[6]: https://oskole.detiamy.sk/clanok/lyrika-literarny-druh-ii
+[7]: https://drive.google.com/file/d/1CmU03GntJpnbBGWpGJJMwb7cbIKI997U/view
+[8]: https://oskole.detiamy.sk/clanok/drama-literarny-druh
+[9]: https://oskole.detiamy.sk/clanok/drama-literarny-druh-1
+[10]: https://sk.wikipedia.org/wiki/Dr%C3%A1ma
+[11]: https://drive.google.com/file/d/1YBBCfwRzRX06RbS9b2_aXXVZ-G6e7wkH/view
+[12]: https://drive.google.com/file/d/1cBksmwVlhkDH5obaQo-2q9KFI7kpsxhQ/view
+[13]: https://drive.google.com/file/d/1TOWJXTN-YEZpcb9mZCOdkirDj9JQErjK/view
+[14]: https://sk.wikipedia.org/wiki/Rozpr%C3%A1vka
+[15]: https://drive.google.com/file/d/1eDTd0Slv_t5JNzLBsYihPpaLESDzIOwC/view
