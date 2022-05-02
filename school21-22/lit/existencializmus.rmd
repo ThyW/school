@@ -1,0 +1,50 @@
+---
+title: Existencializmus
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+# Definícia
+- filozofický a literárny smer 20. storočia
+- reakcia na situáciu po 1. sv. vojne a na skúsenosť z 2. svetovej vojny
+- kladenie si otázky podstate ľudskej existencie
+- **J. P. Sartra(1905 - 1980)**, no základy sú aj v prácach **S. A. Kierkegaarda(19 st)**
+
+## Kierkegaard
+- "musím myslieť aby som mohol existovať, musím existovať aby som mohol myslieť"
+- **3 etapy/štádia vývoja**
+    - *estetické* - **zmyslová existencia** - páči sa mi, preto to chcem, nemá svoje ja, nerealizuje sám seba
+    - *etické* - **buď - alebo** - uvedomujem si samého seba, začínam sám seba realizovať
+    - *náboženské* - principiálne, človek popiera svoje ja v mene vyšších princípov, hodnôt (sem sa dostane len málo ľudí)
+- **racionalita - nadja = morálka** -> ja <- **ono - iracionalita**
+
+## J. P. Sartre
+- Múr - zbierka
+- filozof, spisovateľ
+- hlavný predstaviteľ existencializmu
+
+### Pojmy
+1. **bytie** - **existencia nemá zmysel** pri našom narodení, lebo sme *bytiu zmysel ešte nedali*
+2. **sloboda, rozhodovanie** - *človek je na slobodu odsúdený*, človek sa musí rozhodovať a to je ťažké, **nie je privilégium, ale príťaž** 
+3. **smrť** - **koniec existencie**, strach zo smrti oslabuje človeka, 
+4. **strach** - *strach je najsilnejšia emócia, najlepšie ovláda ľudí*
+5. **absurdita** - celý život môžem nejako žiť a potom dôjde strach a poškvrní si celé bytie, **strach zakalí život, život už nie je rovnaký**
+6. **zodpovednosť** - za svoje činy berie človek zodpovednosť
+
+## Albert Camus
+- Alžír
+- filozof, spisovateľ, existencialista
+- za druhej svetovej vojny bol redaktorom, potom bol šéfredaktor časopisu *Combat* v Paríži
+- filozofický román *Cudzinec*
+- **Camusovská ľahostajnosť** - som ľahostajný voči tomu, čo nemôžeme zmeniť
+
+## Existenciálna dráma
+- **J. P. Sartre**
+    - Muchy
+    - V vylúčením verejnosti
+    - Diabol a Pán Boh
+
+### Ivan Bukovčan
+- *Pštrosí večierok*
+- *Kým kohút nezaspieva*
+- *Zažeň vlka*
