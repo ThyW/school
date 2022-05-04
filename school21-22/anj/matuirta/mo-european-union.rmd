@@ -1,0 +1,27 @@
+---
+title: Slovakia in European Union
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+# EU membership for Slovakia
+- "landmark moment" in Slovakia's history
+- **joined in 2004**
+    - integration process which spanned for 10 years
+    - free movement of goods, services, capital and people
+    - opportunity to work, run a business and travel to/in another EU member state
+    - exports to EU member states saw a significant increase
+- **business opportunities**
+    - foreign investment
+    - 90% of foreign direct investment is from other EU member states
+    - Slovak laws changed in accordance to European rules
+- **Schengen Area - 2007**
+    - simplifies the cross border movement
+    - participation in the Common Foreign and Security policy -> strengthen the country's position in international politics
+- **2009 - adoption of euro**
+    - enhancement in the stability of the national currency and in long term investments
+- **Union decision making**
+    - engagement in the Union's decision making
+    - Slovakia transferred some decision making powers in trade and agricultural policies
+- **programmes** 
+    - Comenius, Erasmus+, Socrates
