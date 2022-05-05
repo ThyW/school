@@ -41,7 +41,7 @@ output: pdf_document
 ## Existenciálna dráma
 - **J. P. Sartre**
     - Muchy
-    - V vylúčením verejnosti
+    - S vylúčením verejnosti
     - Diabol a Pán Boh
 
 ### Ivan Bukovčan
@@ -56,4 +56,14 @@ output: pdf_document
 - **kompozícia**:
     - dej sa odohráva v pivnici -> **bez vôle dôjdeme na svet; v živote sa musíme rozhodovať; bez našej vôle odchádzame** 
     - strach zo smrti, zlé, nepríjemné pocity
+    - 8 + 5 + 1 + 1 + 1
 - **scénické poznámky + charakterové poznámky**
+- **10 postáv**
+    - celok, model celej spoločnosti
+    - + *Fischl* + *Major*
+- **3 vstupy Fischl-a**
+    1. Zomriete všetci -> sú spolu
+    2. Zomrie len jeden -> všetci sú proti sebe
+- **nájdenie kľúča**
+- **kategorický imperatív**
+    - konaj tak aby sa tvoj čin mohol stať univerzálnym morálnym zákonom, až potom je vhodné ho naozaj aj vykonať
