@@ -48,3 +48,12 @@ output: pdf_document
 - *Pštrosí večierok*
 - *Kým kohút nezaspieva*
 - *Zažeň vlka*
+
+### Ján Johannides
+- *Dívaj sa do modrých očí Londýna*
+
+#### Kým kohút nezaspieva
+- **kompozícia**:
+    - dej sa odohráva v pivnici -> **bez vôle dôjdeme na svet; v živote sa musíme rozhodovať; bez našej vôle odchádzame** 
+    - strach zo smrti, zlé, nepríjemné pocity
+- **scénické poznámky + charakterové poznámky**
