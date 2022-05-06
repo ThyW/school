@@ -67,3 +67,14 @@ output: pdf_document
 - **nájdenie kľúča**
 - **kategorický imperatív**
     - konaj tak aby sa tvoj čin mohol stať univerzálnym morálnym zákonom, až potom je vhodné ho naozaj aj vykonať
+
+## Príprava maturitnej otázky
+- **úvod** 
+    - autori?
+    - témy, otázky ktoré nám prináša
+- **jadro**
+    1. zmysel života - vychádzam z Kierkegaarda, dielo Cudzinec
+    2. zodpovednosť - rozhodnutia, ktoré robíme majú váhu
+    3. absurdita života - dielo Múr
+    4. sloboda - slobodné rozhodovanie
+    5. prínos v literatúre 20. storočia
