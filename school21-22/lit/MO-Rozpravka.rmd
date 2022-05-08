@@ -24,7 +24,7 @@ Definície pojmov: literárne druhy podľa obsahu a formy, žánre prózy, defin
     - *sujetovosť(dejovosť)*
     - naratívnosť
     - hovorovosť
-    - minulý čas(ale môžu byť písané aj v budúcom, či minulom čase: **historický prézent**)
+    - minulý čas(ale môžu byť písané aj v budúcom, či prítomnom: **historický prézent**)
     - dynamické motívy,
     - dialogickosť a rozprávanie
 
