@@ -25,3 +25,7 @@ output: pdf_document
     - Slovakia transferred some decision making powers in trade and agricultural policies
 - **programmes** 
     - Comenius, Erasmus+, Socrates
+- **EU funds**
+    - 2007 - 2013 3.2 billion eur allocated for the Transport project
+    - highways, motorways, railway modernisation
+    - ensuring that the funds are absorbed more effectively is a central challenge for Slovakia

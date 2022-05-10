@@ -1,0 +1,23 @@
+---
+title: English speaking countries - roleplay
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+# UK places
+- **Norwich, Norfolk**
+    - 31 surviving medieval churches
+    - old architecture - dating back to the 12th century
+    - annual arts festival - every May
+    - Adam and Eve pub which goes back to the year 1249
+    - fun fact: *A fine City* - roadside sign
+- **Hadrian's wall, Northumberland**
+    - northern border of the Roman empire
+    - stretches from one side of England to the other, rising and falling across multiple steep hills
+    - 135 kilometer national trail
+- **Stonehenge** 
+- **London** 
+    - *Tower of London*
+      - former prison
+      - Jewel House - displays the royal crown jewels
+      - fascinating armor and weaponry on display
