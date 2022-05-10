@@ -1,0 +1,65 @@
+---
+title: "Dráma 20. storočia"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+# Anglická dráma
+
+## George Brendan Shaw
+
+## Epické divadlo
+- Bertolt Brecht
+- vznik ako **reakcia na antické divadlo**
+    - s niečím *súhlasí* a preberá, niečo **kritizuje**
+- kritizuje vciťovanie sa - mimézis
+- **divák nesmie stratiť odstup od divadla, emócie sú nebezpečné**
+- *divák má ostať kritický*
+- digresie - **odbočky**
+- prerušenia - keď sa dejú *emócie*
+    - úvahy, vysvetlenia, viac stranné pohľady, **výstupy autora**
+- atomizácia deja
+    - piesne, názorné ukážky...
+- **herec**
+    - odcudzenie - nesmie sa plne premeniť na postavu
+    - nehrá rolu, je len referent
+    - racionálne poznanie nezabíja city -> **dodáva im kvalitu**
+- **technické prostriedky** 
+    - nemá byť tma
+    - vysoký jas reflektorov
+    - scéna má byť *neznaková*
+    - má byť odstránená *štvrtá stena*
+- **radosť z myslenia**; **divák má uvažovať o etických otázkach**
+- **má sa menej moralizovať a viac študovať a vychovávať**
+
+### Matka Guráž a jej deti
+- odpoveď na obsadenie Poľska
+- **Anna Fierlingová** - hlavná postava
+    - zarába a žije(zarába) z vojny
+    - vojna jej však berie deti
+
+## niekto
+- dráma **Fyzici**
+    - Mobius, Einstein, Newton
+    - **objav nás môže zničiť**
+    - dajú sa zavrieť na psychiatriu
+    - hlavná sestra na psychiatrií je šialená
+
+# Francúzska dráma
+
+## Absurdné divadlo
+- vznik po 2 sv vojne
+- do 19. storočia -> **imitácia, napodobňovanie**
+- po tom -> **seba vyjadrenie, individualizmus**
+- anti-dráma -> nie príbeh ale **obraz**
+- chýba rozuzlenie alebo zápletka?
+- absurdné divadlo je len obraz
+- **popieranie morálky a spoločenských hodnôt**
+- **neurčitý čas**
+- opakovanie situácií
+
+## Postmoderný román
+- výsledok skepsy -> je človek poučiteľný?
+- anti-román -> román sa stáva **obrazom**
+    - nemá čas
+    - obraz nám niečo povie
