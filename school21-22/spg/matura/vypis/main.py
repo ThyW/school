@@ -47,7 +47,7 @@ def vypis(file: str, width: int, do: bool = True, word: str = '') -> None:
             for l in lens:
                 if sum + l == width:
                     index += 1
-                    line_words = [words.pop(0) for _ in range(index) ]
+                    line_words = [words.pop(0) for _ in range(index) if words]
                     line = ""
                     for ii, word in enumerate(line_words):
                         if ii == 0:
@@ -55,11 +55,11 @@ def vypis(file: str, width: int, do: bool = True, word: str = '') -> None:
                         else:
                             line += f" {word}"
                     sum = 0
-                    index = 1
+                    index = 0
                     print(f"{line}")
                 elif sum + l > width:
                     sum -= 1
-                    line_words = [words.pop(0) for _ in range(index) ]
+                    line_words = [words.pop(0) for _ in range(index) if words]
                     given_spaces = len(line_words) - 1
                     spaces = width - sum
                     line = ""
@@ -99,4 +99,4 @@ def vypis(file: str, width: int, do: bool = True, word: str = '') -> None:
             print()
 
 
-vypis("input.txt", 20, True, "")
+vypis("input.txt", 30, True, "")
