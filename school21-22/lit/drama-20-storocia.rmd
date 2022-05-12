@@ -57,9 +57,35 @@ output: pdf_document
 - **popieranie morálky a spoločenských hodnôt**
 - **neurčitý čas**
 - opakovanie situácií
+- predstavitelia
+    - **Samuel Beckett** - Čakanie na Godota
+    - **Eugène Inoesco** - Stoličky, Plešivá speváčka
+    - **Friedrich Dürrenmatt** - Fyzici
+    - **Václav Havel** - Vyrozumnění, Audience, Odcházení
+    - **L + S** - Nečakanie a Godota, Soireé
+
+### Znaky
+- **postavy**:
+    - nevedia komunikovať
+    - monológy idú za sebou ale logicky nenadväzujú
+    - konanie postáv nekorešponduje s ich slovami
+    - sú osamelé
+    - konajú bezcieľne
+    - odcudzenie samého seba
+    - bez minulosti
 
 ## Postmoderný román
 - výsledok skepsy -> je človek poučiteľný?
 - anti-román -> román sa stáva **obrazom**
     - nemá čas
     - obraz nám niečo povie
+
+## Ludiwg Wittgenstein
+- najvplyvnejší filozof 20 storočia, Rakúšan, predstaviteľ viedenského krúžku
+- **výpoveď o objekte skúmania nie je výpoveďou o objekte, ale o mojich schopnostiach vypovedať** 
+- *je jazyk vhodný nástroj poznania?* 
+- **jazyková slučka** - vznikajú nejasným a nekorektným použitím jazyka -> vzniká **šum, nedorozumenie**
+- zmysluplná veta:
+    - presné pojmy
+    - logicky a gramaticky správne
+    - verifikovateľné
