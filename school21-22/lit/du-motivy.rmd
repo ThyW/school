@@ -1,0 +1,17 @@
+---
+title: "Motívy drámy"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+# 10 motívov drámy
+1. Lakomstvo - Lakomec
+2. Nemorálny čin - Hamlet, Antigona
+3. Hrdinstvo - El Cid
+4. Skazená vláda - Revízor
+5. Vojna - El Cid, Matka Guráž a jej deti
+6. Pomsta - Hamlet, El Cid
+7. Láska - Hamlet, El Cid, Rómeo a Júlia
+8. Politika - Hamlet, Antigona, Dobrodružstvo na Obžinkoch
+9. Smrť - Hamlet, El Cid, Macbeth, Antigona
+10. Poznanie, veda - Fyzici, Faust

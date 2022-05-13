@@ -1,0 +1,10 @@
+---
+title: "slovenská literatúra po 2. sv vojne"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+# slovenská literatúra po roku 1945
+- vydavateľstvo EMSA - Ján Smrek
+- Gejza Vámoš
+- veľa autorov spolupracuje s / je fašistami
